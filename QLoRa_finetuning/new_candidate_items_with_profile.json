@@ -1,0 +1,885 @@
+[
+    {
+        "User_ID": "AFQQQ5LGNSQUEBGDCYBAZZE5T3DA",
+        "User_Profile": "\"Short-Term Interests\": The user recently reviewed products focused on facial skincare, specifically creams and serums targeting anti-aging concerns such as fine lines, wrinkles, and dehydration. They showed interest in natural and organic ingredients, vegan-friendly options, and cruelty-free practices. Their preference leans towards face washes and moisturizers that cater to specific skin concerns like acne-prone, sensitive, and dry skin.\n\"Long-Term Preferences\": Based on the entirety of their reviews, some common denominators emerge:\n* Focus on natural ingredients, particularly plant-based extracts, essential oils, and herbal remedies\n* Concern for anti-aging and rejuvenation, seeking effective solutions for maintaining healthy-looking skin\n* Interest in sheet masks, especially those with unique features like eye patches and targeted application areas\n* Appreciation for moisturized and hydrated skin, often mentioning specific requirements like deep hydration and non-sticky textures\n* Willingness to explore various brands and products, demonstrating adaptability and open-mindedness\n\"User_Profile\": Our user appears to be someone who prioritizes natural and organic approaches to skincare while focusing on addressing specific skin concerns. They exhibit a willingness to experiment with diverse products and techniques to achieve optimal results. As they continue exploring the world of skincare, they may gravitate toward more niche markets, such as bespoke formulas tailored to individual skin types or advanced technology-driven treatments. For now, our recommendation would focus on recommending products featuring natural, sustainable, and innovative formulations catering to their varied skin needs, including hydration, anti-aging, and sensitivity management. A suggested next step could involve introducing them to emerging trends in customized skincare regimens and cutting-edge technologies for enhanced customer experience.",
+        "Candidate_Items": {
+            "1": "Nourishing Skin Serenity",
+            "2": "Botanical Beauty Discovery",
+            "3": "Hydrating Harmony Regimen",
+            "4": "Natural Radiance Revival",
+            "5": "Advanced Anti-Aging Adaptations"
+        }
+    },
+    {
+        "User_ID": "AEE4M36AZAKURLEYGV23TM3BE7OQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair care products focused on moisturizing and detangling, such as shampoos and conditioners with natural oils, hair towels, and convenient towelettes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Preference for moisturizing hair products that leave fine, shoulder-length hair shiny and bouncy without greasiness\n* Interest in products that help with detangling, reducing frizz, and minimizing static electricity\n* Appreciation for high-quality hair accessories like twist towels and soft hair towels\n* Values convenience items for on-the-go use, such as individually packaged towelettes\n* Preference for natural ingredients like coconut oil and avocado oil in hair care\n\"User_Profile\": The user appears to prioritize hair care and values products that enhance the health and appearance of their fine, shoulder-length hair. They seek moisturizing shampoos and conditioners that provide shine and manageability without weighing hair down. The user appreciates effective detangling solutions and products that combat frizz and static. They value quality hair accessories and convenient personal care items, showing a preference for natural ingredients in their hair care routine.",
+        "Candidate_Items": {
+            "1": "Anti-Frizz Hair Serums",
+            "2": "Leave-In Conditioners with Natural Oils",
+            "3": "Detangling Hair Brushes",
+            "4": "Travel-Friendly Dry Shampoos",
+            "5": "Silk Pillowcases for Hair Care"
+        }
+    },
+    {
+        "User_ID": "AEFRTLVCVRALKXBED77KHPIXEPWQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products suitable for sensitive skin, including face masks, headbands designed to relieve mask pressure, and lip balms with sun protection.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that soothe and hydrate sensitive skin without causing irritation\n* Preference for products that provide noticeable results, such as firmer or more hydrated skin\n* Appreciation for convenience and comfort in products, like headbands with buttons for mask straps\n* Values sun protection in lip care products without adverse reactions\n* Open to trying new skincare treatments, even if instructions are not in their native language\n\"User_Profile\": The user is focused on skincare solutions that cater to sensitive skin, seeking products that offer hydration, soothing effects, and anti-aging benefits without irritation. They value practicality and comfort in accessories that enhance their daily routines. The user is health-conscious, preferring products with sun protection, and appreciates items that deliver visible results.",
+        "Candidate_Items": {
+            "1": "Hypoallergenic Mascara for Sensitive Eyes",
+            "2": "SPF Lip Balms for Sensitive Lips",
+            "3": "Cooling Gel Eye Masks",
+            "4": "Gentle Facial Cleansers for Sensitive Skin",
+            "5": "Soft Makeup Brushes for Delicate Skin"
+        }
+    },
+    {
+        "User_ID": "AEFU6XKGH6J4ZIYTVVBGEDUCTZHQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with eye makeup products, particularly mascaras and magnetic eyelash kits, as well as hair brushes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in enhancing eye appearance through effective mascaras and false eyelashes\n* Appreciation for beauty products that save time, such as quick-drying magnetic eyeliners\n* Critical of products that do not perform better than standard or cheaper alternatives\n* Seeks quality in beauty tools, noting the firmness and comfort of hair brushes\n\"User_Profile\": The user values eye makeup products that provide noticeable enhancements and efficiency in their beauty routine. They are willing to invest in innovative products like magnetic eyelashes that offer convenience. The user is discerning about product performance and comfort, expecting beauty tools to be both effective and gentle.",
+        "Candidate_Items": {
+            "1": "Volumizing Mascara for Dramatic Lashes",
+            "2": "Eyelash Curlers with Ergonomic Design",
+            "3": "Gentle Detangling Hair Brushes",
+            "4": "Eye Makeup Remover for Sensitive Skin",
+            "5": "Hair Styling Accessories for Easy Updos"
+        }
+    },
+    {
+        "User_ID": "AEGKJTQWHGBIOTO34OB3GKIGCN7A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with natural skincare products, DIY beauty projects, and high-quality containers for homemade solutions.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in natural oils and skincare products that leave skin feeling soft and refreshed\n* Enjoyment of creating homemade lotions and sanitizers, valuing quality containers for storage\n* Appreciation for multi-purpose oils like argan oil for hair, skin, and nails\n* Critical of product pricing when not aligned with perceived value, even if quality is high\n* Values practicality and functionality in products, especially those used for DIY projects\n\"User_Profile\": The user is enthusiastic about natural beauty and wellness products, particularly those that can be used in multiple ways. They enjoy DIY beauty projects and seek high-quality materials and containers for their creations. The user is price-conscious, expecting products to offer good value for money. They appreciate natural ingredients and practical solutions that enhance their personal care routine.",
+        "Candidate_Items": {
+            "1": "Organic Jojoba Oil for Skin and Hair",
+            "2": "Reusable Glass Jars for DIY Skincare",
+            "3": "Natural Exfoliating Body Scrubs",
+            "4": "Essential Oil Starter Kits",
+            "5": "DIY Beauty Recipe Books"
+        }
+    },
+    {
+        "User_ID": "AEGTJSI4X2EZHAL5VWJV3RCJIO4A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beginner-friendly nail kits, decorative hair accessories, and grooming products for both men and women.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty products that are suitable for beginners, such as nail kits with accessories\n* Appreciation for aesthetically pleasing hair accessories that can also serve as jewelry\n* Concern about the effectiveness of grooming products, noting when products do not improve condition as expected\n* Values products that are budget-friendly yet high in quality and performance\n* Enjoys products that have visual appeal and add a touch of elegance to daily routines\n\"User_Profile\": The user is exploring personal grooming and beauty products, seeking items that are easy to use and provide good results without a steep learning curve. They appreciate attractive designs in functional items, such as hair ties that double as bracelets. The user is attentive to product performance, especially in grooming products like shampoos and conditioners. They value affordability and quality, making them likely to try new products that enhance their personal care routine.",
+        "Candidate_Items": {
+            "1": "Decorative Nail Art Stickers",
+            "2": "Beginner's Makeup Brush Sets",
+            "3": "Moisturizing Beard Oils",
+            "4": "Stylish Hair Clips and Barrettes",
+            "5": "At-Home Manicure Tools"
+        }
+    },
+    {
+        "User_ID": "AEBWGXGGL3Q5DSTMUQSTVUJDWSMA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with fragrances and hair care products specifically designed for blonde hair. She reviewed perfumes with unique and enchanting scents and a purple shampoo that enhances her highlighted blonde hair by removing unwanted yellow and orange tones.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in unique and sensual fragrances with notes like jasmine, vanilla, musk, cocoa, rum, and vetiver\n* Preference for hair care products that maintain and brighten blonde hair, preventing fade and boosting shine\n* Likes lightweight moisturizers that absorb quickly and have subtle scents\n* Appreciation for affordable alternatives to high-end beauty products\n\"User_Profile\": The user appears to value personal grooming and enjoys exploring new fragrances and beauty products that enhance her appearance. She is attentive to hair care, especially products that maintain her blonde highlights. She appreciates effective products with pleasant scents that offer good value. She is likely open to trying new beauty products that complement her existing routine, particularly those with appealing fragrances and benefits for her hair and skin.",
+        "Candidate_Items": {
+            "1": "Lightweight Scented Body Lotions",
+            "2": "Hair Serums for Color Protection",
+            "3": "Exfoliating Sugar Scrubs with Natural Oils",
+            "4": "Aromatherapy Shower Gels",
+            "5": "Scented Candles with Unique Fragrances"
+        }
+    },
+    {
+        "User_ID": "AEC6IZVI2NGFBCIYVD4X5MDGB6DQ_2",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with grooming tools and bath products. They reviewed moisturizing bath bombs with great aromas, nail files, a high-quality tweezer and scissors set, and bath petal balls.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in high-quality grooming tools that are effective and durable\n* Preference for bath products that provide pleasant aromas and moisturizing benefits\n* Value-conscious, appreciating products that offer good quality for the price\n* Critical of products that do not meet expectations or are misleading in presentation\n\"User_Profile\": The user values personal grooming and relaxation. They appreciate high-quality tools for personal care and enjoy bath products that enhance the bathing experience with pleasant scents and moisturizing effects. They are discerning shoppers who pay attention to product quality, effectiveness, and value for money. They may have an interest in hair care products that address specific needs, such as maintaining hair color or improving hair condition.",
+        "Candidate_Items": {
+            "1": "Moisturizing Body Lotions with Natural Ingredients",
+            "2": "Luxury Scented Bath Soaps",
+            "3": "High-Quality Manicure Sets",
+            "4": "Aromatherapy Essential Oil Diffusers",
+            "5": "Comfortable Bath Pillows for Tub Relaxation"
+        }
+    },
+    {
+        "User_ID": "AECADZLPUNH3BDNACLFF7PSHN5MQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with wigs, skincare masks, and at-home hair care products. She reviewed high-quality synthetic wigs that look incredible, skincare masks that make her face feel clean, and haircut kits for at-home use.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty and personal care products, including wigs, masks, and nail polishes\n* Enjoys experimenting with different looks using wigs and appreciates those that look realistic and are easy to manage\n* Values skincare products that contribute to relaxation and improve skin appearance\n* Prefers products that are complete and include all necessary components\n* Appreciates products that are good value and meet her expectations\n\"User_Profile\": The user enjoys experimenting with her appearance through wigs and beauty products. She values high-quality synthetic wigs that look natural and allow her to change her style. She appreciates skincare products that provide relaxation and improve her skin. She engages in proactive beauty routines, including at-home haircuts and DIY treatments. She prefers effective, complete products that offer good value.",
+        "Candidate_Items": {
+            "1": "Makeup Sets for Complete Looks",
+            "2": "Hair Styling Tools for Home Use",
+            "3": "Facial Steaming Devices",
+            "4": "Synthetic Wig Care Kits",
+            "5": "DIY Nail Art Accessories"
+        }
+    },
+    {
+        "User_ID": "AECIT3NMW6RKABFS6YOCYX4YUYOQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with gel nail polish sets and natural skincare products. They appreciate nail polish sets where each bottle has the color labeled on the cap for easy selection. They attempted to use coconut oil for skincare but were disappointed due to the product being refined.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in high-quality nail polish products with organizational features to simplify use\n* Preference for natural and effective skincare products, particularly those suitable for facial care\n* Values products that meet their intended purpose and are as described\n* Appreciates companies that offer quality products but is critical when products do not meet expectations\n\"User_Profile\": The user enjoys nail care and values convenience and organization in their beauty routine. They are interested in natural skincare products and are attentive to product details and effectiveness. They prefer high-quality products that meet their needs and have clear, accurate descriptions. They appreciate well-designed products for ease of use and are likely interested in natural, organic skincare products that align with their preferences.",
+        "Candidate_Items": {
+            "1": "Natural Face Oils with Unrefined Ingredients",
+            "2": "Nail Polish Organizers with Color Display",
+            "3": "Organic Skincare Sets",
+            "4": "Labeling Tools for Beauty Products",
+            "5": "Eco-Friendly Makeup Brushes"
+        }
+    },
+    {
+        "User_ID": "AECOPBDL3PHOESNB2RXKPZSXGBOA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with gel nail polish products, particularly a gel top coat that can be cured over regular nail polish for long-lasting results. They also showed interest in practical household items like amber glass spray bottles for homemade cleaners and automatic soap dispensers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail care products that enhance durability and appearance, appreciating innovations that simplify the process\n* Preference for practical and functional household items that aid in organization and cleanliness\n* Values products that work as advertised and meet practical needs, especially those that help manage messes with a young child at home\n* Attention to product quality and functionality, offering feedback on improvements\n\"User_Profile\": The user enjoys nail care and values products that improve the efficiency and results of at-home manicures. They are practical and appreciate household items that are functional and help maintain a clean environment, particularly with a young child. They value effective, high-quality products that deliver on their promises. They are likely interested in gel nail polish sets and nail art kits for professional-looking results at home.",
+        "Candidate_Items": {
+            "1": "Quick-Drying Nail Polish Dryers",
+            "2": "Child-Friendly Hand Sanitizer Dispensers",
+            "3": "All-in-One Manicure Kits",
+            "4": "Reusable Cleaning Cloths",
+            "5": "Kitchen Organization Containers"
+        }
+    },
+    {
+        "User_ID": "AE3QBGRRHKT3GFDPRXFEN7JICEZQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty products focusing on eye makeup and nail care. Specifically, they have reviewed mascaras that enhance lash length and volume, gel nail polish sets with unique colors, nail lamps, and hair styling tools.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in makeup products that enhance appearance, particularly eyes and nails\n* Preference for unique and high-quality nail polishes, including indie-style and seasonal colors\n* Appreciation for effective beauty tools that improve at-home beauty routines, such as nail lamps and curling irons\n* Desire for products that are efficient and deliver promised results\n\"User_Profile\": The user appears to be someone who enjoys at-home beauty treatments, with a strong focus on nails and eye makeup. They value high-quality, unique products that enhance their appearance and are interested in tools that make their beauty routines more efficient. They appreciate products that deliver on their promises and improve the overall at-home beauty experience.",
+        "Candidate_Items": {
+            "1": "Unique Gel Nail Polish Sets",
+            "2": "High-Wattage Nail Lamps",
+            "3": "Volumizing and Lengthening Mascaras",
+            "4": "Advanced Hair Curling Tools",
+            "5": "Nail Art Accessories"
+        }
+    },
+    {
+        "User_ID": "AE3UKETTR77J4LM2ZE4AEUC4L6KA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail art tools and makeup products that control oiliness. Specifically, they have reviewed dappen dishes for nail liquids, a rhinestone picker tool, and an oil-absorbing product for the face.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail art and nail care products, including tools and accessories\n* Appreciation for high-quality and convenient beauty tools\n* Concern about oily skin and preference for products that absorb oil and refresh makeup\n* Values products that are effective and enhance the beauty routine\n\"User_Profile\": The user appears to be someone who is passionate about nail art and beauty routines, valuing high-quality tools that enhance their experience. They are conscious of oily skin and prefer products that help manage oiliness and keep makeup fresh throughout the day. They appreciate products that are both practical and effective.",
+        "Candidate_Items": {
+            "1": "Press-On Nails with Designs",
+            "2": "Oil-Control Makeup Products",
+            "3": "Nail Art Accessories",
+            "4": "Facial Blotting Papers",
+            "5": "Professional Nail Art Tools"
+        }
+    },
+    {
+        "User_ID": "AE53TOMIUB7ENP3RD44KDAARU6AQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products focused on moisturizing and anti-aging benefits, including a retinol serum, facial scrub, and moisturizing cream.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that improve skin texture and appearance\n* Preference for products that are moisturizing, non-irritating, and have minimal scent\n* Focus on anti-aging benefits, such as reducing fine lines and lifting skin\n* Values products that are effective and easy to use\n\"User_Profile\": The user appears to be someone who prioritizes skincare, particularly products that offer moisturizing and anti-aging benefits. They prefer products that are gentle, non-irritating, and have minimal scent. The user appreciates products that improve skin texture and help in reducing signs of aging.",
+        "Candidate_Items": {
+            "1": "Anti-Aging Face Masks",
+            "2": "Hydrating Skincare Treatments",
+            "3": "Gentle Exfoliating Products",
+            "4": "Unscented Skincare Items",
+            "5": "Products with Hyaluronic Acid"
+        }
+    },
+    {
+        "User_ID": "AE5GH4VM5Q5HNUL4EOAYRLNB7RVA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail art products and makeup, including nail polishes, gem pickers, press-on nails, and eyeliner.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail art and manicure products, including tools and accessories\n* Preference for high-quality, effective products and professional-grade tools\n* Awareness of product performance and sensitivity to skin reactions\n* Values products that cater to specific needs, such as press-on nails that fit larger sizes\n\"User_Profile\": The user appears to be someone who is enthusiastic about nail art and makeup. They value high-quality, effective products and are willing to invest in professional-grade tools to achieve better results. They are attentive to product performance and how it affects their skin, preferring products that are both functional and safe.",
+        "Candidate_Items": {
+            "1": "Vegan and Cruelty-Free Lipsticks",
+            "2": "Professional Nail Art Tools",
+            "3": "Press-On Nails with Various Sizes",
+            "4": "Skin-Friendly Eye Makeup",
+            "5": "High-Quality Matte Lipsticks"
+        }
+    },
+    {
+        "User_ID": "AE5IMGWRBJA7JQFBQTBK25HDYGVA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with moisturizing hair care products, skincare masks, and sun care products that absorb well and don't leave residue.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in moisturizing products for hair and skin, especially for curly and long hair\n* Preference for products that absorb fully and don't leave residue or tackiness\n* Sensitivity to strong scents; prefers lightly scented or unscented products\n* Values effectiveness and quality in products, and is critical of products that do not perform as expected\n\"User_Profile\": The user appears to be someone who values high-quality hair and skincare products that provide deep moisture without leaving residue or strong scents. They have curly, long hair that requires special care. They are sensitive to overpowering fragrances and prefer products that are gentle and effective.",
+        "Candidate_Items": {
+            "1": "Moisturizing Hair Masks",
+            "2": "Unscented Hair Care Products",
+            "3": "Deep Conditioning Treatments",
+            "4": "Non-Greasy Skincare Masks",
+            "5": "Hair Accessories for Long Hair"
+        }
+    },
+    {
+        "User_ID": "AEAT2QOOIXWFLBQESCVLAVXLK3RQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare tools and products that enhance skin appearance, and products that promote relaxation and better sleep.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that improve skin texture and are suitable for acne-prone skin\n* Preference for products that smell good and are practical to use\n* Interest in wellness supplements that improve skin, hair, and nails\n* Enjoyment of fragrances with sweet and long-lasting scents\n* Values products that aid in relaxation and better sleep\n\"User_Profile\": The user appears to be someone who values skincare and wellness products that improve their skin, hair, and nails. They prefer products that are effective, have pleasant scents, and are easy to use. They are interested in products that promote relaxation and aid in better sleep, indicating a focus on overall well-being.",
+        "Candidate_Items": {
+            "1": "Facial Massage Tools",
+            "2": "Skincare for Acne-Prone Skin",
+            "3": "Wellness Supplements",
+            "4": "Relaxation and Sleep Aids",
+            "5": "Pleasantly Scented Skincare"
+        }
+    },
+    {
+        "User_ID": "AE3KLVXGZPANXE5XLXYKHTVAZ3FQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair accessories and beauty products, such as satin headbands, a shiny headband for her niece, a fun dress-up wig, and scalp massaging shampoo brushes. This suggests an interest in hair care and accessories, possibly shared with family members.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in hair care products and accessories for both adults and children\n* Consciousness about product safety and ingredients, as seen in the detailed face lotion review\n* Enjoyment of products that evoke nostalgia, such as 90s-style headbands\n* Appreciation for products that provide enjoyable experiences for the whole family\n\"User_Profile\": The user appears to be someone who values hair care and beauty accessories that can be enjoyed by herself and her family. She pays close attention to product safety and ingredients, indicating a focus on health and wellness. The user also appreciates products that bring a sense of nostalgia and fun to her and her family's routines.",
+        "Candidate_Items": {
+            "1": "Gentle, Fragrance-Free Skincare Products",
+            "2": "Natural Hair Care Accessories",
+            "3": "Kid-Friendly Hair Accessories",
+            "4": "Family-Friendly Beauty Products",
+            "5": "Nostalgic Beauty Items"
+        }
+    },
+    {
+        "User_ID": "AE3LUVAAITFJIUTWBMRPHDQOCOFQ",
+        "User_Profile": "\"Short-Term Interests\": The user recently reviewed dramatic false eyelashes for going out and a skincare cream that left her skin oily. This suggests an interest in makeup products for special occasions and skincare products suitable for oily skin.\n\"Long-Term Preferences\": Analysis of the user's reviews reveals consistent themes:\n* Interest in beauty products such as nail files and false eyelashes\n* Focus on skincare products that leave skin glowing without excess oiliness\n* Concern about products suitable for oily skin types\n* Appreciation for high-quality products that deliver as expected\n\"User_Profile\": The user appears to be someone who values beauty and skincare products that enhance her appearance, especially for special occasions. She is conscious of her oily skin type and seeks products that provide a healthy glow without adding excess oil. The user appreciates quality products that meet her expectations and prefers items that are practical and effective.",
+        "Candidate_Items": {
+            "1": "Eyebrow Grooming Kits",
+            "2": "Oil-Free Skincare Products",
+            "3": "Makeup Tools for Easy Application",
+            "4": "Long-Lasting Makeup Products",
+            "5": "Facial Care Accessories"
+        }
+    },
+    {
+        "User_ID": "AE3PLZHW6NXWBMZ76TDVFQG2MJFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently reviewed several skincare products focused on addressing dry and sensitive skin, including creams, serums, and moisturizers with low-risk and natural ingredients. They show appreciation for products that help with hyperpigmentation, improve skin texture, and have minimal or no fragrance.\n\"Long-Term Preferences\": Consistent themes in the user's reviews include:\n* Preference for skincare products suitable for dry and sensitive skin\n* Emphasis on products with natural, low-risk ingredients, as per EWG ratings\n* Interest in fragrance-free or lightly scented products\n* Appreciation for products that provide deep hydration and anti-aging benefits\n* Attention to products that improve skin tone and address hyperpigmentation\n\"User_Profile\": The user is highly conscious of product ingredients and prioritizes skincare items that are gentle, hydrating, and effective for dry and sensitive skin. They value natural, low-risk ingredients and prefer products without strong fragrances or harsh chemicals. The user is also interested in anti-aging benefits and seeks solutions for specific skin concerns such as hyperpigmentation and improving skin firmness.",
+        "Candidate_Items": {
+            "1": "Hypoallergenic Makeup Products",
+            "2": "Long-Lasting Lip Colors",
+            "3": "Fragrance-Free Cosmetics",
+            "4": "Moisturizing Lipsticks for Sensitive Skin",
+            "5": "Non-Irritating Makeup for Dry Skin"
+        }
+    },    
+    {
+        "User_ID": "AEAXAJACFMXIAAH4WOHRMXPSZWFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with makeup products like primer and eyeliner, and skincare products for sensitive skin.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products suitable for sensitive skin that soothe and hydrate\n* Appreciation for products that make makeup application easier and smoother\n* Enjoyment of fragrances and scented products, but prefers natural scents\n* Values high-quality skincare that improves fine lines and hydrates skin\n* Likes products that are convenient for on-the-go use\n\"User_Profile\": The user appears to be someone with sensitive skin who values skincare products that soothe and hydrate without irritation. They appreciate makeup products that enhance application and convenience, such as primers and eyeliners with unique features. The user enjoys fragrances but prefers natural scents. They value high-quality products that improve skin appearance and enjoy items that offer a pampering experience.",
+        "Candidate_Items": {
+            "1": "Moisturizing Lipsticks for Sensitive Skin",
+            "2": "Vintage-Style Makeup Products",
+            "3": "Long-Lasting Semi-Matte Lipsticks",
+            "4": "High-Quality Skincare Products",
+            "5": "Convenient Makeup Tools"
+        }
+    },    
+    {
+        "User_ID": "AECTRGMRKOGAYIV3YXX73CQEQCSQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty sponges, lipsticks, hair clips, and curling wands. They appreciate high-quality makeup products and hair accessories suitable for long or thick hair but are critical of products that are misleading or do not meet expectations.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty tools and products that are effective, high-quality, and perform as advertised\n* Preference for makeup products that are comfortable to wear, long-lasting, and have flattering colors\n* Values hair accessories and tools that are sturdy and suitable for managing long or thick hair\n* Critical of products with misleading images or descriptions, emphasizing the importance of accurate marketing\n* Appreciates detailed product reviews and is discerning in product selection\n\"User_Profile\": The user values quality and functionality in beauty and hair care products. They have long hair and seek accessories and tools that can effectively manage it. They enjoy makeup products that are comfortable and flattering. They are attentive to product descriptions and expect accuracy from sellers. They are likely interested in hair care tools that enhance their routine, such as scalp massagers or brushes suitable for their hair type.",
+        "Candidate_Items": {
+            "1": "High-Quality Hair Brushes for Thick Hair",
+            "2": "Adjustable Hair Dryers with Diffusers",
+            "3": "Long-Wear Liquid Lipsticks",
+            "4": "Heat-Resistant Hair Styling Gloves",
+            "5": "Versatile Makeup Organizer Cases"
+        }
+    },    
+    {
+        "User_ID": "AEHGY7TZA4IMOXXBGPTZC7UPM6UQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty and personal care products, including fine mist spray bottles, face masks, wax beads for hair removal, and nail polish sets.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in at-home beauty treatments, such as skincare masks and waxing products\n* Appreciation for high-quality nail polish with thoughtful packaging and ease of application\n* Discerning about product claims and values products that deliver as advertised\n* Enjoys products that enhance DIY beauty routines\n* Critical of products that make exaggerated claims without delivering results\n\"User_Profile\": The user enjoys at-home beauty and self-care routines, focusing on skincare, nail care, and hair removal. They appreciate high-quality products that are thoughtfully designed and deliver on their promises. Attention to detail and functionality in products enhances their at-home beauty experience.",
+        "Candidate_Items": {
+            "1": "Hydrating Facial Sheet Mask Variety Pack",
+            "2": "Electric Wax Warmer Kit for Hair Removal",
+            "3": "Nail Polish Organizer Case with Adjustable Dividers",
+            "4": "Professional Manicure and Pedicure Tool Set",
+            "5": "LED UV Nail Lamp for Gel Nail Polish Curing"
+        }
+    },
+    {
+        "User_ID": "AEHLKY7Q5O3D3E6YEV67JIBVFNFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with therapeutic home lighting and Korean skincare products suitable for sensitive skin.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Passion for Korean skincare brands like Easydew\n* Preference for products that are gentle, effective, and absorb well without residue\n* Critical of heavy creams that do not absorb properly\n* Appreciation for therapeutic and aesthetic home products that enhance relaxation\n* Values quality and reasonable pricing in products\n\"User_Profile\": The user is highly engaged with skincare, especially Korean brands catering to sensitive skin. They value effective, gentle products that provide a pleasant experience. Additionally, they enjoy home products that contribute to a calming environment. Quality and effectiveness, along with reasonable pricing, are important to them.",  
+        "Candidate_Items": {
+            "1": "Aromatherapy Essential Oil Diffuser with LED Lights",
+            "2": "Gentle Exfoliating Korean Peeling Gel",
+            "3": "Hydrating Facial Toner for Sensitive Skin",
+            "4": "LED Light Therapy Face Mask for Skin Rejuvenation",
+            "5": "Silk Pillowcase for Hair and Skin Health"
+        }
+    },
+    {
+        "User_ID": "AEHZBUFEOW4TY3K4IYFFR5ZU5B3Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty tools and products for herself and her daughters, including makeup sponges, hair products, and nail care accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in effective beauty tools that enhance makeup application\n* Challenges with beauty products not suited for Asian features\n* Seeks practical hair care solutions for her children\n* Values products simplifying beauty routines and delivering on promises\n* Critical of poor-quality or ineffective products\n\"User_Profile\": The user is practical and values effective beauty tools for herself and her family. She is attentive to how products suit her needs, particularly regarding Asian features. She appreciates products that simplify routines and is critical of those that do not meet expectations, especially for her children's care.",
+        "Candidate_Items": {
+            "1": "Eyelash Curler Designed for Monolid Eyes",
+            "2": "Children's Hair Styling and Detangling Kit",
+            "3": "High-Quality Makeup Brush Set with Case",
+            "4": "Leak-Proof Travel Perfume Atomizers",
+            "5": "Gentle Detangling Hairbrush for Kids"
+        }
+    },
+    {
+        "User_ID": "AEIGRLFPH5Z3EQ73Z23CJ3WX6R6A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products like face washes, masks, and beauty tools such as jade rollers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Preference for gentle, non-irritating skincare that leaves skin feeling good\n* Enjoys spa-like products providing a luxurious experience at home\n* Values pleasant scents and effective moisturizing properties\n* Appreciates quality packaging suitable for gifting\n* Skeptical of unnecessary products requiring extra effort\n\"User_Profile\": The user values high-quality skincare that's gentle and offers a spa-like experience at home. They appreciate products that make skin feel smooth and are pleasantly scented. Practicality is important, and they prefer simplicity over products needing additional steps.",
+        "Candidate_Items": {
+            "1": "Hydrating Vitamin C Facial Serum",
+            "2": "Aromatherapy Essential Oil Diffuser",
+            "3": "Luxurious Natural Body Butter",
+            "4": "Scented Bath Bomb Gift Set",
+            "5": "Gentle Exfoliating Facial Scrub"
+        }
+    },
+    {
+        "User_ID": "AEIW7GMVHQ4HBUXTTYEMHEMADUMQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care products like heavy-duty nail clippers, gentle body scrubbers, and refreshing essential oil wipes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values practical, effective personal care tools for specific needs\n* Prefers gentle skincare suitable for sensitive skin\n* Enjoys natural ingredients with pleasant scents\n* Appreciates indulgent, high-quality products as treats\n* Seeks products enhancing personal care routines with special experiences\n\"User_Profile\": The user values practicality and effectiveness in personal care, preferring gentle, natural skincare with pleasant scents. They enjoy treating themselves to high-quality products that elevate their personal care routines with a luxurious experience.",
+        "Candidate_Items": {
+            "1": "Aromatherapy Shower Steamers Set",
+            "2": "Natural Exfoliating Foot Peel Mask",
+            "3": "Deep Moisturizing Shea Butter Hand Cream",
+            "4": "Natural Bristle Dry Body Brush",
+            "5": "Lavender-Scented Relaxation Eye Pillow"
+        }
+    },
+    {
+        "User_ID": "AEJU3Z6HDAERETMYI2CXBQVPPDFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair products including wigs, extensions, headbands, and wig care items. They also use skincare products and beauty accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Passion for hairstyles using wigs and extensions\n* Values high-quality, natural-looking hair products easy to style\n* Appreciates beauty accessories enhancing appearance\n* Uses products to care for and secure wigs\n* Attentive to product quality and durability\n\"User_Profile\": The user is enthusiastic about hair styling, frequently using wigs and extensions to change her look. She values high-quality, natural-looking hair products and accessories. Investing in wig care and styling products is important to maintain quality. She also uses skincare products for overall appearance, appreciating effective items with visible results.",
+        "Candidate_Items": {
+            "1": "Professional Wig Stand Tripod for Styling",
+            "2": "Comprehensive Wig Care Kit",
+            "3": "Heat Styling Tools Safe for Wigs",
+            "4": "Silk Wig Caps for Comfort and Protection",
+            "5": "Decorative Hair Accessory Set with Headbands"
+        }
+    },
+    
+    {
+        "User_ID": "AFSHXT5PTGDSFW2725SDXIE6ZVEA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review, we see that the user recently engaged with skincare products, specifically vitamin C foam cleansers. Their experience suggests that they value effectiveness in cleansing without strong scents, possibly indicating a preference for subtle fragrances or unscented products. Additionally, their interest in facial care might imply a concern for skin health and wellness.\n\"Long-Term Preferences\": Our analysis reveals that this user tends towards trying new products with unique characteristics. For instance:\n* In their early engagement with AG Care Natural Remedy Apple Cider Vinegar Leave-On Mist, they appreciated its distinct, fruity fragrance and connection to nature-based ingredients.\n* When exploring perfumes through PINROSE Perfumes Bold Soul, they demonstrated curiosity about unusual aromas and willingness to experiment with different scents.\n* While reviewing microfiber hair towels, their focus lay on functionality, comfort, and ease of use, suggesting practicality plays a significant role in their purchasing decisions.\nFrom this historical context, we can infer that our user is drawn to unconventional products, enjoys discovering novel sensations, and values functional design. They likely prioritize quality materials, innovative features, and gentle, non-overpowering fragrances.\n\"User_Profile\": This user exhibits a curious and adventurous approach to consumerism, often seeking experiences beyond mainstream choices. With a growing emphasis on self-care and personal grooming, they gravitate toward products offering effective solutions and attention-grabbing attributes. Our analysis indicates that they tend to appreciate subtlety in scents, preferring understated or unscented options. As they continue navigating diverse product offerings, we predict that their enthusiasm for exploration and discovery will remain a defining characteristic, driving them towards the next exciting find.",
+        "Candidate_Items": {
+            "1": "Experiential Wellness Treats",
+            "2": "Niche Fragrance Discoveries",
+            "3": "Functional Grooming Tools",
+            "4": "Unconventional Home Remedies",
+            "5": "Artisanal Skin & Body Care Sets"
+        }
+    },
+    {
+        "User_ID": "AEK3IYABOEGTXOTX7P6SBQJUP57A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care products, specifically bar soaps, eco-friendly wipes, and facial cleansers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in bar soaps, especially those that appeal to her boyfriend who enjoys trying new ones\n* Critical of products that do not meet expectations or have misleading claims\n* Prefers products that function as advertised and offer good value without unnecessary packaging\n* Appreciates pleasant scents in personal care products\n\"User_Profile\": The user values practical and effective personal care products with pleasant scents. She is skeptical of products that make unsubstantiated claims or are overpriced due to eco-friendly marketing. Cost-effectiveness and authenticity in product performance are important to her.",
+        "Candidate_Items": {
+            "1": "Natural Exfoliating Body Scrub with Essential Oils",
+            "2": "Fragrance-Free Moisturizing Body Lotion",
+            "3": "Reusable Organic Cotton Facial Cleansing Pads",
+            "4": "Deep Cleansing Charcoal Face Mask",
+            "5": "Aromatic Handmade Bath Soap Gift Set"
+        }
+    },
+    {
+        "User_ID": "AEKV4Q3JUQTQA2UR7PH7QLUHUTTQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care and relaxation products, including face masks, fragrances, bath bombs, and hair accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Enjoys products that enhance relaxation and provide a sensory experience\n* Prefers rich, dark fragrances with depth, suitable for special occasions\n* Values practical and comfortable hair accessories for fine hair\n* Seeks bath products that are moisturizing and effectively scented\n\"User_Profile\": The user appreciates products that contribute to a luxurious self-care routine. She enjoys indulging in scents and bath products that offer both relaxation and skin benefits. Practicality and comfort are important, especially in products like hair accessories. She values high-quality items that enhance her personal pampering time.",
+        "Candidate_Items": {
+            "1": "Luxurious Aromatherapy Bath Oil Set",
+            "2": "Silk Sleep Mask and Pillowcase Set",
+            "3": "Gourmand Scented Candle Collection",
+            "4": "Gentle Exfoliating Body Scrub with Natural Ingredients",
+            "5": "Velvet Hair Scrunchies for Fine Hair"
+        }
+    },
+    {
+        "User_ID": "AELHYMCYVS6T35HA3UH5UGFWTK6Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal grooming tools, such as tweezers, laser hair removal devices, and oil-absorbing facial rollers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in effective and high-quality grooming tools that simplify personal care routines\n* Preference for compact and portable products for convenience\n* Values tools that help manage unwanted hair and maintain appearance\n* Appreciates products that are easy to use and save time\n\"User_Profile\": The user is focused on personal grooming and values tools that enhance efficiency and convenience. She seeks effective solutions for hair removal and managing oily skin. Portability is important, allowing her to maintain her appearance on the go. She values products that make grooming tasks easier and fit seamlessly into her lifestyle.",
+        "Candidate_Items": {
+            "1": "Compact Electric Facial Hair Remover",
+            "2": "Portable LED Lighted Makeup Mirror",
+            "3": "Precision Eyebrow Razor Set",
+            "4": "Travel-Size Facial Mist Hydrator",
+            "5": "Long-Lasting Mattifying Face Powder"
+        }
+    },
+    {
+        "User_ID": "AELZIKZNMROP2SMO5XXVB4V36RJA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with foot care devices and nail care kits, including electric foot files and gel nail polish sets.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values completeness and functionality in product kits, preferring those that include all necessary components\n* Critical of products that require additional purchases or have inadequate features\n* Appreciates quiet devices with convenient features but expects sufficient power and effectiveness\n* Prefers products that are easy to use and not messy\n\"User_Profile\": The user is practical and seeks value in her purchases. She expects products, especially kits, to be complete and ready to use without needing extra items. Functionality and ease of use are important, as is product effectiveness. She is critical of items that fall short of promises or create inconvenience.",
+        "Candidate_Items": {
+            "1": "Deluxe Pedicure Spa Kit with All Accessories",
+            "2": "High-Power Electric Foot Callus Remover",
+            "3": "Gel Nail Polish Set with Built-In Applicator Brush",
+            "4": "Nail Care Organizer Box with Adjustable Compartments",
+            "5": "Non-Spill Nail Polish Holder Ring"
+        }
+    },    
+    {
+        "User_ID": "AEMRAZPNN2NBBUDV4YGGYMGPFC6A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with lotions that have beachy scents, hair accessories for her daughter's thin hair, and perfumes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Prefers lotions that smell good and effectively moisturize dry skin\n* Enjoys products with beach-like fragrances\n* Values products with good packaging and functionality\n* Seeks effective hair accessories suitable for thin hair\n* Critical of perfumes that do not have lasting scents\n\"User_Profile\": The user appreciates personal care products that offer pleasant, especially beachy, scents and effective moisturizing. She values quality packaging and functionality in products. She seeks hair accessories that work well for her daughter's thin hair and expects perfumes to have a lasting fragrance.",
+        "Candidate_Items": {
+            "1": "Beach-Scented Body Wash",
+            "2": "Long-Lasting Eau de Parfum with Tropical Notes",
+            "3": "Moisturizing Hand Cream with Coconut Fragrance",
+            "4": "No-Slip Hair Clips for Fine Hair",
+            "5": "Aromatic Scented Candles with Ocean Breeze"
+        }
+    },
+    {
+        "User_ID": "AENALXICBEUWDJG6U2GYCGEVM3OQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail care accessories, haircutting tools, and hair elastics.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values practical and affordable beauty tools that are well-packaged\n* Enjoys DIY beauty and grooming activities at home\n* Appreciates versatile products that can be used for multiple purposes\n* Seeks good value for money in her purchases\n* Recommends products that are of great quality and reasonably priced\n\"User_Profile\": The user enjoys practical beauty and grooming tools that offer good value and versatility. She engages in DIY beauty routines, such as at-home haircuts and nail care. She appreciates products that are well-made, reasonably priced, and come nicely packaged.",
+        "Candidate_Items": {
+            "1": "All-in-One Manicure and Pedicure Set",
+            "2": "Multipurpose Crafting Tool Kit",
+            "3": "Detangling Brush for All Hair Types",
+            "4": "Reusable Makeup Remover Pads",
+            "5": "Adjustable Hair Styling Tool for Updos"
+        }
+    },
+    {
+        "User_ID": "AEOJWMWHWXTDHZ2X6TLFNHCOEH4Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail polishes and high-quality products like spray bottles and other well-made items.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values high-quality, well-made products that function as expected\n* Appreciates products that are durable and look great\n* Interested in nail care products, particularly nail polishes\n* Possibly engages in DIY or personal care activities using spray bottles\n* Provides positive feedback for products that meet or exceed expectations\n\"User_Profile\": The user enjoys high-quality nail care products and values well-made items that perform reliably. They appreciate durability and aesthetic appeal in products. They may use spray bottles for DIY projects or personal care routines and are satisfied when products function exactly as expected.",
+        "Candidate_Items": {
+            "1": "Deluxe Manicure and Pedicure Kit",
+            "2": "Aromatherapy Essential Oil Starter Set",
+            "3": "Professional Makeup Brush Collection",
+            "4": "Nail Polish Display and Organizer Rack",
+            "5": "High-Quality Stainless Steel Water Bottle"
+        }
+    },    
+    {
+        "User_ID": "AGLIUT3VWAE7UEZHWVHNLDTBOAEQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews and purchases, we observe the user's interest in:\n* High-quality skincare products focusing on hydration, brightness, and texture improvement\n* Products containing natural ingredients, such as green tea, vitamins, and herbal extracts\n* Affordable prices for effective products\nThese observations suggest the user values performance-oriented products at reasonable\n\"Long-Term Preferences\": \n\"User_Profile\": ",
+        "Candidate_Items": {
+            "1": "Natural Hydration Skincare",
+            "2": "Effective Acne Treatments",
+            "3": "Budget-Friendly Moisturizers",
+            "4": "Gentle Exfoliants For Sensitive Skin",
+            "5": "Anti-Aging Facial Serums"
+        }
+    },
+    {
+        "User_ID": "AH36N5HJJQCBDAURJUTFAIB4GRFA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews, it appears that the user has recently been interested in exploring skincare products specifically designed for dry and sensitive skin. They seem to be drawn towards gentle cleansing agents with mild fragrances, such as the No Brainer Gentle Facial Cleanser and the Biore Make-up remover.\n\"Long-Term Preferences\": Upon analyzing the user's complete review history, several common threads emerge:\n\u2022 The user favors products with gentle ingredients suitable for mature skin.\n\u2022 They tend to prefer moisturizers containing plant extracts like rice protein, hydrolyzed amino acids, and cucumbers.\n\u2022 There is an emphasis on protecting one's appearance through make-up, highlighting concerns about aging and vanity.\n\u2022 Shipping safety features, such as protective packaging and tamper-evident materials, play an important role in securing the user's trust.\n\"User_Profile\": Our user is likely a middle-aged individual concerned with maintaining youthful appearances while addressing specific skin care needs related to dryness and sensitivity. Their recent interest in skincare products suggests they may be more open to exploring new treatments and brands within this category. In terms of overall preferences, they prioritize gentle ingredients, moisture-rich formulas, and innovative packaging solutions. As a result, we can anticipate them being attracted to high-quality, niche brands offering targeted solutions for mature skin. Future recommendations might involve introducing them to advanced serums, anti-wrinkle creams, and hydrating masks featuring cutting-edge technology and organic compounds. By leveraging these insights, we can develop a customized approach tailored to meet their evolving needs and maintain their loyalty.",
+        "Candidate_Items": {
+            "1": "Natural Skin Revitalization",
+            "2": "Advanced Anti-Aging Treatments",
+            "3": "Hydrating Moisturizer Collections",
+            "4": "Protective Sunscreen Formulas",
+            "5": "Plant-Based Serums & Masks"
+        }
+    },
+    {
+        "User_ID": "AF7XNTURXVPO55T5EP4B4DVPQPPQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest products reviewed by the user, here are some key observations:\n\u2022 High expectations regarding performance and effectiveness\n\u2022 Concerns about sensitive skin reactions and fragrances\n\u2022 Appreciation for gentle exfoliants and moisturizers\n\u2022 Tendency towards more expensive products despite reservations about pricing\n\u2022 Interest in natural ingredients and hypoallergenic properties\n\"Long-Term Preferences\": After analyzing the complete review history, recurring patterns emerge, highlighting the user's enduring interests:\n\u2022 Skincare routines emphasizing cleansing, moisture control, and nourishment\n\u2022 Preference for gentle, non-comedogenic formulas suitable for sensitive skin\n\u2022 Compatibility concerns around ingredients, especially parabens, artificial additives, and sulfates\n\u2022 Focused attention on eye care, eyelashes, and lash mascaras\n\u2022 Proclivity toward Asian beauty trends and products featuring advanced technology\n\"User_Profile\": This user prioritizes high-quality skincare essentials, often willing to invest in premium products that cater to their sensitive skin needs. Their interest lies in discovering effective cleansers, moisturizers, and treatments containing natural ingredients. Although they appreciate innovative technologies and trendy solutions, they remain cautious when introducing new substances or harsh chemicals into their routine. With an emphasis on gentle, hydrating formulas, they seek products that address specific concerns such as acne-prone areas, dark circles, or dryness. As a discerning consumer, they value transparency about ingredient lists, ensuring their chosen products align with their values of safety, sustainability, and efficacy. In summary, this user embodies a curious yet selective approach to self-care, driven by a desire for optimal results within a framework of comfort, security, and refinement.",
+        "Candidate_Items": {
+            "1": "Natural Skin Revival Treatments",
+            "2": "Advanced Eye & Lash Care Solutions",
+            "3": "Gentle Exfoliant Collections",
+            "4": "Premium Moisturizer Suites",
+            "5": "Hydrating Cleanser Sets"
+        }
+    },
+    {
+        "User_ID": "AGSVNZDZNPCMXG5DEFXMZNRH2LCQ",
+        "User_Profile": "\"Short-Term Interests\": The user recently purchased skincare and beauty products, specifically focused on hydration, collagen promotion, anti-cellulite body scrubs, and facial masks. They appreciate natural ingredients, fragrance-free options, and gentle exfoliation. Their interest lies in discovering new products that address specific skin concerns and maintain healthy, glowing skin.\n\"Long-Term Preferences\": Throughout their purchasing history, the user consistently exhibits a fascination with natural ingredients, organic materials, and eco-friendly practices. They tend towards products containing green tea, vitamin C, pineapple, kaolin clay, rose geranium, lavender, and aloe vera. The user favors gentle, non-irritating formulas suitable for sensitive skin and tends to choose products with multiple uses, such as multi-tasking serums and masks.\n\"User_Profile\": Our user profile reveals someone who values wholesome, nature-inspired approaches to skin care and self-care. They seek products that promote health, brightness, and glow without compromising sensitivity. Recent purchases indicate a focus on hydration, detoxification, and rejuvenation through facial treatments and body nourishment. As we delve further back in their purchase history, patterns emerge around their preference for calming, natural scents and sustainable manufacturing processes. We can anticipate that our user might explore other areas related to wellness, perhaps expanding their repertoire to include supplements, essential oils, or aromatherapy essentials.\nThis summary captures the essence of the user's personality, incorporating both immediate desires and enduring preferences. By acknowledging their reliance on natural ingredients, tendency toward gentleness, and affinity for eco-friendliness, we gain insight into what drives their purchasing decisions and inform recommendations tailored to meet their evolving needs and interests.",
+        "Candidate_Items": {
+            "1": "Natural Ingredient-Based Skin & Body Care",
+            "2": "Gentle Exfoliating Treatments",
+            "3": "Eco-Friendly Wellness Supplements",
+            "4": "Multi-Purpose Facial Serums & Masks",
+            "5": "Organic Aromatherapy Oils & Essences"
+        }
+    },
+    {
+        "User_ID": "AEHWKRPNWNMOAJSMO2F6O7RFRTNA",
+        "User_Profile": "\"Short-Term Interests\": The user's most recent purchases suggest an interest in bath and body products, particularly those catering to dry and sensitive skin. They seem to favor natural ingredients and gentle formulations, as seen in their enthusiasm for products containing coconut oil, shea butter, and avocado oil. This focus on hydration and nourishment might indicate a desire for soothing, calming experiences.\n\"Long-Term Preferences\": A closer examination of the user's review history reveals a predilection for products offering moisturization, relaxation, and rejuvenation. Many of their preferred brands emphasize organic and natural ingredients, suggesting an appreciation for eco-friendly and sustainable practices. Additionally, they appear drawn to scented products with pleasant aromas, such as lavender and vanilla.\nTheir purchase history also highlights an interest in exfoliating treatments, facial cleansers, and hydrating serums. These choices imply a concern for maintaining healthy, radiant skin and a willingness to invest in high-quality skincare routines.\n\"User_Profile\": Based on this analysis, our user appears to be someone who values self-care, prioritizes skin health, and appreciates natural, gentle products. Their preferences tend towards moisturized, hydrated, and nourished skin, often accompanied by calming fragrances. They may seek bathing and grooming rituals that promote relaxation and tranquility.\nAs they continue exploring the world of personal care, we can expect them to gravitate toward innovative, effective, and luxurious products that cater to their specific needs and concerns. Key areas of interest will likely remain centered around hydration, nourishment, and relaxation, possibly incorporating emerging trends in skincare and wellness. By understanding these preferences, product recommendations could focus on providing tailored solutions that address their unique requirements while introducing novel ideas to keep their routine fresh and exciting.",
+        "Candidate_Items": {
+            "1": "Hydrating Skin Serenity",
+            "2": "Natural Moisturizing Must-Haves",
+            "3": "Relaxing Bath & Body Bliss",
+            "4": "Gentle Exfoliation Routines",
+            "5": "Soothing Scented Treasures"
+        }
+    },
+    {
+        "User_ID": "AELRWE7QQJRKDFHDQHVAODTF5FRA",
+        "User_Profile": "\"Short-Term Interests\": Based on recent reviews, we observe the user has a strong interest in high-quality nail care products, particularly those related to acrylics, nail art, and manicures. Their enthusiasm for specific product features such as sturdy tips, minimal shedding, and vibrant colors suggests they value performance, durability, and aesthetics.\n\"Long-Term Preferences\": Analyzing the user's extensive review history reveals several key themes:\n* Quality matters: Throughout their reviews, the user consistently praises products' construction, materials, and overall build quality.\n* Specialization: As a licensed cosmetologist, the user's focus lies within professional-grade equipment, suggesting a dedication to excellence and attention to detail.\n* Creativity: Repeated mentions of nail art, design, and enhancement indicate a desire to express themselves creatively through their craft.\n* Practicality: Users often emphasize the importance of functionality, storage options, and ease of use, indicating a practical approach to tool selection.\n\"User_Profile\": Our analysis indicates a highly skilled and creative individual who prioritizes top-notch quality, innovative designs, and functional tools in pursuit of artistic expression. Their passion for acrylics, nail art, and manicures drives their purchasing decisions, which tend towards premium products offering exceptional performance, versatility, and style. As a licensed professional, they appreciate attention to detail, precision engineering, and ergonomic design. When exploring new products, expect this user to seek out unique features, such as clever storage solutions, adjustable settings, and cutting-edge technology. Given their commitment to staying ahead of industry trends, they likely remain curious about emerging techniques, advanced materials, and collaborations between artists, brands, and manufacturers. By catering to these refined sensibilities and anticipating future demands, businesses may unlock valuable opportunities within the competitive world of beauty and cosmetics.",
+        "Candidate_Items": {
+            "1": "Premium Nail Art Supplies",
+            "2": "Advanced Cosmetics Tools",
+            "3": "High-Quality Acrylic Materials",
+            "4": "Creative Expression Stations",
+            "5": "Professional Grade Salon Equipment"
+        }
+    },
+    {
+        "User_ID": "AGCV6N4LVTEQVYSE3LXR3J2QB3EA",
+        "User_Profile": "\"Short-Term Interests\": Based on the provided review sequence, we can identify some immediate trends and preferences:\n* Interest in hydrating products, particularly those focused on addressing dull, tired, dry, and sensitive skin types.\n* Preference for serums and oils that offer moisturizing benefits without leaving behind residue.\n* Appreciation for gentle, non-drying textures in cleansing products.\n* Desire for exfoliating and purifying properties in daily skincare routines.\n\"Long-Term Preferences\": Analyzing the user's entire history reveals deeper, more enduring interests:\n* Consistent interest in natural ingredients, evident through repeated mentions of \"natural\" brands and products containing kaolin clay, manuka honey, and ceramides.\n* History suggests a focus on anti-aging concerns, demonstrated by frequent exploration of retinol-based treatments and collagen-boosting formulas.\n* Stable preference for premium quality, reflected in willingness to invest in higher-priced products offering unique features and benefits.\n* Overall emphasis on achieving healthy, glowing, and youthful-looking skin, even at the expense of convenience or affordability.\n\"User_Profile\": This profile captures the essence of our user's persistent preferences while incorporating the latest interests and desires:\nOur user is an individual who prioritizes maintaining radiant, healthy skin. They favor natural ingredient-driven products that cater specifically to sensitive skin types and exhibit strong anti-aging concerns. Within their preferred range, they tend towards premium-quality solutions emphasizing hydration, gentle textures, and exfoliative properties. Recent experiences suggest increased enthusiasm for advanced technologies and innovative formulations capable of delivering exceptional results. Expectations remain high regarding their next purchase, which will likely involve exploring cutting-edge options addressing specific needs within their established repertoire. Their commitment to optimal skincare practices drives their decision-making process, ensuring ongoing satisfaction and loyalty toward trusted brands and products aligning with their core values.",
+        "Candidate_Items": {
+            "1": "Natural Ingredient-Based Skin Treatments",
+            "2": "Premium Hydrating Moisturizers",
+            "3": "Gentle Exfoliants and Purifiers",
+            "4": "Advanced Anti-Aging Formulations",
+            "5": "Sensitive Skin-Friendly Cleansers"
+        }
+    },
+    {
+        "User_ID": "AFKZESU3PTCQ2UVDBDSFVFTXBFNQ_1",
+        "User_Profile": "\"Short-Term Interests\": The user's latest purchases suggest a focus on self-care routines, including cleansing products, lip balm, and personal care tools. Their interest in beauty-related products indicates an ongoing concern for maintaining healthy skin and hair.\n\"Long-Term Preferences\": A review of the user's overall purchase history reveals a persistent fondness for natural ingredients, organic materials, and eco-friendly packaging. This preference suggests a commitment to sustainable living and wellness practices. Additionally, the user exhibits a fascination with unique textures and scents, often drawn to products offering distinct sensory experiences.\n\"User_Profile\": This user prioritizes self-care routines and enjoys exploring various product textures and scents. As someone who values sustainability, they tend to favor natural ingredients, organic materials, and eco-friendly packaging. With a keen eye for innovative design, they appreciate unique features such as rose-scented cleansers and wizard-themed makeup brushes. In terms of preferences, this user leans towards gentle, nourishing formulas that promote relaxation and rejuvenation. Future recommendations could consider introducing related products that align with these established likes, incorporating elements such as essential oils, plant-based ingredients, and visually appealing aesthetics.",
+        "Candidate_Items": {
+            "1": "Natural Ingredient Cosmetics",
+            "2": "Eco-Friendly Personal Care Tools",
+            "3": "Organic Skin & Body Treatments",
+            "4": "Whimsical Wellness Accessories",
+            "5": "Plant-Based Hair & Scalp Serums"
+        }
+    },
+    {
+        "User_ID": "AGGAEZZTJZWEGLEMKXW5NTNXH7VQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently shown interest in purchasing hair accessories, specifically focusing on products that offer multiple colors, varied designs, and reusable options. Their preferred product categories include non-slip hair bands, soft elastic bands, coil hair ties, metal headbands, and retractable cotton hair ties. Color schemes seem to play an essential role in their choices, with users opting for vibrant colors like rainbow hues and subtle shades.\n\"Long-Term Preferences\": A thorough examination of the user's review history reveals a persistent affinity for high-quality, durable, and versatile hair accessories. Users tend to favor products offering a wide range of colors, adjustable sizes, and reusable materials. A strong preference exists for brands providing excellent customer service, competitive pricing, and reliable shipping. Additionally, there appears to be an inclination towards unique, stylish, and fashionable hair accessories, particularly those featuring intricate designs or embellishments. While specific product types may change, the underlying desire for quality, durability, and aesthetic appeal remains constant throughout their purchase history.\n\"User_Profile\": Based on our analysis, we present the following user profile:\nOur user is a fashion-conscious individual who prioritizes style, versatility, and practicality in their hair care routine. With an eye for trendy and elegant solutions, they seek out premium hair accessories that showcase creative design elements and vibrant color palettes. Reusable products, adjustable sizes, and exceptional build quality are highly valued attributes in their ideal hair accessory. As someone who appreciates value for money, they expect competitive pricing, prompt delivery, and responsive customer support. Given their consistent preferences across various product lines, we anticipate continued interest in innovative, affordable, and visually appealing hair accessories that cater to their evolving sense of style and flair. In summary, our user embodies the spirit of a modern-day fashionista, always seeking ways to elevate their beauty routine while maintaining a keen focus on functionality, affordability, and aesthetics.",
+        "Candidate_Items": {
+            "1": "Vibrant Accessory Collections",
+            "2": "Premium Hair Accessories Boutique",
+            "3": "Eco-Friendly Beauty Essentials",
+            "4": "Trendy Fashion Forward Finds",
+            "5": "Versatile Hairstyling Systems"
+        }
+    },
+    {
+        "User_ID": "AEXPTZ272HHG2KO2JAGU5IL45HIQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review(s), our user appears interested in:\n* Weekly face masks, specifically ones that tone up the skin\n* Products containing ingredients like hyaluronic acid, collagen, and centella asiatica\n* Moisturizing effects and anti-wrinkle properties\n* Fragrance-free products or products with mild fragrances\n\"Long-Term Preferences\": Analyzing the user's entire review history reveals:\n* A concern for facial skin issues such as breakouts and dark circles\n* Appreciation for effective and results-driven products\n* Interest in various types of face masks, including sheet masks and cream-based masks\n* Openness to trying different brands and formulas, while also being cautious about potential allergies and irritations\n\"User_Profile\": Our user is likely someone who values flexibility in their skincare routine, often experimenting with new products and techniques to achieve specific goals. They prioritize gentle, non-comedogenic ingredients and show sensitivity towards strong fragrances. Given their interest in toning up their skin through regular face masking, they may be attracted to active ingredients and nourishing formulas. However, caution and adaptability remain essential components of their skincare approach. As a result, we anticipate this user will continue exploring various products, focusing on finding the perfect balance between efficacy and comfort. Their search for reliable solutions might lead them to seek out expert recommendations, online communities, and reputable sources for guidance. By acknowledging their willingness to experiment and learn, we expect them to evolve their skincare practices, gradually refining their preferences around what truly resonates with their unique needs and concerns.",
+        "Candidate_Items": {
+            "1": "Face Mask Frenzy - Toning Treats & Hydrating Heroes",
+            "2": "Gentle Glow Getters - Sensitive Skin Savers & Nourishing Neutrals",
+            "3": "Active Ingredients Alley - Collagen-Boosting Creams & Radiant Renewables",
+            "4": "Natural Nuances Network - Centella-Powered Serums & Soothing Tonics",
+            "5": "Allergy-Friendly Oasis - Hypoallergenic Haven & Fragrance-Free Favorites"
+        }
+    },
+    {
+        "User_ID": "AFFGJTTHRCSKGMMCNHT7UWTMKKCQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently shown interest in beauty products specifically related to makeup and nail care. Their primary focus lies within mascara and eyelashes, possibly indicating a desire to enhance their appearance or explore new trends. Additionally, there seems to be an emphasis on durability, waterproof qualities, and ease-of-use. This suggests that the user values practicality and convenience when using these types of products.\n\"Long-Term Preferences\": Upon examining the complete review history, several commonalities emerge. Firstly, the user appears drawn to innovative or unique products, particularly those offering creative solutions for personal grooming. There is a noticeable preference for high-quality materials, attention-to-detail craftsmanship, and effective performance. Furthermore, the user tends to appreciate compact storage cases and portable designs, suggesting an affinity for travel-friendly essentials. Lastly, an underlying thread throughout their purchasing decisions revolves around aesthetics; whether it be bold colors, elegant packaging, or eye-catching design elements, the user gravitates towards visually appealing products.\n\"User_Profile\": Based on our analysis, we propose the following profile summary:\nThis individual prioritizes functionality, quality, and innovation within their beauty routine. With a keen eye for aesthetics, they often opt for products showcasing striking visuals, such as colorful palettes, sleek packaging, or dramatic presentation. Recent purchases suggest a growing fascination with advanced makeup techniques and cutting-edge treatments. Moreover, this user places importance on portability, opting for small yet efficient tools and accessories that cater to their active lifestyle. As they continue exploring new realms of self-expression, expect them to remain attracted to avant-garde concepts, clever engineering, and beautiful design. To better serve this customer, consider highlighting premium product features, emphasizing eco-friendliness, and showcasing inspiring tutorials featuring diverse beauty routines. By catering to these distinct preferences, businesses can build stronger connections and ultimately meet this discerning consumer's evolving needs.",
+        "Candidate_Items": {
+            "1": "Advanced Makeup Techniques & Treatments",
+            "2": "Premium Personal Grooming Tools",
+            "3": "Eco-Friendly Beauty Essentials",
+            "4": "Travel-Ready Beauty Accessories",
+            "5": "Visually Appealing Product Collections"
+        }
+    },
+    {
+        "User_ID": "AECQQBG6YRYCOJL2NCB2H3V6LD6Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently purchased aromatherapy products, skincare treatments, and facial masks. Their interest lies in exploring different methods and ingredients for maintaining healthy and hydrated skin, particularly focusing on relaxing and rejuvenating experiences.\n\"Long-Term Preferences\": Analyzing the user's overall purchase history reveals a persistent interest in holistic wellness practices, self-care routines, and gentle skincare regimens. They seem drawn to natural ingredients, calming scents, and innovative textures. Consistently, they seek high-quality, effective products that promote relaxation, hydration, and radiant complexions.\n\"User_Profile\": This user values tranquility, indulges in pampering rituals, and prioritizes nourishing their skin. They appreciate unique blends, novel sensations, and carefully crafted formulas that cater to diverse needs. As a lover of luxury, they crave premium quality and distinctive fragrances. Current trends suggest they might explore new aromas, essences, and botanicals while maintaining a focus on serenity and inner peace. In the long run, expect this user to continue seeking revitalizing treatments, moisturizing creams, and invigorating masks to maintain optimal skin health and mental calmness. Aromatic oils, essential extracts, and rejuvenating masks will likely remain staples in their beauty arsenal. This refined individual seeks harmony between mind, body, and spirit, reflected in their pursuit of tranquil, restorative experiences that soothe both soul and epidermis.",
+        "Candidate_Items": {
+            "1": "Holistic Wellness Collections",
+            "2": "Premium Skin Treatments",
+            "3": "Essential Oils & Botanical Blends",
+            "4": "Calming Scents & Serene Ambiances",
+            "5": "Nourishing Moisturizers & Hydrating Creams"
+        }
+    },
+    {
+        "User_ID": "AGJWAZESYDYURVDSAMHKVAM2IBWQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest two products reviewed by the user, we observe that she has recently shown interest in beauty-related products, specifically makeup tools (Magnetic Eyelashes and Magnetic Eyeliner Kit). Her review highlights her excitement about using magnetic liners, which suggests a willingness to experiment with new products and techniques. Additionally, her positive experience with the product implies that she values ease-of-use, convenience, and effectiveness.\n\"Long-Term Preferences\": A closer examination of the user's complete review history reveals some underlying patterns. She tends to prefer products related to self-care, personal grooming, and hair care. In particular, she seems drawn to products containing natural ingredients, such as keratin, jojoba oil, and sulfate-free formulas. Furthermore, she appears interested in innovative solutions, as demonstrated by her enthusiasm towards the electric nail drill. These trends suggest that our user prioritizes health-conscious choices, effective problem-solving, and practicality.\n\"User_Profile\": Our user is a beauty enthusiast who enjoys trying out novel products and techniques. Currently, she is excited about magnetic eyeliners and reusable magnetic eyelashes. However, beneath this surface-level fascination lies a more profound preference for self-care, natural ingredients, and innovative solutions. As someone who appreciates ease-of-use and effectiveness, she likely gravitates toward products that simplify her daily routine while providing tangible benefits. With her penchant for exploring new ideas and embracing cutting-edge technology, we can expect her future interests to focus on emerging trends in the beauty industry, particularly those incorporating AI-powered tools or advanced skincare routines. Overall, our user embodies the spirit of a curious and adventurous individual always seeking to enhance her appearance and overall well-being.",
+        "Candidate_Items": {
+            "1": "Natural Ingredient Formulations",
+            "2": "Advanced Makeup Techniques",
+            "3": "Essential Skin & Hair Tools",
+            "4": "Wellness-Focused Product Bundles",
+            "5": "Cutting-Edge Grooming Innovations"
+        }
+    },
+    {
+        "User_ID": "AFNRGRORFAGSB7WGANETBDDYDEAQ",
+        "User_Profile": "\"Short-Term Interests\": The user has shown interest in beauty-related products, specifically focusing on hair care and cosmetics. Within this realm, there appears to be an emphasis on natural and non-invasive methods, such as curl-defining techniques and eyelid growth serums. Additionally, they seem drawn to colorful, vibrant shades within eyeshadows and lipsticks.\n\"Long-Term Preferences\": Upon examining the user's complete review history, several persistent patterns emerge:\n* A focus on natural ingredients and gentle formulas in personal care products\n* Preference for affordable pricing without sacrificing quality\n* Interest in unique and innovative features in cosmetic tools (e.g., diffusers, curlers, and scalp massagers)\n* Enjoyment of colorful, playful packaging designs\n* Favoritism towards smaller, more portable sizes for easy storage\nThese underlying preferences serve as a foundation for the user's long-standing likes and dislikes, providing insight into what drives their purchasing decisions and influences their overall aesthetic choices.\n\"User_Profile\": This user's personality blends creativity, playfulness, and practicality. As a lover of beauty, they seek innovative solutions while prioritizing ease-of-use, affordability, and natural ingredients. Their taste buds tend toward bold colors and whimsical designs, often favoring smaller, travel-friendly formats. With an evolving palette, they continue exploring new trends and styles, yet maintain a strong attachment to timeless concepts like natural beauty and self-care rituals.\nIn summary, this user craves multifaceted experiences blending artistry, functionality, and eco-friendliness, always leaning toward fresh perspectives while remaining loyal to core principles. When shopping, they prioritize quality-to-price ratios, seeking stylish, space-efficient options amidst their expanding repertoire of favorite brands and products.\nPlease note that the above response meets the requirements mentioned earlier. Kindly let us know if you would require further clarification or modifications. Thank you!",
+        "Candidate_Items": {
+            "1": "Natural Beauty Essentials",
+            "2": "Eco-Friendly Packaging Delights",
+            "3": "Colorful Cosmetics Collection",
+            "4": "Travel-Ready Personal Care Packs",
+            "5": "Advanced Skin Health Regimens"
+        }
+    },
+    {
+        "User_ID": "AEUAQ6BAUEBP2C754LR3ILYHP54Q",
+        "User_Profile": "\"Short-Term Interests\": The user's recent purchases indicate an interest in personal care and beauty products, specifically focusing on hair-related items such as combs, cleansing cloths, hair finishing sticks, and makeup removers. Additionally, there may be an inclination towards high-quality, natural ingredients, as reflected in the purchase of biodegradable cleansing cloths.\n\"Long-Term Preferences\": Throughout the user's review history, several consistent trends emerge:\n* A preference for high-quality materials and craftsmanship is evident in comments about dense hair, soft fabrics, and durable construction.\n* There is a tendency towards seeking convenient, portable products that cater to busy lifestyles (e.g., travel-sized toiletries).\n* Some hesitation around trying new products arises from concerns about effectiveness, safety, and compatibility (as shown by feedback on certain products being \"not worth\" the investment).\n\"User_Profile\": This user exhibits a persistent focus on self-care and grooming, particularly within the realm of hairstyling and haircare. Their purchasing decisions often prioritize premium materials, ease-of-use, and adaptability. Despite occasional reservations about particular products, they remain open to exploring novel solutions provided they meet specific standards for performance and durability.\nTheir current interests revolve around maintaining healthy, stylish locks through innovative, effective tools and treatments. Future interests might involve investigating cutting-edge technologies, sustainable practices, or eco-friendly alternatives within the beauty industry. With a keen eye for value-for-money and an appreciation for artisanal craftsmanship, this user seeks products that harmonize functionality with aesthetics, ensuring optimal results without compromising their values.",
+        "Candidate_Items": {
+            "1": "Natural Hair & Scalp Treatments",
+            "2": "Premium Grooming Tools",
+            "3": "Travel-Friendly Toiletries",
+            "4": "Eco-Conscious Bath & Body",
+            "5": "Advanced Hairstyling Techniques"
+        }
+    },
+    {
+        "User_ID": "AEQJM4TTCTH6MTHXAUQHIZ4JZZHA",
+        "User_Profile": "\"Short-Term Interests\": The user recently expressed interest in:\n* Korean cosmetics and skincare products\n* Products that offer instant results, particularly related to wrinkle reduction and volume enhancement\n* Travel-sized essentials and refillable packaging options\n* Facial masking and exfoliating treatments\n* Lipstick and eyeliner application tools\nThese interests suggest the user is currently drawn to convenient, portable, and multitasking products that address specific concerns, such as hydration, anti-aging, and makeup application. Their focus on travel-sized essentials implies adaptability and flexibility, while the emphasis on refills hints at environmental awareness.\n\"Long-Term Preferences\": Analyzing the user's entire review history reveals recurring patterns:\n* Appreciation for high-quality ingredients, natural formulas, and gentle yet potent actives\n* Preference for lightweight, non-greasy textures and subtle fragrances\n* Interest in innovative technologies, especially those addressing age-related issues and skin health\n* Tendency towards repeat purchases and loyalty to brands offering excellent performance and value-for-money\n* Concerned about sustainability, eco-friendliness, and cruelty-free practices\nThis examination indicates the user values efficacy, transparency, and responsible business practices. Their fondness for natural ingredients suggests sensitivity toward harsh chemicals, allergies, or intolerances. Loyalty to tried-and-tested brands underscores trustworthiness and reliability.\n\"User_Profile\": Based on the above analyses, we present the user's comprehensive profile:\nOur subject is a dynamic individual who appreciates convenience, portability, and multitasking in her personal care routines. She values effectiveness, purity, and innovation in products and favors sustainable, eco-friendly practices. With a growing fascination for Korean cosmetics, she seeks solutions addressing common skin concerns, such as hydrations, anti-aging, and makeup application. Her purchasing decisions prioritize quality, price, and brand reputation. As someone interested in self-care and wellness, she prioritizes overall skin health, recognizing its connection to confidence and mental wellbeing.\nKeep an eye out for new arrivals and limited-edition releases within the realms of Korean skincare, anti-aging creams, and refillable cosmetic containers! Consider trying niche, indie labels focusing on natural ingredients, unique formulations, and environmentally conscious production methods. Our subject is likely intrigued by game-changing innovations, expertly crafted marketing campaigns, and compelling narratives around product development. Keep",
+        "Candidate_Items": {
+            "1": "Eco-Friendly Cosmetics & Refillables",
+            "2": "Advanced Anti-Aging Treatments",
+            "3": "Multitasking Skin Care Routines",
+            "4": "Natural Ingredients & Botanicals",
+            "5": "Portable Travel Sets & Miniatures"
+        }
+    },
+    {
+        "User_ID": "AFGCJIO7DNVCCZPG4KVMKKXVPJLQ",
+        "User_Profile": "\"Short-Term Interests\": The user appears to be interested in fashion accessories, specifically hair-related items such as headbands, hair rollers, and hair clips. They seem drawn to colorful, decorative pieces with unique designs, particularly featuring crystals, gems, and floral patterns. Additionally, they may enjoy using these accessories as part of their daily routine, whether for casual activities or professional purposes.\n\"Long-Term Preferences\": A closer examination of the user's past purchases and reviews reveals several underlying trends:\n\u2022 **Fashion-forward thinking**: Throughout their purchasing history, the user consistently favors trendy, stylish items over basic or functional alternatives. Their affinity for fashionable accessories suggests an appreciation for aesthetics and self-expression.\n\u2022 **Affinity for embellishments**: Many reviewed products feature elaborate decorations, highlighting the user's fondness for sparkly, eye-catching elements. This preference indicates an interest in making statements through their attire or personal style.\n\u2022 **Practical considerations**: While prioritizing appearance, the user still values functionality and comfort. Reviews suggest they seek practical solutions without sacrificing visual appeal.\n\u2022 **Natural inclination towards creativity**: Users who favor creative outlets tend to express themselves through various mediums. Given the user's penchant for artistic expressions via hairstyles and adornments, we infer a possible passion for crafting, painting, writing, or other forms of artistic expression.\n\"User_Profile\": Based on our analysis, we present a comprehensive portrait of this user's preferences:\n* A fashion-conscious individual who appreciates innovative styles, bold colors, and ornate details.\n* Someone who balances aesthetic concerns with practical needs, seeking wearable art rather than mere utility.\n* Possesses a creative streak, possibly expressing itself through hobbies or passions outside of fashion.\n* Enjoys exploring new ways to personalize their appearances, embracing experimentation and self-expression.\nThis summary provides a",
+        "Candidate_Items": {
+            "1": "Artistic Expression",
+            "2": "Fashion Forward Accessories",
+            "3": "Embellished Home Decor",
+            "4": "Creative Crafting Supplies",
+            "5": "Trendy Jewelry Designs"
+        }
+    },
+    {
+        "User_ID": "AHPG65LKS3QKRWDUWAKZNLEK5RZQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently been interested in beauty-related products, including nail care tools, skincare essentials, eyebrow shaping kits, and cosmetics. They also seem to appreciate high-quality materials and unique designs.\n\"Long-Term Preferences\": A review of the user's complete history reveals a fascination with fashion accessories, particularly headbands, which they describe as \"real pretty\" and \"fancy.\" They enjoy expressing themselves through clothing and hairstyles, often seeking comfort and practicality while maintaining a sense of elegance. When exploring other categories, they tend towards premium materials, innovative design, and exceptional craftsmanship.\n\"User_Profile\": Based on our analysis, we present the following comprehensive user profile:\nThis user embodies a stylish and fashion-conscious individual with a penchant for elegant expressions. Their affinity for beauty products stems from a desire to enhance their appearance without compromising comfort or practicality. While they may explore various categories, their core preferences revolve around high-end materials, unique designs, and attention to detail. As a whole, their user profile suggests someone who values self-expression, sophistication, and refinement in their daily life and personal aesthetics.",
+        "Candidate_Items": {
+            "1": "Premium Beauty Tools",
+            "2": "High-Quality Grooming Essentials",
+            "3": "Elegant Home Decorations",
+            "4": "Unique Jewelry Designs",
+            "5": "Luxury Fashion Accessories",
+            "6": "**Premium Beauty Tools**: Satisfies their interest in high-end beauty products with advanced technology and superior quality.",
+            "7": "**High-Quality Grooming Essentials**: Meets their demand for top-tier grooming supplies, emphasizing precision and durability.",
+            "8": "**Elegant Home Decorations**: Reflects their appreciation for refined home decor, showcasing intricate details and opulent finishes.",
+            "9": "**Unique Jewelry Designs**: Aligns with their love for distinctive jewelry pieces featuring rare gemstones, exotic materials, or avant-garde designs.",
+            "10": "**Luxury Fashion Accessories**: Embodies their passion for upscale accessories like designer handbags, exclusive hats, or bespoke shoes, blending style, functionality, and prestige.",
+            "11": "Luxury Fashion Accessories",
+            "12": "Premium Beauty Tools",
+            "13": "Elegant Home Decorations",
+            "14": "Unique Jewelry Designs",
+            "15": "High-Quality Grooming Essentials",
+            "16": "Premium Beauty Tools: Satisfies their interest in high-end beauty products with advanced technology and superior quality.",
+            "17": "High-Quality Grooming Essentials: Meets their demand for top-tier grooming supplies, emphasizing precision and durability.",
+            "18": "Elegant Home Decorations: Reflects their appreciation for refined home decor, showcasing intricate details and opulent finishes.",
+            "19": "Unique Jewelry Designs: Aligns with their love for distinctive jewelry pieces featuring rare gemstones, exotic materials, or avant-garde designs.",
+            "20": "Luxury Fashion Accessories: Embodies their passion for upscale accessories like designer handbags, exclusive hats, or bespoke shoes, blending style, functionality, and prestige."
+        }
+    },
+    {
+        "User_ID": "AGNP7WAB6CTY72PMMJZTE2DABPPA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews, we observe the user has shown interest in beauty-related products, specifically focusing on skincare and grooming tools. Their enthusiasm for unique fragrances, gentle cleansing scents, and effective moisturizers suggests they prioritize self-care routines. Additionally, they seem drawn to creative expressions through hairstyles, nail designs, and other forms of personal expression.\n\"Long-Term Preferences\": Upon analyzing the complete review history, several underlying patterns emerge:\n* **Beauty Enthusiasm**: Consistent engagement with various cosmetics, skincare products, and accessories indicates a deep passion for exploring and experimenting within the realm of beauty.\n* **Attention to Detail**: Users tend to appreciate subtle nuances in product quality, performance, and presentation, suggesting a high level of discernment and appreciation for premium offerings.\n* **Creativity Expression**: Throughout their purchase history, users show affinity for innovative, artistic, and whimsical products; such as magical-themed makeup sets, spiral hair rings, and bubble masks \u2013 indicating a desire for self-expression and uniqueness.\n\"User_Profile\": Our analysis reveals a user who embodies a fusion of creativity, attention to detail, and enthusiasm for self-care rituals. As a beauty enthusiast, they crave exploration, experimentation, and exceptional experiences within the world of cosmetics. Aesthetic appeal plays a significant role in driving their purchasing decisions, often prioritizing unique, whimsical, and visually striking products.\nWith this refined perspective, our predictive model anticipates the user will continue to seek innovative beauty solutions, invest in high-quality products, and engage in activities that allow for creative expression and self-discovery. Future recommendations should focus on showcasing cutting-edge cosmetic technologies, limited-edition collaborations, and bold, eye-catching packaging to resonate with their evolving tastes and interests.",
+        "Candidate_Items": {
+            "1": "Ethereal Fragrance Collections",
+            "2": "Creative Cosmetics Creations",
+            "3": "Premium Skin & Scalp Treatments",
+            "4": "Artistic Nail Design Tools",
+            "5": "Magical Hairstyling Accessories"
+        }
+    },
+    {
+        "User_ID": "AFPMVI6ZRR7KS7AWRIBCKILWDVIA",
+        "User_Profile": "\"Short-Term Interests\": The latest reviews indicate Katiebabs' focus has shifted towards skincare products, specifically focusing on cleansing and moisturization. Her attention seems drawn to hand creams, shower gels, and facial masks, which suggests she values gentle, nourishing formulas.\n\"Long-Term Preferences\": Analyzing her review history reveals a pattern of preferring unique fragrances, such as white musk, lavender, and bergamot. She also tends to appreciate high-quality brands offering richer, longer-lasting scents. Additionally, Katiebabs shows a preference for hypo-allergenic products, indicating sensitivity concerns.\n\"User_Profile\": Based on our analysis, we present the following comprehensive profile:\nKatiebabs is likely a skincare enthusiast who prioritizes gentle, nourishing products. She favors unique fragrances, particularly floral notes, and seeks out high-end brands that offer rich, lingering scents. As someone sensitive to chemicals, she gravitates toward hypoallergenic options. Recent interest shifts suggest she might explore new product categories within the realm of cleansing, moisturizing, and facemasking. Our profile highlights her affinity for premium, well-crafted formulas and distinctive aromas, providing a foundation for targeted recommendations and marketing strategies. Future interactions could involve recommending innovative skincare solutions, introducing her to niche fragrance brands, or exploring emerging trends in natural, hypoallergenic beauty care. By considering her established preferences alongside her evolving interests, marketers can tailor their approaches to effectively engage and satisfy Katiebabs' dynamic yet discerning palate.",
+        "Candidate_Items": {
+            "1": "Natural Skin Revival",
+            "2": "High-End Fragrance Collection",
+            "3": "Gentle Daily Rituals",
+            "4": "Hydrating Spa Treatments",
+            "5": "Artisanal Bath & Body Delights"
+        }
+    },
+    {
+        "User_ID": "AGN5KJZU3FYSKVWXWM66LXYWL5CQ",
+        "User_Profile": "\"Short-Term Interests\": The latest products reviewed suggest an interest in personal care routines and grooming tools, particularly those focused on skincare, oral hygiene, and beauty-related accessories. These products seem to cater to women who prioritize self-care and pampering, seeking gentle yet effective solutions for maintaining healthy-looking skin and hair. A strong emphasis on fragrance-free and hypoallergenic formulas suggests sensitivity concerns, likely linked to eczema, allergies, or other dermatological conditions.\nRecent reviews also indicate a preference for travel-sized toiletries, indicating convenience-oriented consumers who value portability and ease-of-use while away from home. Additionally, some products feature romantic elements, such as rose-petal-infused bath bombs, hinting at a desire for sensory experiences tied to relaxation and indulgence.\n\"Long-Term Preferences\": A thorough examination of the user's entire review history reveals a persistent focus on finding high-quality, effective, and gentle products suitable for sensitive skin. Concerns about allergic reactions, irritation, and eczema resurface throughout the reviews, highlighting a need for carefully selected ingredients and formulations. Consistently sought-after features include anti-inflammatory properties, soothing textures, and fragrances free from harsh chemicals.\nBeyond specific product categories, the user demonstrates an appreciation for thoughtful packaging, convenient sizes, and eco-friendly materials. Their fondness for individualized storage containers, reusable bags, and recyclable components indicates concern for sustainability and environmental stewardship.\n\"User_Profile\": This user prioritizes personal care and wellness above all else. With a keen eye toward ingredient quality, effectiveness, and gentleness, they seek reliable brands offering innovative, allergy-conscious solutions for everyday maintenance. Given their affection for portable, travel-sized essentials and eco-friendly packaging, we infer a busy professional or frequent traveler with sensitivities to certain substances.\nIn terms of aesthetic preferences, our user favors understated elegance, often opting for neutral shades and classic designs. Romantic gestures and luxurious treatments \u2013 think rose-petalled baths and scented candles \u2013 bring joy and serenity to daily life.\nAs a valued customer, we anticipate continued loyalty towards trusted brands delivering exceptional performance and minimal risk of adverse reactions. In the future, expect recommendations centered around upgraded skincare regimens, bespoke cosmetic collections, and eco-luxury living. With a deepened understanding of this user's refined sensibilities, we aim to curate targeted suggestions tailored to meet their evolving needs and desires.",
+        "Candidate_Items": {
+            "1": "Allergy-Friendly Skin Care Regimes",
+            "2": "Eco-Conscious Personal Grooming Tools",
+            "3": "Travel-Sized Toiletry Must-Haves",
+            "4": "Fragrance-Free Cosmetic Collections",
+            "5": "Gentle Oral Hygiene Solutions"
+        }
+    },
+    {
+        "User_ID": "AEODUUL6REW3PW2ZGFREKGWBYUZA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews, we see a focus on acrylic and gel-based products for personal grooming. There is also an interest in novelty nail art kits and unique finishes such as glitter. The user has mentioned trying new techniques, experimenting with different colors, and expressing themselves through creative nail design. Their favorite brands seem to lean towards budget-friendly options with affordable prices.\n\"Long-Term Preferences\": Analyzing the user's entire review history reveals a fascination with beauty-related products, particularly those focused on nail care. They tend to favor versatile tools that cater to various needs, from general maintenance to special occasions. A recurring theme includes exploring new trends, staying updated on popular styles, and being open to innovative ideas. Despite occasional setbacks, the user remains committed to improving their skills and adapting to changing market demands.\n\"User_Profile\": Our user is a self-proclaimed nail enthusiast who thrives on creativity, experimentation, and self-expression. While they appreciate value-for-money solutions, their true passion lies in discovering novel ways to enhance their appearance. They enjoy mixing-and-matching different shades and textures to produce distinctive, eye-catching looks. When faced with challenges, our user adapts quickly, seeking advice online, reading tutorials, and practicing until they master new techniques.\nIn summary, this user profile captures a dynamic individual driven by curiosity, artistic expression, and continuous improvement. They navigate the world of nail art with confidence, embracing innovation and showcasing their personality through bold, daring creations. As a result, we anticipate continued exploration of cutting-edge products, trendy designs, and advanced techniques to further elevate their craft.",
+        "Candidate_Items": {
+            "1": "Artistic Nail Design Tools",
+            "2": "Trendy Nail Polish Collections",
+            "3": "Versatile Nail Finishes & Textures",
+            "4": "Budget-Friendly Grooming Accessories",
+            "5": "Creative Nail Art Inspiration Guides"
+        }
+    },
+    {
+        "User_ID": "AE23ZBUF2YVBQPH2NN6F5XSA3QYQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews and product purchases, our user appears interested in self-care routines, particularly involving bath products and skincare treatments. They seem drawn to convenience, ease-of-use, and pleasant experiences during pampering sessions.\n\"Long-Term Preferences\": Upon analyzing the entirety of the user's review history, several patterns emerge:\n* A penchant for trying new products and brands across various categories, including beauty, personal care, and accessories.\n* Appreciation for thoughtful packaging, unique features, and value-for-money deals.\n* Interest in indulging in relaxing activities, such as taking baths, getting massages, or enjoying quiet moments alone.\n* An inclination towards sharing positive experiences and spreading joy by gifting loved ones special treats.\n\"User_Profile\": Our user is likely someone who values relaxation, self-indulgence, and sensory pleasures. With a growing interest in self-care practices, they might explore different aromas, textures, and sensations to enhance their daily routine. Their fondness for gifts and shared experiences suggests they prioritize relationships and nurturing connections. By combining short-term and long-term trends, we envision a user who seeks serenity, exploration, and connection within their everyday life. Recommendations should focus on innovative bath bombs, premium skincare sets, and experiential gifts that cater to their desire for tranquility and delight.",
+        "Candidate_Items": {
+            "1": "Sensory Bliss Experiences",
+            "2": "Premium Pampering Sets",
+            "3": "Indulgent Bath & Body Treats",
+            "4": "Relaxation Rituals Unboxed",
+            "5": "Joyful Gift Giving Boxes"
+        }
+    },
+    {
+        "User_ID": "AGCGQWDEGSGIIT7AZZ7RGY5ZU74Q",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review, we can infer that the user values:\n* Product quality and performance (Gel Nail Polish Set, Canple Self-cleaning Slicker Brush)\n* Unique features and designs (Purple Shampoo and Conditioner Set, LXIANGN Nail Glass Cup With Lid)\n* Effective functionality and ease-of-use (Reusable Shower Cap, Aesfee Makeup Mirror)\nThe user also appreciates packaging and aesthetics, evident in their positive comments regarding the presentation of products such as the Spanature Olive Hand & Body Lotion Travel Size Selection and the Florona Hibiscus Air Freshener Room Spray.\n\"Long-Term Preferences\": A thorough examination of the user's entire review history reveals persistent themes and inclinations that shape their overall preferences. Key observations include:\n* Appreciation for high-quality, effective products that deliver promised results (EASYDEW DW-EGF Double Synergy Moist Ampoule, John Frieda Detox and Repair Shampoo and Conditioner Set)\n* Desire for innovative, unique solutions that enhance daily life (TOEDO Fall Winter Nail Gel, Canple Self-cleaning Slicker Brush)\n* Interest in pampering and self-care routines, reflected through skincare and beauty-related products (Florona Hibiscus Air Freshener Room Spray, EASYDEW DW-EGF Double Synergy Moist Ampoule)\n* Preference for eco-friendly, natural ingredients and sustainable practices, demonstrated by interest in organic/natural products and gentle formulas (Spanature Olive Hand & Body Lotion Travel Size Selection)\n\"User_Profile\": Our comprehensive analysis reveals a user who prioritizes effectiveness, uniqueness, and quality across various aspects of their life. They seek innovative solutions, appreciate premium materials, and enjoy indulging in self-care rituals. Their preference for natural ingredients, sustainability, and aesthetic appeal suggests an affinity for wholesome living and attention to detail.\nGiven their recent focus on personal grooming and wellness, they may be interested in exploring new skincare regimens, trying novel beauty tools, or investing in eco-conscious lifestyle upgrades. As a savvy consumer, they likely prioritize research and read reviews carefully before making purchasing decisions. Our user profile predicts continued enthusiasm for discovering high-end products, embracing creative expressions, and nurturing their connection with nature and themselves.",
+        "Candidate_Items": {
+            "1": "Gel Nail Polish Set",
+            "2": "Canple Self-cleaning Slicker Brush",
+            "3": "Purple Shampoo and Conditioner Set",
+            "4": "LXIANGN Nail Glass Cup With Lid",
+            "5": "**Luxury Pampering**: Encompasses high-end skincare essentials, makeup basics, and hair care solutions that emphasize premium quality and performance.",
+            "6": "**Sustainable Living**: Includes products focused on eco-friendliness, natural ingredients, and minimal waste, reflecting the user's appreciation for environmentally conscious choices.",
+            "7": "**Innovative Home**: Features home decor items that showcase unique design, functional simplicity, and clever storage solutions, mirroring the user's love for creative expression.",
+            "8": "**Wellness Routines**: Comprises products related to self-care, relaxation, and mindfulness, highlighting the importance of mental health and emotional wellbeing.",
+            "9": "**Creative Expression**: Captures artistic endeavors, hobbies, and activities that encourage imagination, creativity, and personal growth, resonating with the user's desire for novel experiences."
+        }
+    },
+    {
+        "User_ID": "AGFAOH3NMW2D7YV3QVZSTXMTSKIQ",
+        "User_Profile": "\"Short-Term Interests\": The user appears to have recently expressed interest in makeup-related products, specifically eyeshadows and primers. There might be some experimentation with new techniques or brands within this category. Additionally, there seems to be an attraction towards innovative beauty tools, such as magnetic eyelashes, eyebrow pluckers, and scrubbing towels. Some hints suggest enthusiasm for retro or vintage aesthetics, possibly driven by nostalgia or fascination with past trends.\n\"Long-Term Preferences\": A closer examination reveals a strong affinity for luxury goods and high-end materials. Products featuring premium ingredients, unique textures, or exceptional craftsmanship tend to resonate with the user. Their taste often gravitates toward functional yet stylish solutions that prioritize performance while maintaining aesthetic appeal. Furthermore, the user exhibits sensitivity towards packaging design, presentation, and overall visual appeal.\n\"User_Profile\": Based on our analysis, we present a comprehensive user profile:\nThis user is likely drawn to premium beauty products that showcase innovation, style, and functionality. Within the realm of makeup, they may explore various shades, techniques, and application methods to achieve desired looks. While appreciative of modern designs, they seem nostalgic for vintage aesthetics and enjoy collecting rare or unique items. To accommodate their eclectic tastes, consider offering curated selections of niche, small-batch, or artisanal beauty products alongside mainstream favorites. When designing packaging, emphasize luxurious materials, clever presentations, and visually striking visuals. This refined sensibility will help attract users seeking exclusive experiences and captivating brand stories. By catering to their whimsical nature and penchant for the extraordinary, we aim to deliver unparalleled customer satisfaction.",
+        "Candidate_Items": {
+            "1": "Artisanal Luxuries",
+            "2": "Vintage Revival Collection",
+            "3": "Cutting-Edge Cosmetics",
+            "4": "Premium Pampering Experiences",
+            "5": "Niche Beauty Discoveries"
+        }
+    },
+    {
+        "User_ID": "AG4D44BNNLUEZNG7COK2CNRYUHYQ",
+        "User_Profile": "\"Short-Term Interests\": Recent products reviewed suggest some interest in beauty and grooming products, particularly focusing on hair care and makeup. Within these categories, there appears to be an inclination towards products catering specifically to women, children, and possibly individuals with specific hair types (curly, fine). Reviews indicate a desire for effective results, ease of use, and comfortable usage experiences.\n\"Long-Term Preferences\": Historical data reveals a persistent pattern of curiosity-driven exploration across various product domains, including beauty, skincare, nail care, pet grooming, and travel accessories. Users tend to favor affordable options, often seeking value-for-money deals while maintaining flexibility regarding brand loyalty. Some trends observed in past purchases include:\n* Preference for multitasking products offering multiple functions or benefits\n* Drawn to innovative features, such as unique ingredients, advanced technology, or novel designs\n* Interest in exploring new brands and discovering hidden gems beyond mainstream choices\n\"User_Profile\": Based on this combined analysis, our user profile outlines a curious individual open to exploring diverse product ranges. With a focus on personal care, beauty, and lifestyle goods, they prioritize effectiveness, comfort, and affordability. Their taste buds may lean toward edgy, avant-garde styles, mixed with occasional enthusiasm for trendy innovations. As a savvy shopper, they appreciate versatile products serving dual purposes and enjoy uncovering hidden treasures among niche brands. When selecting products, they consider factors such as quality, performance, and satisfaction alongside budget constraints. Given their adaptability and willingness to try new things, our user is poised to continue embracing fresh discoveries in the world of beauty,",
+        "Candidate_Items": {
+            "1": "Multitasking Marvels",
+            "2": "Niche Brand Discoveries",
+            "3": "High-Performance Haircare",
+            "4": "Versatile Travel Accessories",
+            "5": "Edgy Beauty Innovations"
+        }
+    },
+    {
+        "User_ID": "AGQIUTI7M4XUGCRV6E66FAOCX5PQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently shown interest in bath bombs and spa-related products. They seem drawn to sets containing multiple individual products, possibly indicating a desire for variety and exploration within specific categories. Additionally, there appears to be an emphasis on natural ingredients, organic materials, and cruelty-free practices.\n\"Long-Term Preferences\": A closer examination reveals a pattern of seeking high-quality products that align with values such as sustainability, eco-friendliness, and gentle skincare. There is a preference for products featuring unique scents, textures, and packaging. Within beauty routines, users tend towards oil-control solutions and hydrating moisturizers, suggesting concerns about sebum production and dryness. Furthermore, users show appreciation for affordable prices and practicality without sacrificing performance.\n\"User_Profile\": This user profile indicates a strong affinity for self-care rituals and relaxation techniques. Their fascination with bath bombs may signify a quest for tranquility and indulgence. When exploring beauty routines, they seek balanced formulas addressing various skin types and conditions. Overall, our user prioritizes environmentally responsible choices, cruelty-free practices, and functional products that cater to diverse needs. Future recommendations should focus on artisanal brands offering innovative combinations of natural ingredients, luxurious experiences, and accessible pricing. As they continue navigating different products, we expect their preferences to remain centered around sustainable luxury, sensory delights, and effective problem-solving solutions.\nNote: Please respond under each heading and ensure your answer does not exceed the word limit. Also, please make sure your answer follows proper formatting and grammar rules.",
+        "Candidate_Items": {
+            "1": "Natural Luxuries",
+            "2": "Eco-Friendly Beauty Routines",
+            "3": "Spa-Inspired Bath Experiences",
+            "4": "Artisanal Grooming Sets",
+            "5": "Hydrating Skin Care Essentials"
+        }
+    },
+    {
+        "User_ID": "AHPG65LKS3QKRWDUWAKZNLEK5RZQ_1",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest products reviewed by the user, we observe:\n* A focus on beauty-related products, including hair accessories, nail care tools, and skincare essentials\n* An interest in premium-quality products, demonstrated through positive comments regarding material choices, construction, and performance\n* Curiosity towards innovative features, such as smart sensors and unique application methods\nThese observations suggest that the user values high-end aesthetics, functionality, and cutting-edge technology within the realm of personal grooming and self-care.\n\"Long-Term Preferences\": A thorough examination of the user's review history reveals:\n* Consistent enthusiasm for luxury and premium brands, often praising durability, comfort, and attention-to-detail\n* Appreciation for versatile products that serve multiple purposes, showcasing adaptability and practicality\n* Interest in staying ahead of trends while maintaining classic appeal, suggesting an openness to innovation without sacrificing timeless charm\nThis analysis highlights the user's enduring preference for upscale brands, functional designs, and adaptable solutions across various product categories.\n\"User_Profile\": Our synthesis of short-term interests and long-term preferences yields a comprehensive portrait of our user:\nShe is a discerning individual seeking high-quality, visually appealing products that prioritize function alongside form. Her affinity for luxury brands and appreciation for versatility indicate a willingness to invest in durable, reliable goods that meet her evolving needs. While she remains open to exploring novel features and technologies, she also appreciates timeless design elements and classic elegance. With a keen eye for detail and a passion for self-expression, she seeks exceptional experiences that harmonize sophistication and practicality.\nPlease note that the given text may contain grammatical errors; however, they do not affect the overall meaning and context of the passage. Therefore, please refrain from correcting them unless absolutely necessary.",
+        "Candidate_Items": {
+            "1": "Premium Personal Grooming Tools",
+            "2": "High-End Cosmetics and Fragrances",
+            "3": "Timeless Fashion Accessories",
+            "4": "Smart Home Wellness Systems",
+            "5": "Exclusive Subscription Boxes"
+        }
+    },
+    {
+        "User_ID": "AEXGISIVX7WBUNI7UHHERVB3DF7Q",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest products reviewed, we observe the user has recently focused on skincare-related products, specifically toners and face washes. They seem to appreciate gentle, non-irritating formulas with pleasant fragrances. Additionally, there is evidence of interest in natural ingredients, hydration, and anti-aging benefits within these products.\n\"Long-Term Preferences\": A thorough examination of the user's complete review history reveals several underlying trends:\n* Preference for natural and organic ingredients in personal care products\n* Appreciation for subtle, yet effective fragrances\n* Interest in self-care routines, particularly bathing and relaxation rituals\n* Desire for high-quality, luxurious products without compromising on performance\n* Sensitivity towards strong scents and potential irritation from harsh chemicals\nThese consistent themes across various product categories demonstrate the user's deep-seated affinity for indulging in premium, gentle, and nourishing experiences that promote overall well-being.\n\"User_Profile\": Our analyzed user profile highlights a discerning individual who prioritizes comfort, relaxation, and natural approaches to self-care. Current interests revolve around skincare essentials, while persistent preferences lean toward luxury, subtlety, and sensitivity-aware formulations. With a penchant for indulgence, our user appreciates unique blends of fragrances, botanical extracts, and essential oils. Expect them to seek out innovative, eco-friendly solutions that cater to their specific sensitivities and cravings. Their shopping journey will likely involve exploration of niche brands offering bespoke, indulgent experiences. As a result, recommendations should focus on showcasing exceptional quality, understated elegance, and unparalleled efficacy in addressing their concerns about skin health and beauty.",
+        "Candidate_Items": {
+            "1": "Natural Ingredients Formulations",
+            "2": "Gentle Skin Treatments",
+            "3": "Luxurious Bath & Body Delights",
+            "4": "Botanical Essence Collections",
+            "5": "High-Quality Fragrance Oils"
+        }
+    },
+    {
+        "User_ID": "AG7JCEMC64AM7JPATDVGP6YZOTXA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest purchases and reviews, we identify the user's immediate fascinations:\n- Eco-friendly products and practices\n- Sustainable living through farming and reducing environmental impact\n- Interest in beauty and personal care routines involving natural ingredients\n- Fandom for Harry Potter and related merchandise\n- Appreciation for artistic expressions like painting and nail art\n\"Long-Term Preferences\": After analyzing the user's review history, we uncover recurring patterns and inclinations:\n- Commitment to environmentally responsible choices and sustainable lifestyles\n- Desire for high-quality, durable, and functional products\n- Preference for natural, non-toxic, and organic materials\n- Enjoyment of creative activities and hobbies, such as painting and gardening\n- Passion for self-care, wellness, and personal growth\n\"User_Profile\": Our combined assessment reveals a multifaceted individual with an enduring passion for sustainability, creativity, and self-expression. Their interest in eco-friendly practices and commitment to reducing waste reflect a genuine desire to minimize their ecological footprint.\nTheir fascination with Harry Potter and appreciation for artistic endeavors demonstrate a playful side, while their preference for natural and organic products suggests a concern for health and wellbeing. As they continue exploring new products and experiences, we anticipate their interests may evolve to incorporate emerging trends in sustainable living, clean beauty, and artistic expression.\nThis profile highlights the importance of considering both short-term interests and long-term preferences when understanding users' needs and behaviors. By integrating these perspectives, we gain insight into the complexities and nuances of human behavior, ultimately enhancing our ability to personalize recommendations and improve overall customer satisfaction.",
+        "Candidate_Items": {
+            "1": "Green Living Essentials",
+            "2": "Artistic Expression Tools",
+            "3": "Natural Wellness Remedies",
+            "4": "Clean Beauty Collections",
+            "5": "Eco-Friendly Home Goods"
+        }
+    },
+    {
+        "User_ID": "AGADKXWLAJJ4FGWIDIWAPJL5A6HA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review, we see that the user is interested in:\n* Hair care products, specifically combs and brushes\n* Beauty routines, particularly facial skincare\n* Natural ingredients, such as lavender\n* Product quality, including packaging and application\nThe user also mentions being affected by the pandemic, indicating they may be prioritizing self-care and personal hygiene practices at present.\n\"Long-Term Preferences\": After analyzing the user's complete history, notable patterns emerge:\n* They tend towards natural ingredients and scents, evident in their appreciation for lavender-lotion and cucumber-based facial skincare\n* They value product effectiveness, demonstrated through their expectations of high-quality performance from various beauty products\n* Their experiences suggest adaptability; they're willing to try new things, even amidst challenging circumstances (e.g., quarantine)\nThese persistent themes reveal a user who favors gentle, non-irritating formulas and emphasizes functional benefits in their daily routine choices.\n\"User_Profile\": Our user is likely someone who appreciates simple, effective solutions for their everyday grooming and skincare needs. Currently, they might prioritize finding suitable hair care tools due to their changing hairstyle. In the past, they've shown interest in exploring different scents and ingredients while maintaining a focus on product efficacy. Moving forward, we expect them to continue seeking reliable, natural options for enhancing their overall well-being and appearance. Key takeaways include:\n\u2022 A preference for gentle, chemical-free formulations\n\u2022 Emphasis on practicality and ease-of-use in product design\n\u2022 Adaptation to changing situations and experimentation within established boundaries\n\u2022 Appreciation for subtle fragrances and nuanced scents\n\u2022 Prioritization of self-care and personal hygiene practices amid life changes\nBy considering these factors, our recommendation engine can better cater to this individual's evolving requirements and tailor suggestions accordingly, providing a more accurate and satisfying user experience.",
+        "Candidate_Items": {
+            "1": "Essential Grooming Tools",
+            "2": "Natural Ingredient Formulations",
+            "3": "Timeless Beauty Routines",
+            "4": "High-Quality Packaging Options",
+            "5": "Fragrance-Free Favorites"
+        }
+    },
+    {
+        "User_ID": "AFDNVPMB44ZS5O2CSJTL47BI2QTQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review, we can identify the user's interest in:\n* Hair care products (specifically, hair cutting scissors kit, hair ties, and body scrub)\n* Quality and functionality are essential aspects in choosing hair care tools and accessories\nThese short-term interests suggest the user is currently focused on exploring various options within the beauty/haircare niche, prioritizing high-quality products that meet specific needs.\n\"Long-Term Preferences\": By examining the entirety of the user's reviews, patterns emerge indicating a preference for:\n* High-quality products with functional designs (e.g., scissor kits, hair ties, and exfoliating scrubs)\n* Aesthetic appeal, such as packaging design (soft bags), color variety, and unique fragrances\n* Brand loyalty is not explicitly stated; however, user satisfaction seems contingent upon meeting individual expectations regarding performance and presentation\nConsistent themes across multiple reviews reveal an affinity for premium materials, innovative features, and visually appealing presentations. These elements contribute to forming a sense of connection and trust between the user and chosen brands.\n\"User_Profile\": Our user profile reveals a discerning individual who values:\n* Functionality and effectiveness in hair care tools and accessories\n* Attention to detail in packaging design and overall aesthetic appeal\n* Continuous exploration of new products within the beauty/natural skincare realm\nTheir focus lies at the intersection of quality, innovation, and visual presentation. As they continue to navigate the market, our user will likely prioritize finding exceptional products that exceed expectations while maintaining an appreciation for unique brand identities.\nPlease note that this summary provides a snapshot of the user's profile at the moment, considering both immediate and enduring preferences. This profile should serve as a foundation for further refinement and adaptation as new experiences shape their evolving tastes and interests.",
+        "Candidate_Items": {
+            "1": "Premium Packaging Delights",
+            "2": "Functional Fashion Accessories",
+            "3": "Natural Skincare Rarities",
+            "4": "Artisanal Grooming Tools",
+            "5": "Sensory Experiences Unboxed"
+        }
+    },
+    {
+        "User_ID": "AEKNMPUXBMNMHDYWMLKOUTEY3LYA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews provided, we can identify the user's immediate concerns and preferences. They seem to appreciate value-for-money sets, specifically looking at high-quality skincare products at affordable prices. This suggests that budget-friendliness is essential for them. Additionally, they prioritize gentle, non-irritating ingredients due to having sensitive skin. Their interest in hydration and calming products indicates a focus on soothing and nourishing their skin.\n\"Long-Term Preferences\": The user has shown a pattern of trying various skincare products across different brands. From previous reviews, we see they enjoy sets offering multiple products, which may indicate a desire for customization and exploration. However, they also tend to favor products labeled as 'hydrating' and 'calming', suggesting a strong affinity for gentle, nourishing formulas. Furthermore, our review history reveals a willingness to adapt to new product textures, concentrations, and formulations. This openness implies an ability to adjust their routine according to changing needs and preferences.\n\"User_Profile\": Our analysis combines insights from both short-term and long-term perspectives to paint a comprehensive portrait of this user. We find that they seek value-driven, multi-product sets tailored to sensitive skin. Their preferences lean towards hydrating, calming, and soothing formulas, often prioritizing gentle ingredients. With an open mind toward exploring different textures, concentrations, and brand options, this user values flexibility while maintaining a commitment to finding effective, nurturing products for their delicate skin. As a result, recommended products should cater to their specific requirements, focusing on affordability, sensitivity-friendly components, and customizable routines. Our refined recommendation query includes keywords such as'sensitive skin,' 'hydration,' 'calmness,' and 'customizable.' By considering these factors, we can better tailor recommendations to meet the user's evolving yet enduring needs.",
+        "Candidate_Items": {
+            "1": "Sensitive Skin Soothers",
+            "2": "Hydrating Heroes",
+            "3": "Customized Complexions",
+            "4": "Nourishing Nighttime Rituals",
+            "5": "Gentle Glow Boosters"
+        }
+    },
+    {
+        "User_ID": "AFBUKVT3KQFLL4X536HS4KKBBJ7Q",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest products reviewed by the user, we observe an interest in bath-related accessories and personal care items. Specifically:\n* Preference for loofah sponges for general body exfoliation\n* Interest in innovative solutions for wearing masks comfortably\n* Concerns about breathability while using facial masks\nThese short-term interests indicate a focus on self-care routines, comfort, and practicality in daily life.\n\"Long-Term Preferences\": Analyzing the user's review history reveals underlying tendencies that shape their lasting preferences. Key observations include:\n* Appreciation for functional design and ergonomic features in product development\n* Value placed on ease-of-use, convenience, and adaptability in various situations\n* Emphasis on cleanliness, maintainability, and durability when evaluating products\nThe user tends to favor products that prioritize functionality, simplicity, and reliability, often seeking innovations that enhance everyday experiences.\n\"User_Profile\": This user exhibits a dynamic combination of stability and flexibility in their preferences. While enjoying novel solutions for specific needs (short-term interests), they also appreciate timeless values such as quality craftsmanship, usability, and sustainability (long-term preferences).\nIn summary, our user profile highlights someone who prioritizes practicality, comfort, and effectiveness in their personal care routine. They tend to seek innovative, adaptive, and high-quality products that cater to diverse scenarios, reflecting a balance between immediate gratification and enduring satisfaction.\nPlease note that this user profile aims to present a synthesized view of the individual's tastes, habits, and potential future interests, rather than providing an exhaustive description of their personality or broader lifestyle choices.",
+        "Candidate_Items": {
+            "1": "Clean & Simple Bath Accessories",
+            "2": "Advanced Personal Care Innovations",
+            "3": "Essential Home Spa Tools",
+            "4": "Natural Wellness Routines",
+            "5": "Ergonomic Daily Living Aids |"
+        }
+    },
+    {
+        "User_ID": "AFGGRGHGHSFKMZASFBYFRHBBEOPA",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviewed products, we see an interest in beauty-related items, specifically perfumery, nail care, wigs, skincare, and sunscreens. There appears to be an inclination towards trying different fragrances, experimenting with various nail art designs, exploring new hairstyles through wigs, maintaining healthy-looking skin, and seeking effective sun protection.\n\"Long-Term Preferences\": From reviewing the user\u2019s extensive history, several persistent patterns emerge:\n* An affinity for elegant, sophisticated aesthetics, evident in the appreciation for luxury brands and refined scents;\n* Preference for high-quality materials and attention-to-detail craftsmanship in products;\n* Interest in self-care routines involving pampering treatments, such as salon-grade tools and indulgent skincare regimens;\n* Fondness for creative expression, manifesting in hobbies related to arts and crafts, fashion, and personal style experimentation;\nThese enduring traits suggest a person invested in refining their sense of identity, valuing presentation, and cultivating unique experiences.\n\"User_Profile\": This individual embodies a refined yet adventurous spirit, drawn to luxurious, high-end products that cater to their desire for elegance and sophistication. Their passion for creativity and self-expression leads them to explore diverse artistic outlets, while also prioritizing relaxation and rejuvenation through spa-like treatments. As a result, we anticipate their interests to continue leaning toward upscale beauty essentials, innovative hairstyling options, and premium skincare solutions. When searching for recommendations, expect suggestions centered around refinement, exclusivity, and exceptional quality. This user craves inspiration and guidance for expressing themselves authentically through fashion, beauty, and lifestyle choices.",
+        "Candidate_Items": {
+            "1": "High-End Beauty Luxuries",
+            "2": "Premium Skincare Collections",
+            "3": "Artistic Nail Design Inspirations",
+            "4": "Exclusive Fragrance Experiences",
+            "5": "Creative Hairstyling Innovations"
+        }
+    },
+    {
+        "User_ID": "AFUWF5DARSSBPDLHSY67Q3LCI54Q",
+        "User_Profile": "\"Short-Term Interests\": The user has shown interest in beauty-related products such as wigs, nail care tools, and cosmetics. Their latest purchases suggest a focus on personal grooming, self-care, and creative expression through hairstyles and nail art. This brief window provides insight into the user's immediate desires and current fascinations.\n\"Long-Term Preferences\": A thorough examination of the user's review history reveals a profound appreciation for innovative technology, ease-of-use, and high-quality materials. Their persistent praise for products' performance, design, and functionality demonstrates a preference for reliable, efficient solutions. Moreover, their affinity for various accessories and tools indicates a willingness to explore different aspects of beauty and self-expression.\n\"User_Profile\": Based on our analysis, we present the following comprehensive profile:\nThis user prioritizes convenience, aesthetics, and creativity within the realm of beauty and personal grooming. Recent interests revolve around exploring novel hairstyling techniques and expressing themselves through unique nail designs. Historically, they favor products boasting cutting-edge features, user-friendly interfaces, and durable construction. As someone open-minded towards experimentation and innovation, they remain committed to refining their skills and discovering fresh ways to express themselves. Future interests might involve staying up-to-date with emerging trends and investing in advanced technologies to further enhance their self-care routine. Overall, this individual embodies a passion for artistic expression, technical advancements, and self-improvement within the context of beauty and personal style.",
+        "Candidate_Items": {
+            "1": "Artistic Expression Tools",
+            "2": "Advanced Grooming Innovations",
+            "3": "Customizable Cosmetics Collections",
+            "4": "Personalized Pampering Packages",
+            "5": "High-Quality Hairstyling Solutions"
+        }
+    },
+    {
+        "User_ID": "AHSV4TYSAX52BIHH7PLZRD44KZHA",
+        "User_Profile": "\"Short-Term Interests\": Based on recent activity, we observe an increased interest in nail care products, specifically gel-based formulas and accessories. The user appears drawn to colorful, shimmering finishes and high-quality application results. Their search for related topics includes terms like \"nail art,\" \"manicure,\" and \"soak-off.\" We suspect a desire for self-expression through creative nail designs.\n\"Long-Term Preferences\": Our analysis reveals a deeper affinity for nail-related activities and products that transcend fleeting trends. Historical patterns suggest an appreciation for variety, versatility, and value-for-money. The user tends to favor mid-range priced items, often opting for affordable alternatives while maintaining quality expectations.\nIn particular, they demonstrate a fondness for novelty, innovative features, and attention-grabbing packaging. Additionally, their purchase history indicates a strong preference for:\n+ Unique, eye-catching shades and effects\n+ High-performance formula and easy removal\n+ Affordable prices and good value\n+ Versatility in usage and reapplication\n\"User_Profile\": Meet our user, who embodies a passion for nail artistry and creativity. They thrive on exploring new techniques, trying bold colors, and experimenting with various textures. While initially drawn to trendy, limited-edition collections, they ultimately prioritize durability, ease-of-use, and cost-effectiveness.\nAs a long-standing advocate for innovation in the beauty industry",
+        "Candidate_Items": {
+            "1": "Nail Art Inspirations & Accessories",
+            "2": "Premium Gel Polish Collections",
+            "3": "DIY Nail Craft Materials & Tools",
+            "4": "Budget-Friendly Beauty Hauls",
+            "5": "Limited-Edition Lacquer Releases",
+            "6": "Creative Expression Essentials",
+            "7": "Advanced Nail Techniques",
+            "8": "Customizable Nail Design Systems",
+            "9": "Value-Driven Beauty Buys",
+            "10": "Trendy Color Innovations"
+        }
+    },
+    {
+        "User_ID": "AHV6QCNBJNSGLATP56JAWJ3C4G2A",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviewed products, we observe the user's interest in self-care and personal grooming products. Specifically:\n* Body lotions and skincare routines play a significant role in their daily life.\n* They prefer lightweight, non-greasy products that absorb quickly without leaving residue.\n* Comfortable, soft materials and gentle ingredients are important considerations.\n* In addition, they show curiosity towards trying different fragrances through perfume samples and exploring unique scents.\n\"Long-Term Preferences\": Examining the user's entire product history reveals persistent patterns and themes:\n* Skincare remains a vital aspect of their regimen, with continued interest in various products addressing specific concerns (e.g., aging, hydration).\n* They exhibit adaptability toward trying new textures, consistencies, and formulations while maintaining preferences for natural, hypo-allergenic ingredients.\n* Vitamins, antioxidants, and herbal extracts appear frequently across reviewed products, suggesting a focus on nourishing and rejuvenating their skin.\n* Beyond cosmetics, the user demonstrates flexibility in exploring diverse product categories, including accessories like headbands, hair ties, and perfumes.\n\"User_Profile\": Our analysis yields a comprehensive profile reflecting the user's stable preferences alongside their transient interests. Key characteristics emerge:\nAs a curious, adaptable individual, our user prioritizes comfort, gentleness, and effectiveness in their self-care practices. Their quest for optimal skincare drives their exploration of various products, often seeking innovative formulas, textures, and scents. Within this context, they demonstrate appreciation for nature-inspired ingredients, vitamins, and antioxidant-rich compounds. Furthermore, their willingness to experiment with new products, particularly within the realm of accessories, hints at an adventurous spirit.\nThis profile provides insight into the user's evolving yet consistently refined preferences",
+        "Candidate_Items": {
+            "1": "Sustainable Skin Options",
+            "2": "Luxury Hair Treats",
+            "3": "Every Day Grooming",
+            "4": "Occasional Mood Boosters",
+            "5": "Innovative Eye Care Solutions"
+        }
+    },
+    {
+        "User_ID": "AH3BXW7KLIS2VAE56UXJS2NS7I5A",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest reviews, we observe trends indicating interest in self-care routines, particularly around bath and shower experiences. Additionally, there is a focus on personal grooming and beauty treatments, such as massages and facial care. We see a preference for premium-quality products that cater to specific concerns, such as acne treatment or hair care.\nRecent items suggest an inclination towards indulgent treats, including scented candles, essential oils, and luxurious accessories. There is also evidence of a desire to explore unique gifts or presents, possibly hinting at a knack for creative gifting or appreciation for special occasions.\n\"Long-Term Preferences\": A thorough examination of the user\u2019s review history reveals several recurring patterns. First, the user tends to favor brands offering unique or niche products, often catering to specific skin conditions, allergies, or sensitivities. A preference for organic, natural ingredients and cruelty-free practices emerges consistently throughout the user\u2019s history.\nSecondly, our analysis indicates a fondness for innovative packaging designs, compact sizes, and convenient portability features. Travel-friendly products appear to appeal strongly to the user, suggesting a busy lifestyle requiring adaptable solutions.\nThirdly, the user exhibits an affinity for aromatics, fragrances, and sensory experiences, often seeking calming, soothing, or invigorating sensations through various means, such as essential\n\"User_Profile\": ",
+        "Candidate_Items": {
+            "1": "Natural Wellness Treats",
+            "2": "Premium Grooming Experiences",
+            "3": "Fragrance & Essential Oil Delights",
+            "4": "Portable Pampering Items",
+            "5": "Niche Product Curiosities"
+        }
+    },
+    {
+        "User_ID": "AFPPNF3RSFMMNC5UAM6V4B475MBQ",
+        "User_Profile": "\"Short-Term Interests\": Based on the latest review patterns, the user appears interested in:\n* Beauty and skincare products\n* Haircare solutions\n* Makeup and cosmetic tools\n* Nail art and grooming accessories\n* Personal pampering and self-care routines\n* Fragrances and scented products\nThese interests suggest the user values personal appearance, relaxation, and indulgence.\n\"Long-Term Preferences\": After analyzing the user's entire review history, we identify recurring themes indicating:\n* Interest in exploring various product categories beyond initial favorites\n* Appreciation for innovative packaging designs and unique experiences\n* Tendency towards loyalty to brands offering exceptional performance, value, and customer service\n* Willingness to invest time and effort in DIY projects, especially those related to beauty and wellness\n* Desire for convenient, portable, and travel-friendly products\nThese persistent preferences reveal a user open-minded yet discerning, valuing convenience, uniqueness, and top-notch quality.\n\"User_Profile\": Our comprehensive analysis reveals a user drawn to beauty and self-care, with a passion for exploration and discovery. Their preference for innovative design, ease-of-use, and premium quality aligns with a desire for distinctiveness. Within their core interests lie opportunities to explore new formats, applications, and experiences. We expect this user to continue seeking refined, practical, and indulgent offerings that enhance their daily routine. Key traits include:\n\u2022 Curiosity-driven consumerism\n\u2022 Appreciation for innovative packaging and presentation\n\u2022 Loyalty to trusted brands\n\u2022 Enthusiasm for DIY pursuits\n\u2022 Value placed on portability, comfort, and aesthetics\nThis summary provides a unified representation of the user's evolving interests and enduring preferences, enabling targeted marketing strategies and personalized recommendations.",
+        "Candidate_Items": {
+            "1": "Pampered Luxuries",
+            "2": "Natural Wellness Essentials",
+            "3": "Artistic Expression Tools",
+            "4": "Travel-Friendly Comfort Items",
+            "5": "Creative Pursuits Supplies"
+        }
+    },
+    {
+        "User_ID": "AHG5KKQMMZJA46LDH73IZ4QUHYXA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently reviewed products related to personal grooming, skincare, and self-care. They seem interested in exploring different scents and formulations, such as vitamin-enriched serums and herbal extracts. Their interest lies in finding effective solutions for achieving healthy-looking skin.\n\"Long-Term Preferences\": Upon analyzing the user's complete purchase and review history, we notice a pattern of fascination with natural ingredients, organic products, and eco-friendly packaging. This inclination towards sustainability suggests that the user prioritizes environmental responsibility alongside individual wellness goals.\nSummary Profile:\nBased on our combined analysis, here is a summary profile of the user:\nNameless_Reviewer is driven by a passion for discovering new ways to enhance their physical appearance while maintaining ecological integrity. With short-term interests focused on skincare innovation and exploration, Nameless_Reviewer seeks top-tier formulas offering potent antioxidant protection and nourishing benefits. In contrast, nameless_reviewer's long-term preferences reveal a commitment to sustainable practices, favoring natural ingredient-driven products whenever possible. As a result, you'll find them drawn to brands promoting environmentally conscious methods, organic materials, and transparent labeling. When introducing new recommendations, consider highlighting innovative uses of botanical extract combinations, revitalized packaging options, and expertly balanced skincare regimens featuring natural antioxidants. Avoid emphasizing synthetic preservatives, artificial fragrances, or overly processed components that might conflict with Nameless_Reviewer's core values. By considering these insights, you're better equipped to tailor personalized suggestions tailored to their evolving needs within the realm of beauty, wellbeing, and environmental harmony.\n\"User_Profile\": ",
+        "Candidate_Items": {
+            "1": "Natural Ingredients & Botanicals",
+            "2": "Eco-Friendly Packaging & Refills",
+            "3": "Advanced Skin Care Formulations",
+            "4": "Organic Personal Grooming Essentials",
+            "5": "Green Cleaning & Wellness Routines"
+        }
+    },
+    {
+        "User_ID": "AH5BEMAKZE5RJ3JSHUYOJ7S2WKBA",
+        "User_Profile": "\"Short-Term Interests\": The latest products reviewed by this user indicate an interest in beauty-related products, specifically focusing on eye care (mascara), skincare (bubble mask), and nail art/styling tools. They seem drawn to unique features such as foaming bubble masks and gel nail polish sets. Their recent reviews suggest a preference for functional yet aesthetically pleasing packaging, ease of use, and innovative applications.\n\"Long-Term Preferences\": A thorough examination of the user's complete review history reveals recurring patterns in their purchasing decisions. Despite varying product categories, several commonalities emerge:\n* A fondness for novelty and uniqueness in product offerings\n* Appreciation for high-quality materials and craftsmanship\n* Interest in self-care and pampering routines\n* Preoccupation with aesthetics, particularly visual appeal and presentation\n* Drawn to convenience-oriented solutions and multi-purpose products\n\"User_Profile\": Based on our analysis, we can conclude that this user has a strong affinity for beauty and personal grooming products, often prioritizing unique features, quality materials, and aesthetic appeal. Their preferences tend towards self-care practices and convenient solutions. In terms of specific product types, they demonstrate enthusiasm for mascara, skincare treatments, nail art supplies, and related accessories. To better cater to this user, consider offering new releases within these niches while emphasizing innovative twists, luxurious textures, and visually appealing presentations. By doing so, you'll be more likely to engage this user through targeted recommendations and satisfy their evolving needs across various aspects of beauty and wellness. Maximize relevance by highlighting the intersection between emerging trends and timeless classics, ensuring seamless connections between short-term fascinations and enduring passions. For instance, explore niche-specific content around mascara styles, DIY spa routines, or advanced nail art techniques, which may resonate strongly with this user's interests and foster continued loyalty. By honoring their individual tastes, you'll cultivate trust, drive engagement, and maintain a loyal customer base for years to come.",
+        "Candidate_Items": {
+            "1": "Eye Enchanters",
+            "2": "Skin Serenity Sets",
+            "3": "Nail Nirvana Collections",
+            "4": "Pampered Moments Boxes",
+            "5": "Whimsy Wellness Wonders"
+        }
+    }
+]

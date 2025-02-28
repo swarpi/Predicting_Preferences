@@ -1,0 +1,916 @@
+[{
+    "User_ID": "AEVPPTMG43C6GWSR7I2UGRQN7WFQ",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with VR accessories, including replacement head straps, controller grips, and display stands. They are particularly focused on comfort, ease of use, and whether accessories securely fit the VR headset.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Critical of products that damage or do not fit VR hardware properly\n* Values adjustable, comfortable straps and grips that stay in place for active games like Beat Saber\n* Prefers accessories that allow for easy customization without blocking sensors\n* Seeks quality materials that hold up over time, especially foam and padding\n\"User_Profile\": The user is a VR enthusiast who invests in accessories to enhance gameplay experience. They are sensitive to products that may cause wear or damage to their VR gear and value adjustability, comfort, and durability. They often play active or rhythm-based VR games, meaning reliable, well-fitting accessories are a priority.",
+    "Candidate_Items": {
+      "1": "VR Cable Management Pulley System",
+      "2": "Adjustable VR Face Interface with Cooling Vents",
+      "3": "Hard Shell Carrying Case for VR Headsets",
+      "4": "VR Controller Grips with Extended Handles",
+      "5": "Quick-Dry VR Face Pad Covers"
+    }
+  },
+  {
+    "User_ID": "AFZUK3MTBIBEDQOPAK3OATUOUKLA",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with family-friendly video games on various Nintendo platforms and accessories for both Wii and Switch. They enjoy dancing and party games, as well as classic board games adapted for consoles.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Focus on fun, active, and social gaming experiences (e.g., Just Dance, Monopoly, etc.)\n* Appreciation for accessories that organize and enhance gameplay with family and friends\n* Enjoys games that can be played both solo and in group settings (especially with grandchildren)\n* Sometimes prefers outdoor activities, indicating they use gaming for occasional, not constant, entertainment\n\"User_Profile\": The user is looking for games and accessories that promote social interaction and easy fun, often playing with grandchildren or during family gatherings. They favor well-known titles, expansions of classic board games, or party-style games on Nintendo consoles. Convenience and organization are also important, as they have multiple game cartridges and systems to manage.",
+    "Candidate_Items": {
+      "1": "Family Board Game Expansion Pack for Nintendo Switch",
+      "2": "Fitness Adventure Game with Motion Controllers",
+      "3": "Carrying Case Organizer for Switch Game Cartridges",
+      "4": "Multi-Player Microphone Bundle for Party Games",
+      "5": "Protective Joy-Con Grips with Adjustable Hand Straps"
+    }
+  },
+  {
+    "User_ID": "AFFZVSTUS3U2ZD22A2NPZSKOCPGQ",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with Xbox racing games, VR accessories, and extra battery packs for portable gaming. They purchase gaming items for both themselves and their grandchildren.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers well-priced games and accessories, even if used or refurbished, as long as performance is good\n* Looks for comfortable or adjustable VR accessories that do not become too tight over time\n* Enjoys having extra power solutions (e.g., battery packs) for uninterrupted gaming sessions\n* Generally focuses on practical functionality (e.g., ensuring accessories fit properly and are comfortable)\n\"User_Profile\": The user is a practical gamer and gift-giver, interested in a range of gaming platforms—Xbox, VR headsets, and potentially others. They often buy accessories for comfort, additional power, or improved usability. They value a good deal and want products that perform as expected without causing discomfort, especially when children are involved.",
+    "Candidate_Items": {
+      "1": "Adjustable Headphone Stand for Console and VR",
+      "2": "Wireless Rechargeable Controller Docking Station",
+      "3": "Portable Console Travel Bag with Padded Compartments",
+      "4": "VR Sweat-Resistant Face Cover Set",
+      "5": "Gaming Headset with Swappable Earpads"
+    }
+  },
+  {
+    "User_ID": "AHT3NNPRGAN65K6ESCJNKI7TPWPA",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with music and dance games on Nintendo platforms, as well as essential accessories for the Wii and DS. They enjoy family-friendly titles that are easy to set up and play.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Looks for family-oriented, fun games like Just Dance or singing games\n* Values simple, reliable accessories, such as chargers and sensor bars\n* Appreciates games that are easy to learn and suitable for parties or casual family gatherings\n* Prefers affordable products that still offer quality and reliability\n\"User_Profile\": The user is drawn to interactive, music-based, or party-style games that work well with family. They favor Nintendo consoles, especially Wii and DS, and seek reliable accessories that ensure uninterrupted gameplay. They enjoy straightforward setups and prefer fun, cooperative experiences rather than complex or competitive games.",
+    "Candidate_Items": {
+      "1": "Party Microphone Pack for Wii and Wii U",
+      "2": "Portable DS Lite/DSi Travel Case with Game Cartridge Slots",
+      "3": "Family-Friendly Mario Party Compilation",
+      "4": "Rechargeable Battery Packs for Wii Remotes",
+      "5": "Wireless Dance Pad for Music/Rhythm Games"
+    }
+  },
+  {
+  "User_ID": "AFJBKPK5W56XWSNPQU2WW66ISWYQ",
+  "User_Profile": "\"Short-Term Interests\": The user has recently engaged with multiple gaming headsets spanning different platforms (Xbox, PlayStation, PC, iPad). They frequently comment on comfort, mic clarity, and overall sound quality—especially bass levels. They also pay attention to construction materials, favoring headsets that can withstand everyday wear and tear. Price point and budget-friendliness play a notable role in their purchasing decisions.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Prioritizes comfortable over-ear designs for lengthy gaming sessions\n* Prefers headset mics that filter out background noise for clear team communication\n* Values durability and balanced audio rather than purely booming bass\n* Tends to shop within the affordable to mid-range segment but occasionally compares to higher-end sets\n\"User_Profile\": The user is a multi-platform gamer who values comfort, decent mic performance, and sturdy build quality in headsets. They appreciate good audio across various game genres, from shooters to casual titles, but remain mindful of their budget. Headset longevity and comfort over extended playtime are the primary selling points for them.",
+  "Candidate_Items": {
+    "1": "Wireless Multi-Platform Gaming Headset with Swappable Ear Cushions",
+    "2": "USB Surround Sound Adapter for Enhanced Mic and Audio Quality",
+    "3": "Ergonomic Gaming Chair with Adjustable Lumbar Support",
+    "4": "Professional Headset Stand with Built-In USB Charger",
+    "5": "Noise-Cancelling Clip-On Mic for Custom Audio Setups"
+  }
+},
+{
+  "User_ID": "AFDMZ4TRX3HXQQUGWAHJQTIF65BQ",
+  "User_Profile": "\"Short-Term Interests\": The user has engaged with various Nintendo Wii accessories and games, as well as titles for other platforms like PlayStation 3. They frequently label items as 'Good Product' and show an interest in casual, family-friendly games (e.g., Just Dance, The Sims 3: Pets) and protective carrying cases.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Enjoys motion-based or fun, family-friendly titles, especially on Wii\n* Looks for simple accessories (Wii Remotes, Nunchuks) that are reliable\n* Values portability, as evidenced by interest in a Nintendo Switch carrying case\n* Prefers easy-to-set-up products that work without hassle\n\"User_Profile\": The user appears to be a casual gamer who values straightforward, reliable products for Nintendo consoles and occasionally other systems. They gravitate toward upbeat, family-friendly games and essential accessories that make gaming convenient. Their reviews suggest a positive, quick-assessment style, focusing on functionality rather than extensive detail.",
+  "Candidate_Items": {
+    "1": "Nintendo Switch Sports Pack with Motion Straps",
+    "2": "Multi-Game Stand Organizer for Wii and Switch Titles",
+    "3": "Family-Friendly Dance and Karaoke Combo for Wii",
+    "4": "Wireless Sensor Bar Upgrade for Wii",
+    "5": "Switch Protective Screen and Case Bundle"
+  }
+},
+{
+  "User_ID": "AFZK2BA7HVTZTYYVBQ6YYL5XPWLA",
+  "User_Profile": "\"Short-Term Interests\": The user has shown an affinity for both retro titles (e.g., The Lion King on older platforms) and dance/fitness games on the Nintendo Switch. They also utilize accessories (e.g., wrist bands) for active gaming sessions.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Enthusiasm for physically engaging games like Zumba and Just Dance\n* Interest in older, classic games, highlighting nostalgic value\n* Prefers accessories designed for comfort and ease of use during active gameplay\n* Enjoys combining exercise with gaming\n\"User_Profile\": The user is drawn to a blend of nostalgic retro gaming and modern fitness/dance experiences. They appreciate convenience-focused accessories that make movement-based gaming more comfortable or effective. They likely enjoy active, fun gameplay sessions that serve as both entertainment and light exercise.",
+  "Candidate_Items": {
+    "1": "Retro-Inspired Wireless Controller for Classic Titles",
+    "2": "Workout-Friendly Joy-Con Armbands for Dance Games",
+    "3": "Adjustable Foot Mat for Rhythm and Step-Based Games",
+    "4": "Portable Retro Console with Built-In Classic Games",
+    "5": "Fitness Adventure Game with Motion-Tracking Leg Strap"
+  }
+},
+{
+  "User_ID": "AHJQPUQLSQZE6LMIUMY7WNRXCQQQ",
+  "User_Profile": "\"Short-Term Interests\": The user has recently engaged with high-performance gaming hardware like Razer controllers, MMO gaming mice, battery chargers, and additional Razer gear. They mention customizing keys, playing MMO and eSports titles, and adjusting hardware settings via specialized software.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Appreciates advanced customization for competitive or long-session gaming\n* Prefers well-made, professional-grade peripherals (mice, controllers) from known brands\n* Values specialized features like tilt functions, macro capabilities, or unique ergonomics\n* Interested in maintaining continuous power for controllers and gamepads\n\"User_Profile\": The user is a performance-focused gamer who invests in high-quality, customizable gear. They lean toward MMO or eSports titles where precision and reliability matter. They’re comfortable using dedicated software for macros or personalized settings, seeking an edge in gaming sessions. They also appreciate solutions ensuring uninterrupted gameplay, like controller battery accessories.",
+  "Candidate_Items": {
+    "1": "Modular Mechanical Keyboard with Swappable Switches",
+    "2": "Wireless Charging Dock for Controllers and Mice",
+    "3": "High-Fidelity Wireless Gaming Headset with 3D Audio",
+    "4": "Programmable Foot Pedals for Extra In-Game Commands",
+    "5": "Ergonomic Gaming Keypad with Macro Presets"
+  }
+},
+{
+  "User_ID": "AHOEABHRAFWXIT4JZ5MKJ3FMASGA",
+  "User_Profile": "\"Short-Term Interests\": The user has recently purchased gaming mice (including budget-friendly options for children), Wii Remote skins, battery chargers, and older Sims titles on PC. They mention rough usage by kids and the nostalgia of classic games.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Buys budget gaming accessories that can withstand wear-and-tear\n* Looks for convenience in recharging solutions for controllers and handheld devices\n* Enjoys simulation-type PC games like The Sims\n* Appreciates protective covers or skins for older Nintendo consoles\n\"User_Profile\": The user is a practical, family-oriented gamer. They aim for cost-effective accessories that remain functional under kid-heavy usage. Their taste in games spans from nostalgic console titles to PC-based simulation games. They often look for solutions that simplify upkeep (e.g., rechargeable batteries, skins to protect hardware) and are mindful of potential kid-related mishaps.",
+  "Candidate_Items": {
+    "1": "Heavy-Duty Wired Gaming Mouse with Reinforced Cable",
+    "2": "Rechargeable Controller Battery Station with 4 Pack",
+    "3": "Protective Casing Kits for Classic Nintendo Consoles",
+    "4": "Intro to Simulation Games Bundle (Digital Codes)",
+    "5": "Sturdy Game Storage Rack for Mixed Platforms"
+  }
+},
+{
+  "User_ID": "AEYGPUCRKH7G4VM22FM3VAKSQ23Q",
+  "User_Profile": "\"Short-Term Interests\": The user has recently engaged with multiple Razer gaming peripherals, PlayStation accessories (including remotes, stands, headsets), and software-based customization (Razer Synapse). They also mention frustration when certain gear isn’t fully compatible with the latest software.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values backlit keyboards and mice with RGB or Chroma lighting\n* Not a hardcore gamer but appreciates well-made, customizable gaming hardware\n* Favours integrated solutions (like media remotes) for consoles used as DVD/Blu-Ray players\n* Looks for comfortable, high-quality gear that syncs up easily\n\"User_Profile\": The user leans toward mid- to high-tier gaming accessories, focusing on convenience, customization, and aesthetic design (RGB lighting). They enjoy tailoring each device through companion software, preferring synergy between Razer hardware and their PS4 or PC. They also appreciate practical accessories like media remotes or stands, often using consoles for multimedia playback as well as games.",
+  "Candidate_Items": {
+    "1": "Universal Console Vertical Stand with Cooling Fans",
+    "2": "Bluetooth Media Remote for Multi-Platform Support",
+    "3": "Modular RGB Desk Mat with Wireless Phone Charger",
+    "4": "Mechanical Keycap Set for Customized Backlighting",
+    "5": "Wired Gaming Controller with Interchangeable Thumbsticks"
+  }
+},
+{
+    "User_ID": "AHUPTBY3F3UN2S5H7K5JLP6MAV5Q",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with a variety of gaming peripherals—most notably keyboards, clicky switches, headsets, and word-based board games. They pay close attention to how products ‘feel’ (key switches, comfort levels) and whether instructions or compatibility details are clear.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Highly values how a keyboard or headset feels and performs during longer sessions\n* Looks for clarity in instructions and easy-to-use function keys or hotkeys\n* Appreciates adaptability or ‘hackability’ in games for different age ranges\n* Prefers well-constructed products, even at budget price points\n\"User_Profile\": The user is a moderately tech-savvy gamer who’s mindful of comfort, product build quality, and clear instructions. They also enjoy family-friendly or flexible tabletop/board-style games that can be tailored to various skill levels. They seek PC peripherals with good build quality, comfort, and thorough documentation for quick set-up or custom macro functionality.",
+  
+    "Candidate_Items": {
+      "1": "Compact Hotswap 65% Mechanical Keyboard with Rotary Knob",
+      "2": "Modular Gaming Headset with Swappable Ear Cushions",
+      "3": "Magnetic Keyboard Wrist Rest with Adjustable Height",
+      "4": "LED Wireless Mouse with Multi-Device Pairing",
+      "5": "Modular Board Game with Word and Trivia Expansion Packs"
+    }
+  },
+  {
+    "User_ID": "AEIPJBAN7A55Q5DFFPZSR2UV3OKA",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with gaming headsets for PlayStation (PS4/PS5), focusing on comfort and good chat quality. They also show interest in third-party PS4 controllers, though they sometimes encounter issues pairing.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Emphasizes comfort and headset sizing for those with larger heads\n* Prefers official (or official-licensed) products to avoid compatibility trouble\n* Looks for easy, straightforward setup and immediate plug-and-play usability\n* Values reliability in both audio quality and response time for competitive play\n\"User_Profile\": The user is a console gamer who prioritizes comfort and reliability in headphones and controllers. They dislike extended troubleshooting and appreciate official brand compatibility or products that guarantee a simpler setup. They’re mindful of budget but not willing to sacrifice essential performance features, especially for team-based or online games.",
+  
+    "Candidate_Items": {
+      "1": "PS4-Compatible Wireless Controller with Adjustable Joystick Sensitivity",
+      "2": "Over-Ear Gaming Headset with Flexible Headband for Larger Heads",
+      "3": "Rapid PS4 Dual Controller Charging Dock",
+      "4": "Noise-Isolating Microphone Attachment for Consoles",
+      "5": "Ergonomic Thumbstick Caps Pack in Multiple Sizes"
+    }
+  },
+  {
+    "User_ID": "AHPFHP43AXWRYZZ4HPNCW7I7J3ZQ",
+    "User_Profile": "\"Short-Term Interests\": The user’s recent reviews mention racing games, singing games, and first-person shooters, focusing on either the complexity of gameplay or the game’s approachability for friends (e.g., multi-player, motion-based, or single-player experiences). They also own Razer keyboards, indicating some interest in mechanical keyboards.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Looks for multi-player or co-op capabilities (regretting single-player locked games)\n* Enjoys singing/rhythm games with local co-op or easily shareable fun\n* Finds some modern FPS or action games too difficult from the outset, reducing replay interest\n* Mechanical keyboards are acceptable for both gaming and business\n\"User_Profile\": The user is a well-rounded gamer who likes both casual, social gaming (karaoke, multi-player race/fight) and deeper FPS campaigns. They care about whether a game is too hard immediately (preferring a gradual difficulty curve). On the hardware side, they’re open to mechanical keyboards that can handle both personal use and professional tasks.",
+  
+    "Candidate_Items": {
+      "1": "Beginner-Friendly Racing Game with Split-Screen Co-Op",
+      "2": "Wireless Karaoke Microphone Kit for Consoles",
+      "3": "Adjustable Difficulty Shooter with Local Co-Op Mode",
+      "4": "Mechanical Keyboard with Hot-Swappable Switches and Media Controls",
+      "5": "All-In-One Family Party Game Bundle (Rhythm & Dance Focus)"
+    }
+  },
+  {
+    "User_ID": "AEWRZLS7FBAX3BXANLXDKVV33CCA",
+    "User_Profile": "\"Short-Term Interests\": The user has tried multiple fighting games, racing simulators, and first-person shooters. They often critique new titles for being too similar to older entries or failing to deliver on next-gen expectations. They also show dissatisfaction if the game lacks enough characters or if expansions cost extra.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers significantly new features over ‘copy-paste’ sequels (seeks freshness)\n* Criticizes underwhelming expansions, especially if they aren’t included at launch\n* Enjoys improved or added mechanics like exo suits in COD\n* Feels let down by games that promise next-gen graphics but deliver little improvement\n\"User_Profile\": The user is an avid console gamer who appreciates innovative updates and robust rosters in sequels. They have strong opinions on DLC or expansions being absent at launch. They crave large improvements in graphics or gameplay with each new iteration of a franchise and become frustrated if a release feels too similar to its predecessor.",
+  
+    "Candidate_Items": {
+      "1": "Open-World Racing Sequel with Expanded Vehicle Roster",
+      "2": "Fighting Game DLC Pass with Classic & New Characters",
+      "3": "Fully Customizable FPS Title with Tactical Exo Suits",
+      "4": "Enhanced Controller Grip with Adjustable Trigger Sensitivity",
+      "5": "Ultimate Edition of a Popular Shooter with All Expansions Included"
+    }
+  },
+  {
+    "User_ID": "AEICZD35OTDYVWA2KPYWN4PDZ2SA",
+    "User_Profile": "\"Short-Term Interests\": The user is clearly a family-oriented or casual gamer, focusing on Nintendo titles (Donkey Kong, Disney Universe) and easygoing multiplayer experiences like Mario Kart. They mention kids and the simplicity of the games.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers family-friendly, colorful platformers and casual co-op games\n* Finds value in straightforward mechanics that small children can figure out\n* Values comfortable headsets for adults but workable for kids\n* Likes partial or complete customization (extra earbud tips, easy controller charging)\n\"User_Profile\": The user is a casual, possibly family-focused gamer who wants stress-free, child-friendly titles that can be enjoyed together. They appreciate well-built accessories that can stand regular use by kids, with easy setup and minimal frustration. Fun, cooperative play is a key factor, and they enjoy well-known franchises like Mario and Donkey Kong.",
+  
+    "Candidate_Items": {
+      "1": "Family-Oriented Party Game Collection for Nintendo Switch",
+      "2": "Kid-Sized Gaming Headset with Volume Limiter",
+      "3": "Motion Control Bundle (Wii/Wii U) with Extra Remotes & Nunchuks",
+      "4": "Portable Charging Stand for Nintendo Joy-Cons",
+      "5": "Lightweight Over-Ear Headphones for Children"
+    }
+  },
+  {
+    "User_ID": "AGBOGNMAG3UCA6B4Z6VT62DVNOIA",
+    "User_Profile": "\"Short-Term Interests\": The user’s recent reviews revolve around hidden-object and puzzle games for PC/Mac, especially those from classic brands (PopCap, Jewel Quest). They mention losing track of time playing these puzzle or seek-and-find titles.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys puzzle games with colorful graphics and hidden-object elements\n* Prefers casual gameplay that can be turned on or off without large time commitments\n* Likes variety packs with multiple puzzle games in one\n* Tends to buy physical or downloadable PC puzzle titles\n\"User_Profile\": The user is a casual PC gamer focusing on puzzle/hidden-object genres. They enjoy bright, engaging visuals but want gameplay that’s easy to pause and resume. They’re drawn to multi-game packs and expansions that offer extended entertainment without needing advanced hardware or complex rules. Games that capture attention without major stress factors are ideal.",
+  
+    "Candidate_Items": {
+      "1": "Ultimate PopCap Puzzle Collection for PC",
+      "2": "Hidden-Object Adventure Bundle with Extra Storylines",
+      "3": "Casual Match-3 Game Expansion Pack",
+      "4": "Strategy Guide for Classic Mystery/Puzzle Titles",
+      "5": "Relaxing Puzzle Game with Daily Challenge Mode"
+    }
+  },
+  {
+    "User_ID": "AFQQQ5LGNSQUEBGDCYBAZZE5T3DA",
+    "User_Profile": "\"Short-Term Interests\": The user’s recent reviews show a broad interest in AAA console titles (Assassin’s Creed, Watch Dogs) and premium gaming headsets/keyboards. They highlight brand reputation (e.g., LucidSound, Razer, Flydigi) and the importance of immersive audio.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Favors big-name game franchises that deliver epic, story-driven experiences\n* Focuses on headset comfort, mic sensitivity, and overall audio fidelity\n* Appreciates gear that can also be used on multiple devices or that has a free next-gen upgrade\n* Keen on keyboards with lighting, macro functionality, and overall gaming aesthetics\n\"User_Profile\": The user is an enthusiastic, possibly semi-hardcore gamer invested in mainstream console franchises and quality accessories. They place value on cross-platform compatibility, high-quality audio, and advanced features like low latency. They enjoy single-player epics but also want top-notch gear for competitive or co-op gaming experiences.",
+  
+    "Candidate_Items": {
+      "1": "Open-World Action RPG with Dynamic Story Branching",
+      "2": "Bluetooth Gaming Headset with Active Noise Cancellation",
+      "3": "Dual-Mode Wireless Gamepad for Mobile and PC",
+      "4": "Mechanical Keyboard with Full RGB and Low-Profile Switches",
+      "5": "Gaming Earbuds with Built-In Voice Chat Controls"
+    }
+  },
+  {
+    "User_ID": "AFLX66DKF6R3H6OEOC3TIVAYXZIQ",
+    "User_Profile": "\"Short-Term Interests\": The user focuses on classic PC RPGs (e.g., Arcanum, Neverwinter Nights) and strategy/simulation titles (Galactic Civilizations, Fritz chess software). They also show interest in certain action-based shooters (Unreal Tournament 2003). Their reviews often highlight each game’s user interface, mechanics, or expansion quality.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers deep, story-driven or strategic RPG experiences with flexible, sometimes old-school mechanics\n* Values a polished interface, stable performance, and minimal crashes\n* Enjoys expansions that refine or balance the core game (e.g., NWN expansions)\n* Has an interest in chess engines and midrange gaming headsets\n* Critiques flawed implementations of otherwise cool concepts\n\"User_Profile\": The user is a PC gamer who appreciates both classic RPG design and in-depth strategy. They gravitate toward older or mid-2000s era titles known for moddable or flexible gameplay, while also enjoying modern expansions if well-executed. They’re keen on high-level immersion, balanced mechanics, and stable technical performance. Interfaces that make customization easy are a plus, while messy or awkward UIs are deal-breakers.",
+  
+    "Candidate_Items": {
+      "1": "Complete Classic RPG Collection (Baldur’s Gate, Icewind Dale, Planescape)",
+      "2": "Advanced Modding Tool Kit for NWN and Arcanum",
+      "3": "High-End Chess Software with AI Training Modules",
+      "4": "Isometric Steampunk RPG with Modernized Interface",
+      "5": "Immersive Turn-Based Strategy Game with Robust Editor"
+    }
+  },
+  {
+    "User_ID": "AE6YLEEPJ47WLVVHEJ4CSBONBVBA",
+    "User_Profile": "\"Short-Term Interests\": This user looks for family-friendly and casual games across various consoles (Nintendo 3DS, Xbox 360, Nintendo Switch). They enjoy bright, cartoony titles (SpongeBob, Sonic) and comfortable console skins/cases. They can be critical if a game has poor visuals or a disturbing storyline.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys lighthearted titles suitable for kids (Sonic, SpongeBob, Mario Kart)\n* Appreciates console skins and accessories that fit well—but will critique if they peel or don’t align properly\n* Values comfort and a straightforward, fun experience over intense or dark games (disliked Among the Sleep)\n* Seeks multiplayer or family-play experiences for bonding with kids\n\"User_Profile\": The user is a casual, family-oriented gamer who prioritizes bright, enjoyable experiences for children. They look for easy setup and child-friendly aesthetics. They’re sensitive to game content that might be scary or disturbing and appreciate accessories (skins, wheels) that are well-made and easy to use.",
+  
+    "Candidate_Items": {
+      "1": "Kid-Friendly Nintendo Switch Puzzle Platformer",
+      "2": "Soft-Grip Controller Shells for Small Hands",
+      "3": "Budget-Friendly Family Board Game Adaptation for Console",
+      "4": "Colorful 3DS Case with Extra Stylus Set",
+      "5": "Co-Op Adventure Title with Simple Controls"
+    }
+  },
+  {
+    "User_ID": "AEBORGHNCXOCGYEJ4WCULQCQWLAA",
+    "User_Profile": "\"Short-Term Interests\": The user invests in gaming mice and popular Nintendo Switch or Pokémon titles. They focus on responsiveness and comfort in mice (Corsair for Battlefield 4, Razer Basilisk Ultimate). They also explore Nintendo’s big franchises (Pokémon Sword, the Switch console in general).\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Seeks mice with minimal input lag and strong DPI support\n* Appreciates the Nintendo Switch library for family or nostalgic gaming experiences\n* Upgrades from older to newer high-end peripherals when seeking improved aim or wireless convenience\n* Looks for smooth set-up and consistently stable connections\n\"User_Profile\": The user is a multi-platform gamer who invests in top-tier mice for competitive shooters and also enjoys mainstream Nintendo IPs. They want fast, reliable gear that can boost performance (especially in FPS) and a console experience with nostalgia or kid-friendly appeal. Overall, they balance competitive PC gaming with casual console play.",
+  
+    "Candidate_Items": {
+      "1": "Wireless RGB Gaming Mouse with Swappable Side Panels",
+      "2": "Precision Mouse Pad with Micro-Textured Surface",
+      "3": "Nintendo Switch Multiplayer Party Game Collection",
+      "4": "Motion-Control Shooter for Nintendo Switch",
+      "5": "Mechanical Keyboard with Ultra-Low Wireless Latency"
+    }
+  },
+  {
+    "User_ID": "AFV22L7AEKI2LW6HMLRLUKNYVBGQ",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews mention big-name shooters (The Division 2), Xbox headsets, and console accessories like the official Play and Charge Kit. They like quick shipping and are happy with comfort and stable connections in gaming headsets.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys cooperative or online shooters\n* Prefers comfortable, reliable headsets that maintain stable voice/chat connections\n* Values official or near-official accessories (Xbox Play and Charge Kit) for easy power management\n* Seeks good deals and midrange pricing for gaming gear\n\"User_Profile\": The user is a console-oriented gamer who prioritizes comfort and reliable performance in online shooters and group play. They like official accessories that reduce downtime (like battery kits) and are more than willing to try third-party headsets if they match or exceed basic reliability standards. They appreciate easy setups and no-fuss connectivity.",
+  
+    "Candidate_Items": {
+      "1": "Wireless Co-Op Shooter with RPG Elements",
+      "2": "High-Capacity Xbox Controller Battery Dock",
+      "3": "Noise-Cancelling Over-Ear Headset for Multiplayer Chat",
+      "4": "Charging Station Bundle for Multiple Xbox Controllers",
+      "5": "Universal Gaming Headset Stand with USB Ports"
+    }
+  },
+  {
+    "User_ID": "AEN6TFIVX635GNHMXJNMJOA56JWA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews revolve around retro or older console gear (Retro-Bit console, PS3/PS4 accessories), emphasizing whether the controllers or add-ons function consistently. They seek reliable hardware for casual gaming or nostalgia.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Buys third-party or legacy hardware (Retro-Bit, old controllers) to replay older games\n* Prefers accessories that reliably charge or power multiple controllers at once\n* Appreciates official gear if it works seamlessly (like DualShock controllers)\n* Dislikes faulty or sporadically non-working controllers\n\"User_Profile\": The user is a mostly console-focused retro gamer who wants easy ways to play older games (NES/SNES) plus reliable accessories for modern platforms. They dislike hardware or docking stations that malfunction. They’re generally positive as long as the product does what it promises and supports older or multiple controllers well.",
+  
+    "Candidate_Items": {
+      "1": "Retro Multi-Cart Compilation with Classic NES/SNES Titles",
+      "2": "4-in-1 Universal Controller Charging Station",
+      "3": "Officially Licensed SNES-Style Controller with Bluetooth",
+      "4": "HDMI Upscaler for Classic Consoles",
+      "5": "Retro Console Protective Case and Game Cartridge Organizer"
+    }
+  },
+  {
+    "User_ID": "AEBEVCYY3HASVJ2Z5Q2Q36TENT2A",
+    "User_Profile": "\"Short-Term Interests\": The user is an Xbox fan, focusing on Forza, Xbox controllers, and advanced mice for gaming or PC usage. They also frequently mention carrying cases, stands, or accessories to keep gaming gear organized.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Loves racing simulators (Forza series) and invests in suitable gear to enhance that experience\n* Looks for official or licensed accessories (PowerA stands, Logitech or Razer mice)\n* Prefers high-end or near high-end PC gear with minimal lag\n* Mentions dryness or potential issues with accessories (like controller cases pressing sticks)\n\"User_Profile\": The user is an enthusiast-level gamer who invests heavily in quality gear for both PC and console, with a special passion for Forza. They appreciate well-made accessories and robust hardware that supports stable gameplay and minimal input lag. They also enjoy deeper customizability (e.g., adjustable DPI mice) and durable cases for their controllers. Organization and neatness of their gaming setup is important.",
+  
+    "Candidate_Items": {
+      "1": "High-End Racing Wheel with Force Feedback for Xbox & PC",
+      "2": "Adjustable Wheel Stand or Racing Cockpit Setup",
+      "3": "Hard Protective Controller Case with Stick Clearance Design",
+      "4": "Modular Mouse with Swappable Button Panels",
+      "5": "Dual-Purpose USB Hub and Controller Dock"
+    }
+  },
+  {
+    "User_ID": "AEBEJ6DXXVSLCXD6NJ4XPVWRYDNA",
+    "User_Profile": "\"Short-Term Interests\": This user focuses primarily on VR accessories for the Oculus Quest 2, including protective covers, controller grips, battery attachments, and head straps. They pay attention to comfort, how well each accessory attaches or charges, and the overall build quality.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Desires sturdy but comfortable accessories for kids or intense gameplay sessions\n* Pays close attention to how well items fit (e.g., battery packs staying secure, covers not interfering with buttons)\n* Appreciates VR setups that reduce headset slippage and offer better battery life\n* Often deals with child usage, meaning frequent drops or rough handling\n\"User_Profile\": The user is a practical VR gamer, highly conscious of protecting their hardware and enhancing comfort. They often test how well products hold up under kid-friendly conditions and look for accessories that truly solve day-to-day VR challenges, such as battery drain, slipping headsets, and fragile controllers.",
+  
+    "Candidate_Items": {
+      "1": "Shock-Absorbing VR Headset Shell with Extra Padding",
+      "2": "Clip-On Battery Pack with Strong Magnetic Lock",
+      "3": "Elite-Style Head Strap with Reinforced Adjustment Dial",
+      "4": "VR Controller Grips with Quick-Access Button Apertures",
+      "5": "All-in-One VR Storage Stand with Integrated Charging"
+    }
+  },
+  {
+    "User_ID": "AFQKWXGOZ6N33TEWPESQEA7NQWIA",
+    "User_Profile": "\"Short-Term Interests\": The user tends to buy gaming accessories and games primarily as gifts (tennis racket add-ons for Switch, Nickelodeon Kart Racers, Joy-Con charging dock, etc.). Their reviews are succinct and generally positive.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers kid-friendly, family-oriented titles and simple accessories\n* Often purchases items as presents for others\n* Leaves short but positive feedback without deep detail, suggesting they value convenience and quick shipping\n\"User_Profile\": The user appears to be a casual or supportive gamer, frequently purchasing items for children or friends. They generally look for fun, approachable titles (e.g., kart racers, carnival games) or straightforward accessories. Reviews are concise, likely because they’re more focused on the act of gifting and ensuring items arrive in good condition rather than in-depth usage.",
+  
+    "Candidate_Items": {
+      "1": "Family-Friendly Nintendo Switch Party Game Collection",
+      "2": "Kids’ Sports Accessory Pack for Switch Controllers",
+      "3": "Multi-Port Joy-Con Charging Station",
+      "4": "Colorful Protective Cases for Switch Game Cards",
+      "5": "Wireless Controller with Cute Character Designs"
+    }
+  },
+  {
+    "User_ID": "AHTDWYY75GI6PZZGZ7MMT7RZVAFA",
+    "User_Profile": "\"Short-Term Interests\": The user focuses on racing/vehicle simulation (GTR FIA GT Racing), free-to-play PC games (Star Trek Online), plus some Wii conversions (Michael Jackson: The Experience). They like deals that ship quickly and value basic functionality.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Primarily invests in older or discounted titles\n* Enjoys rhythm/dance games (Michael Jackson) and racing simulators\n* Approves of quick shipping and smooth operation out of the box\n\"User_Profile\": The user is a casual to moderate gamer who straddles both PC and console experiences, looking for niche titles (like GTR) or well-known dance/rhythm games. They appreciate good deals and prompt delivery. Their reviews tend to be short and positive when a product works as intended without issues.",
+  
+    "Candidate_Items": {
+      "1": "Classic Racing Sim Collection (PC)",
+      "2": "Rhythm & Dance Game Variety Pack for Wii",
+      "3": "High-Speed Ethernet Adapter for Online PC Gaming",
+      "4": "Retro Music Game for Nostalgic Consoles",
+      "5": "Budget Steering Wheel and Pedal Setup"
+    }
+  },
+  {
+    "User_ID": "AHHL5D5SMLN32VIDZQ6QEXUAZVRQ",
+    "User_Profile": "\"Short-Term Interests\": The user frequently acquires family-friendly games for Nintendo platforms (Wii U, Nintendo 3DS) and occasionally Xbox controllers. They offer minimal commentary but always provide high ratings, suggesting they’re easily satisfied as long as the product works.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers bright, fun, possibly cartoon-based or movie-based titles (Wipeout, Cars 2, LEGO Lord of the Rings)\n* Sticks to well-known franchises or popular IPs that are child-friendly\n* Tends to be very positive, possibly indicating casual enjoyment and simple expectations\n\"User_Profile\": The user is a lighthearted gamer, focusing on kid-friendly or licensed titles for Nintendo systems. They also pick up occasional hardware like Xbox controllers. They rarely have complaints, awarding 5 stars if the game simply meets basic entertainment value. Likely enjoys quick, fun experiences suitable for children or families.",
+  
+    "Candidate_Items": {
+      "1": "Family-Focused Multiplayer Party Pack (Wii U / Switch)",
+      "2": "Licensed Movie Tie-In Game Collection for 3DS",
+      "3": "Protective Controller Skins with Cartoon Themes",
+      "4": "Action-Adventure Game with LEGO-Style Franchise",
+      "5": "Wireless Co-Op Controller Bundle for Family Play"
+    }
+  },
+  {
+    "User_ID": "AEBYEWLSJLC7OEDDSRZEQWY5WAZA",
+    "User_Profile": "\"Short-Term Interests\": This user is extremely positive in their short reviews, focusing on popular Nintendo franchises (Pokemon, Smash Bros., Mario Kart) and mainstream sports or action titles (FIFA, GTA V, PS4 bundles). They consistently label them as \"excellent.\"\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Favors AAA console games from high-profile series\n* Possibly invests in new consoles and big releases as they come out\n* Very brief feedback, suggesting casual or easy-to-please approach\n\"User_Profile\": The user is an enthusiastic console gamer who primarily consumes top-tier hits like Pokemon, Mario Kart, FIFA, and GTA. Their interest spans both Nintendo (3DS, Wii U) and PlayStation or Xbox. They typically leave perfect ratings for recognized titles, indicating they are usually satisfied if the game is well-known and performs as expected.",
+  
+    "Candidate_Items": {
+      "1": "Ultimate Collector’s Edition of a Popular Sports Franchise",
+      "2": "3DS RPG Series Sequel Pack",
+      "3": "High-Capacity MicroSD Card for Expanding Switch Storage",
+      "4": "Wireless Multiplayer Party Pack for Smash Bros.",
+      "5": "Official Nintendo Console Bundle with Bonus Digital Codes"
+    }
+  },
+  {
+    "User_ID": "AHEDBTRSVQITLCUHR4MKNRTYOYRQ",
+    "User_Profile": "\"Short-Term Interests\": Their reviews mention PlayStation Plus membership codes, Madden NFL’s yearly iteration, and a specialized PS4 controller (NACON). They appreciate good deals and appear critical when the product (like Madden) doesn't innovate.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Plays sports franchises (especially Madden), but is disappointed by lack of improvements\n* Seeks controllers with alternative layouts or extra features for competitive play\n* Has no trouble with digital codes for subscription or membership services\n\"User_Profile\": The user is a sports gamer who invests in online memberships (PlayStation Plus) and advanced controllers for better play. They quickly lose patience with annual releases that recycle gameplay. They’re also open to third-party controllers if they offer meaningful enhancements. Bargain pricing is a plus, but they won’t tolerate laziness in game updates.",
+  
+    "Candidate_Items": {
+      "1": "Next-Gen Football Simulator with Meaningful Improvements",
+      "2": "High-Performance PS5 Controller with Customizable Layout",
+      "3": "PlayStation Plus Extended Membership Bundle",
+      "4": "Cross-Platform Sports Bundle (Multiple Titles)",
+      "5": "Controller Grip Upgrade Kit for Competitive Gaming"
+    }
+  }, {
+    "User_ID": "AG6OZNFZE6P52PW2PA5WF2IAHKLA",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with both older and newer console/PC titles (Harry Potter, Dead Space, Dragon Age, Skyrim VR). They enjoy story-driven or adventure-filled games that can keep them occupied for hours. They’ve also purchased Xbox digital codes for Gold membership or points and appreciate the convenience of instantly redeeming them.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys large, open-world or story-focused games (Skyrim VR, Dragon Age)\n* Values cooperative modes (Dead Space 3 co-op campaign) and easy ways to play with friends\n* Finds convenience in digital codes for Xbox memberships and currencies\n* Prefers games with rich lore (Harry Potter, Dragon Age) or unique settings\n* Occasionally invests in battery-charging solutions (Energizer charging system)\n\"User_Profile\": The user is a long-time gamer who often plays action-adventure or story-driven titles on both PC and consoles, particularly enjoying immersive or lore-heavy experiences. They like convenience (digital codes, quick solutions for controller batteries) and games that can be enjoyed cooperatively or for long sessions. They have a nostalgic side (Harry Potter) but also embrace modern VR experiences (Skyrim VR).",
+  
+    "Candidate_Items": {
+      "1": "Extended Playtime Battery Pack for VR Controllers",
+      "2": "Fantasy-Themed Action RPG with Rich Lore and Co-op Quests",
+      "3": "Digital RPG Bundle (Includes DLC and Instant Redeem Codes)",
+      "4": "Immersive VR Adventure with Cross-Platform Co-Op Support",
+      "5": "Compact Dual Controller Charging Dock for Xbox"
+    }
+  },
+  {
+    "User_ID": "AGODEE2NRFP5H2KRXIZPZPV5QSJQ",
+    "User_Profile": "\"Short-Term Interests\": This user almost exclusively leaves succinct, positive reviews praising games as “fun.” Their gaming library includes a broad range of sports titles (MLB, NHL, Madden, NCAA Football) on various PlayStation platforms, plus a few other genres.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Very focused on sports titles across different leagues (MLB, NHL, Madden, NCAA)\n* Enjoys short, casual descriptions, indicating quick satisfaction with gameplay\n* Has some interest in accessories (e.g., Move Racing Wheel, Rock Band Drum Set)\n\"User_Profile\": The user is a sports gaming enthusiast who also dabbles in some casual accessories for variety (drums for Rock Band, racing wheel for motion-based controls). They appear quickly satisfied as long as the gameplay is enjoyable and reflect an open-minded approach to different sports game franchises or expansions. Their reviews are concise, suggesting easy approval.",
+  
+    "Candidate_Items": {
+      "1": "Annual Sports Bundle (MLB, Madden, NHL, NCAA) with Updated Rosters",
+      "2": "Portable Motion Controller Battery Pack for PS Move",
+      "3": "Extended Reality Sports Title with Cross-Platform Play",
+      "4": "Digital Sound Bar or Speaker System for Immersive Sports Audio",
+      "5": "Realistic Racing Simulator for PS4/PS5 with Wheel and Pedals"
+    }
+  },
+  {
+    "User_ID": "AGV5XLEMIEYQBKNM33RTOUZMJEHQ",
+    "User_Profile": "\"Short-Term Interests\": The user focuses on Wii/DS party-style or family-friendly games like Raving Rabbids, EA Playground, and Mario & Luigi. They show a particular fondness for Rayman/Rabbids series and picks up other casual DS and Wii titles.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys silly, over-the-top party games that are easy to break out at family gatherings\n* Prefers quick and fun gameplay that’s accessible to both kids and adults\n* Dislikes cumbersome or repetitive mechanics that fail to hold attention\n* Happy to replay older titles, showing partiality to Wii-era favorites\n\"User_Profile\": The user is a casual/family-focused gamer who invests in comedic or party-like experiences (Raving Rabbids) and DS/Wii titles suitable for multiplayer gatherings. They’re nostalgic about Rayman spinoffs, praising easy pick-up-and-play mechanics. However, they can be critical when a game’s design drags or lacks immediate fun. They prefer bright, arcade-style experiences that entertain a group of varied ages.",
+  
+    "Candidate_Items": {
+      "1": "Remastered Raving Rabbids Party Pack for Switch",
+      "2": "Mario & Luigi DS/3DS RPG Collection",
+      "3": "Lighthearted Multiplayer Minigame Compilation",
+      "4": "Retro Wii Party Game Bundle",
+      "5": "Rayman Mobile Spinoff with Local Co-Op Mode"
+    }
+  },
+  {
+    "User_ID": "AEUECZFYVQCQ7OFZ2SQWYAP64GJA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews mention Wii Fit U, Skyrim VR, and Super Mega Baseball. They like active or fitness-oriented titles (Wii Fit) as well as immersive, more adult RPG experiences (Skyrim). They also note some minor controller quirks (NACON) but overall keep feedback concise.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys both fitness-based and hardcore RPG/sports experiences\n* Prefers games that can be easily shared with family members (son enjoys the game, etc.)\n* Tolerates slight accessory issues but overall needs them to function reliably\n\"User_Profile\": The user is a multi-genre gamer, balancing fitness or casual sports simulations (Wii Fit U, baseball) with more in-depth fantasy RPGs (Skyrim VR). They likely have a household with multiple interests, so variety is key. They appreciate basic reliability in accessories or controllers and often rely on short, direct reviews indicating straightforward satisfaction.",
+  
+    "Candidate_Items": {
+      "1": "Action RPG VR Bundle with Fitness Tracking",
+      "2": "Wireless Controller with Improved Rear Buttons",
+      "3": "Family-Friendly Sports Compilation for Wii/Switch",
+      "4": "VR Fitness Experience with Motion Controls",
+      "5": "Lightweight Headset for Immersive RPGs"
+    }
+  },
+  {
+    "User_ID": "AEMBYDTSUE7CXNWBEC7WYNYRVZHA",
+    "User_Profile": "\"Short-Term Interests\": The user highlights titles on the Wii U that blend fitness (Your Shape), nostalgic mini-game collections (NES Remix), karaoke (SiNG Party), and official remote accessories. They appear to enjoy approachable games that revive childhood memories or offer casual, family-friendly experiences.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Focused on Wii U games that are easy to pick up and have a strong nostalgic or fitness appeal\n* Prefers official or well-integrated Nintendo accessories (remotes, microphones)\n* Seems enthusiastic about games that help them get in shape or recall childhood favorites\n\"User_Profile\": The user is a casual gamer who invests in fitness-based or nostalgia-driven Wii U titles. They enjoy experiences that let them relive classic gaming (NES Remix) or that incorporate music/dance (SiNG Party). They’re also keen on accessories that streamline the Wii U experience. Fun, active gameplay and simpler controls seem paramount.",
+  
+    "Candidate_Items": {
+      "1": "Wii U Fitness and Rhythm Game Combo Pack",
+      "2": "Officially Licensed Wii Remote with Built-In MotionPlus",
+      "3": "Remastered NES Classics Compilation for Switch",
+      "4": "Family Karaoke Party Bundle (Mic + Game)",
+      "5": "Wii U Fitness Accessory Kit (Balance Board Cover + Protective Sleeve)"
+    }
+  },
+  {
+    "User_ID": "AF5PSFCS64I5CGSNI5Z5CJJB4QEA",
+    "User_Profile": "\"Short-Term Interests\": This user frequently purchases gifts (e.g., Call of Duty, 3DS starter packs, fan-cooling stands) and items for quick replacements (headsets, live cards). They appreciate fast shipping and are mindful of whether the product is sealed and new. Occasional frustration arises when an item is late.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Often buying gaming accessories and games for others, focusing on presentation (sealed, brand new)\n* Values quick delivery and good deals\n* Enjoys gift-worthy items, especially popular shooters or accessories that enhance console functionality\n* Prefers smooth PC gaming experiences with controllers (making a PC feel more like a console)\n\"User_Profile\": The user is a casual buyer who shops for gaming gifts and replacement accessories, prioritizing convenience, good value, and speed of shipping. They’re satisfied if items arrive on time, appear new, and perform as expected. They also enjoy bridging PC gaming with a console-like feel through controllers and other add-ons.",
+  
+    "Candidate_Items": {
+      "1": "Multi-Platform Wired Controller (PC/Console) with Quick Setup",
+      "2": "Gaming Accessory Starter Pack for Nintendo (Cases & Cables)",
+      "3": "Prepaid Membership Card Bundle for Popular Consoles",
+      "4": "Dual Cooling & Charging Station for Consoles",
+      "5": "Popular Shooter Franchise Collector’s Edition"
+    }
+  },
+  {
+    "User_ID": "AFUSWNVA72MMWHGYWJ652SYX2JJQ",
+    "User_Profile": "\"Short-Term Interests\": The user has tried Duke Nukem Forever (disliked it), various cables (Siwket USB C, Oculus Link), and PC game controllers for cross-compatibility. They emphasize whether gear truly meets expectations, especially around ease of use and reliability. They’re also wary of forced DRM or unnecessary third-party software.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers minimal fuss in hardware setup—cables must fit properly with cases and deliver stable charging/data\n* Strongly critiques underwhelming or outdated game design (Duke Nukem)\n* Buys PC-friendly controllers with an eye on comfort and responsiveness\n* Values “middle of the pack” or better in cables, not wanting tangles or poor connections\n\"User_Profile\": The user is a practical PC/console gamer who invests in external accessories (chargers, controllers, cables) to streamline their experience. They dislike intrusive DRM or software hoops, preferring straightforward plug-and-play solutions. They can be critical if something doesn’t meet expected performance or fit with protective phone cases.",
+  
+    "Candidate_Items": {
+      "1": "High-Speed USB-C Cable with Extra-Long Connector for Cased Phones",
+      "2": "Plug-and-Play PC Controller with No Additional Software",
+      "3": "Retro-Inspired FPS Game Without DRM Requirements",
+      "4": "Tangle-Free Braided Charger Pack for Multiple Devices",
+      "5": "Lightweight VR Cable with Signal Booster for Less Drag"
+    }
+  },
+  {
+    "User_ID": "AEPHCVV7NHVNXJR4SIV47VLI3AKQ",
+    "User_Profile": "\"Short-Term Interests\": This user leans toward console gaming, specifically PS4 (Call of Duty, Joytorn adapter, Elite controller usage) and Switch (handheld controllers, docking stations). They appreciate comfort upgrades (bigger Joy-Con style grip) and compatibility solutions that let them use favorite controllers cross-platform.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys converting or adapting controllers across different platforms (Xbox Elite on PS4, Switch handheld grip)\n* Prefers larger, more comfortable controller designs for handheld gaming\n* Looks for portable or compact accessories (docks, adapters) that simplify usage\n* Favors mainstream shooters (CoD) as well as improving ergonomics for Switch\n\"User_Profile\": The user is a cross-platform enthusiast wanting maximum comfort and controller flexibility. They invest in third-party solutions (adapters, portable docks) and appreciate big-name shooters as well as better handheld ergonomics. They’re quick to praise items that significantly improve the gaming experience (e.g., bigger grip, functional adapters).",
+  
+    "Candidate_Items": {
+      "1": "Wireless Controller Adapter with Full Button Mapping",
+      "2": "Comfort Grip Shell for Switch/OLED Model",
+      "3": "Compact Multi-Port Docking Station for Switch & Other Handhelds",
+      "4": "Elite-Style Wireless Controller with Paddles for PS5",
+      "5": "Extended Handheld Battery Case for Switch"
+    }
+  },
+  {
+    "User_ID": "AHLQFB32Y2TPGEQSBR3KBEHIMZCA",
+    "User_Profile": "\"Short-Term Interests\": The user is a long-time fan of open-world, action-packed titles (GTA Vice City, Saints Row, plus music and karaoke games). They enjoy comedic or edgy gameplay experiences with minimal learning curves, but also appreciate a robust single-player campaign if it’s well-executed.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Gravitate toward humorous, mature titles like GTA and Saints Row\n* Also invests in music-based games (Rock Band, SingStar) but criticizes subpar ones\n* Looks for large, open-world adventures with ample missions (GTA, Saints Row) or story/music expansions (Beatles Rock Band)\n* Values fun factor over extremely complex mechanics\n\"User_Profile\": The user is an adult gamer who enjoys a mix of comedic, adult-oriented open-world action and music/rhythm experiences. They tend to be critical when a game’s humor or storyline fails. On the flip side, they can be highly complimentary when a title meets their comedic or gameplay expectations. Rock Band expansions, GTA-like games, or comedic story expansions likely appeal to them.",
+  
+    "Candidate_Items": {
+      "1": "Music Rhythm Game with Robust Karaoke Integration",
+      "2": "Open-World Co-Op Shooter with Heavy Humor",
+      "3": "Mature Sandbox Expansion Pack with Comedy Missions",
+      "4": "Remastered Collection of GTA-Style Classics",
+      "5": "License-Free Rock Band Accessory Bundle"
+    }
+  },
+  {
+    "User_ID": "AE747CPTU3RCQNGPY4OYSSKJHKQQ",
+    "User_Profile": "\"Short-Term Interests\": This user primarily engages with classic strategy/civ-building games (Civ V, Elemental, Warlock), occasional Sims expansions, and reviews the occasional Wii or 3DS accessory. They focus on the gameplay depth, particularly in 4X or city-building simulations.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Strong interest in older strategy or management titles (Master of Magic references, MoM-like 4X, Civ series)\n* Values the ‘tycoon’ or sim aspect but gets frustrated if expansions or new entries remove key features\n* Buys practical console replacements (power adapters, chargers) with minimal commentary\n* Critiques AI, difficulty, or tech trees in 4X/fantasy sims\n\"User_Profile\": The user is a simulation/strategy gamer who’s nostalgic for classic entries like Master of Magic, seeking modern equivalents that maintain complexity without losing the original fun factor. They also keep older consoles running with replacement parts. They weigh expansions’ added depth against old features lost or changed, looking for balanced AI and robust gameplay mechanics.",
+  
+    "Candidate_Items": {
+      "1": "Remastered 4X Fantasy Strategy with Advanced AI & Races",
+      "2": "Tycoon Simulation Pack (Remastered Classics Edition)",
+      "3": "Modular Board Game Emulating Master of Magic",
+      "4": "Multi-Adapter Charger for Legacy Nintendo Systems",
+      "5": "City-Building Expansion with Complex Economy Trees"
+    }
+  },
+  {
+    "User_ID": "AGTMZCWIWBH43TCW7UKG2YV2EKKA",
+    "User_Profile": "\"Short-Term Interests\": The user has recently engaged with older PlayStation 2 wireless controllers, the Wii console, and various accessories for interactive sports or action games. They typically focus on whether accessories are comfortable, enhance the game experience, or add unhelpful complexity.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers simplicity and minimal clutter in gaming accessories (e.g., unimpressed with bulky sports packs)\n* Values cordless/wireless solutions that eliminate tangled cables\n* Places importance on comfortable grip, especially for smaller hands\n* Enjoys the Wii for light exercise/entertainment, albeit with caution about potential soreness!\n\"User_Profile\": The user is a casual, family-oriented gamer who values wireless convenience on older consoles (PS2) and easy-to-use accessories for the Wii. They often comment on potential downsides for smaller-handed players and appreciate frictionless, intuitive add-ons. If an accessory creates unnecessary bulk or complexity, they view it as a drawback.",
+
+  "Candidate_Items": {
+    "1": "Wireless Wii Sports Accessory Kit with Ergonomic Grips",
+    "2": "Lightweight Cordless PS2 Controller with Enhanced Vibration",
+    "3": "Compact Wii Remote Sports Pack (Minimal Attachments)",
+    "4": "Wii Bowling Glove for Comfort and Reduced Strain",
+    "5": "Small-Grip PS2 Controller for Kid-Friendly Gaming"
+  }
+},
+{
+    "User_ID": "AHBCXD3IW2OEP3JZXKKEWCAQWYRQ",
+    "User_Profile": "\"Short-Term Interests\": This user’s reviews span various platform games (The Incredible Hulk on Wii, older PS2 compilations like Sonic Mega Collection) and DC/Batman titles. They enjoy superhero-themed content, older Sega classics, and well-packaged combos (Batman return set, Arkham). They also mention getting them for younger relatives.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys superhero/character-driven games (Hulk, Batman, Sonic)\n* Likes compilations or dual-title collections that offer more value\n* Seeks easy, family-friendly experiences where kids can jump in and enjoy\n* Finds repetitive gameplay less appealing, but still tolerates it if the theme is strong\n\"User_Profile\": The user is a casual to moderate gamer with a fondness for iconic superhero titles and retro Sega franchises (Sonic). They appreciate straightforward gameplay that’s accessible for kids, but also want enough content (like multi-game sets) to keep them entertained. They gravitate toward known IPs that evoke nostalgia or a sense of fun.",
+
+  "Candidate_Items": {
+    "1": "Retro Sega Heroes Compilation (Classic Sonic & Others)",
+    "2": "All-Ages Superhero Adventure Game Bundle",
+    "3": "Co-Op Beat 'em Up with Iconic Comic Characters",
+    "4": "Dual-Title Batman Game Remaster for Next-Gen",
+    "5": "4-Player Arcade Brawler Featuring Superhero Team-Ups"
+  }
+},
+{
+    "User_ID": "AEPITS5FDCSEKZLEH7VXFBJJIUEA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews focus on racing and flight games (Forza, Air Conflicts, Birds of Steel) and a single platformer (TinTin). They comment on difficulty levels, graphics polish, and how new entries compare with previous ones.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys racing sims but can be critical if they feel downgraded or lacking in novelty (Forza 4 vs. 3)\n* Appreciates flight combat titles with easier modes, especially when they have a strong storyline\n* Prefers a moderate challenge—too hard or punishing = frustration\n* Also invests in occasional licensed platformers if they’re polished and visually appealing\n\"User_Profile\": The user is a fan of both racing and flight simulation experiences on consoles, seeking polished graphics and accessible difficulty. They prefer not to lose features from previous installments in a franchise. They also enjoy lighthearted, movie-based platformers if done well. Overall, they want engaging games that aren’t punishingly difficult and that hopefully improve on predecessors rather than lose content.",
+
+  "Candidate_Items": {
+    "1": "Realistic Racing Sim with Improved Car Variety",
+    "2": "Arcade Flight Combat Game with Multiple Difficulty Modes",
+    "3": "Licensed Movie Tie-In Platformer with Updated Graphics",
+    "4": "Open-World Car Customization Title (Spiritual Successor to Forza 3)",
+    "5": "Aerial Dogfight Bundle with Narrative Campaign"
+  }
+},
+{
+  "User_ID": "AHPOHKN4PU4W3V5PGFL7AGTAD2AA",
+  "User_Profile": "\"Short-Term Interests\": The user’s reviews revolve around hidden-object and puzzle adventures (Mystery Case Files, Pirates of the Caribbean DS?), some first-person shooters on Wii (Call of Duty, Dead Space Extraction), and older DS word games (WordJong). They highlight the novelty of replay value or lack thereof.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys hidden-object DS titles but bemoans limited replay value when story doesn’t change\n* Prefers puzzle/word games that scale in difficulty or have daily challenges\n* Finds Wii FPS experiences fun if they incorporate co-op or unique controls (Dead Space Extraction, COD:WaW)\n* Buys replacement or accessory items (Wii power supplies) for older hardware and expects them to work seamlessly\n\"User_Profile\": The user is a casual puzzle/hidden-object fan who also dabbles in Wii shooters. They are conscious of replay value—if a puzzle game is too repetitive on second playthrough, they lose interest. Meanwhile, they enjoy interactive or co-op aspects in shooters, particularly on the Wii. They also keep older consoles running via replacement adapters.",
+
+  "Candidate_Items": {
+    "1": "Hidden-Object Puzzle Pack with Randomized Item Layout",
+    "2": "Co-Op Light Gun Shooter for Wii with Multiple Campaigns",
+    "3": "Daily Word Puzzle DS Collection",
+    "4": "Officially Licensed Wii Replacement Accessory Kit",
+    "5": "Sequel to Mystery Case Files with New Scenes & Puzzles"
+  }
+},
+{
+  "User_ID": "AFWWROMR2DK2PZKPFEQRAE6CSVZQ",
+  "User_Profile": "\"Short-Term Interests\": This user focuses on anime-style or JRPG-inspired games (Odin Sphere, Atelier series), plus older wired/wireless controllers. They strongly appreciate art direction and storyline, praising Odin Sphere’s visuals but criticizing bright, distracting controller lights.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Loves 2D anime art and story-driven titles (Odin Sphere, Atelier Totori, Atelier Meruru)\n* Dislikes hardware or controllers that are overly flashy or hamper gameplay (e.g., glowing controllers too bright or break easily)\n* Values replayability if a game’s story and characters are compelling\n* Favored sub-genre is fantasy or alchemy-based JRPG, often with deep narrative\n\"User_Profile\": The user is a devoted JRPG fan who prioritizes beautiful art style, good storytelling, and stable game controllers that don’t distract from gameplay. They return to Atelier or Odin Sphere-type titles that combine narrative depth with visually striking 2D or anime aesthetics. They’re quick to abandon hardware that feels cheaply made or functionally poor.",
+
+  "Candidate_Items": {
+    "1": "HD Remaster of a Classic 2D Anime-Style JRPG",
+    "2": "Subdued LED Controller with Adjustable Brightness",
+    "3": "Collector’s Edition JRPG with Extra Art Book",
+    "4": "Minimalist Wired Controller for Retro Gaming",
+    "5": "Fantasy Alchemy RPG Sequel with Branching Storylines"
+  }
+},
+{
+  "User_ID": "AFTEMMCIMU62ONZHLLXEXSME4Z6Q",
+  "User_Profile": "\"Short-Term Interests\": The user reviews revolve around PC farming/driving sims (John Deere: Drive Green), match-3 puzzle games (Cradle of Athena, Jewel Master Egypt), and puzzle/adventure DS titles (Professor Layton). They also mention the comfort or clarity of instructions.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* They enjoy casual simulation (farming) or puzzle-based games with simple but addictive mechanics\n* Slight confusion when instructions are unclear or absent, as with some match-3 DS games\n* Tends to appreciate the beloved Professor Layton series for its robust story and puzzle variety\n* Finds certain games repetitive if building or puzzle elements lack variety\n\"User_Profile\": The user is a casual gamer leaning heavily on puzzle or sim experiences that are approachable but can become repetitive if there’s not enough variety. They especially like well-executed puzzle-adventure titles like Professor Layton, which blend story with logic challenges. They’re also open to simplistic farm/driving sims, so long as instructions and goals are straightforward.",
+
+  "Candidate_Items": {
+    "1": "Comprehensive Farming Simulator with Clear Tutorials",
+    "2": "Match-3 Adventure DS Collection with Varied Puzzles",
+    "3": "Narrative-Heavy Puzzle Game in the Professor Layton Style",
+    "4": "Time-Management Farm Sim with Relaxed Mode",
+    "5": "All-in-One Puzzle Bundle (Egyptian/Mythology Themes)"
+  }
+},
+{
+    "User_ID": "AHIUDIC4IOC3TUWC25ISKZZ4W6JA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews center around kid-friendly Nintendo games on Switch (Super Mario Odyssey, Overcooked! 2, Hello Neighbor series) and older DS/3DS titles (LEGO Friends, Pokémon Alpha Sapphire, Mario Party: The Top 100). All were bought as gifts, typically for a granddaughter.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Prefers family-friendly, approachable games, often suitable for younger players\n* Tends to buy popular Nintendo series (Mario, Pokémon, LEGO)\n* Frequently purchases games as gifts, with minimal commentary—implies trust in well-known franchises\n\"User_Profile\": The user is a gift-giver who focuses on beloved or kid-friendly titles on Nintendo platforms. They rely on established brands (Mario, LEGO, Pokémon) for reliably entertaining gameplay. Reviews are succinct, suggesting the user is mainly concerned that the recipient (a granddaughter) is happy with the game rather than analyzing gameplay in depth.",
+  
+    "Candidate_Items": {
+      "1": "Nintendo Switch Party Game Pack for Kids",
+      "2": "Co-op Cooking or Puzzle Game Sequel",
+      "3": "Mario-Themed 3DS Collection (Platformers & Party)",
+      "4": "Beginner-Friendly Pokémon Starter Bundle",
+      "5": "LEGO Crossover Adventure Game for Switch"
+    }
+  },
+  {
+    "User_ID": "AFEZH43XDG42KHOX4ZDOISHOJJMQ",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews highlight gaming accessories (KontrolFreek thumbstick extenders) and popular sports or fighting games on various consoles (Madden, NBA 2K, Mortal Kombat). They frequently mention quick delivery and that the products match their descriptions.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Looks for enhancements to control precision (thumbstick grips, improved headsets, mice/keyboard)\n* Prefers big-name sports titles (Madden NFL, NBA 2K) and established fighting franchises (Mortal Kombat)\n* Focuses on ease of purchase and straightforward, reliable functionality\n\"User_Profile\": The user is an avid console gamer (Xbox, PS4) who invests in controller enhancements and major sports/fighting releases. Their top priorities are fast shipping, accurate product listings, and general ease. They repeatedly mention recommending products to family and friends, indicating satisfaction when items match or exceed expectations.",
+  
+    "Candidate_Items": {
+      "1": "Professional Controller Grips for Enhanced Analog Control",
+      "2": "Annual Sports Game Edition Bundle (Madden + NBA 2K)",
+      "3": "Wireless Gaming Headset with Noise Cancellation",
+      "4": "Ergonomic Gamepad for Competitive Fighting Titles",
+      "5": "RGB Mechanical Keyboard & Mouse Combo for Console/PC Use"
+    }
+  },
+  {
+    "User_ID": "AGVSALQPFK6D4FDKCEFHHUSPNC3A",
+    "User_Profile": "\"Short-Term Interests\": The user is heavily focused on older Bioware-style RPGs (Dragon Age, Star Wars: The Old Republic time card, The Secret World MMO, Guild Wars 2) and sometimes complains about endgame or repetitive grinding. They enjoy some sandbox or faction-based PVP elements.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers story-rich MMORPGs or single-player CRPGs with meaningful narratives\n* Critiques repetitive or forced grinding at endgame (SWTOR, The Secret World, GW2 references)\n* Enjoys faction-based conflict but wants it to be well-executed\n* Fond of older Bioware titles (Dragon Age: Origins), less impressed by sequels missing epic feel\n\"User_Profile\": The user is a discerning RPG/MMO player who values deep story content and dynamic gameplay rather than mindless grinding. They want expansions or updates that add purpose and narrative. They also engage in PVP if it’s integrated with meaningful objectives. They can be quick to drop a game when repetition sets in, especially if the storyline fails to maintain epic scale.",
+  
+    "Candidate_Items": {
+      "1": "Narrative-Focused MMORPG with Faction Warfare & Minimal Grind",
+      "2": "Story-Driven CRPG Bundle with Expansions",
+      "3": "New Bioware-Style Fantasy RPG with Rich Endgame",
+      "4": "Co-Op PvE Expansion for an Existing MMO, Emphasizing Story Quests",
+      "5": "Classic MMO Time Card for Popular Subscription-Based RPG"
+    }
+  },
+  {
+    "User_ID": "AEKWVNWT5NS5J7L45LLNLGD3MFWA",
+    "User_Profile": "\"Short-Term Interests\": This user invests in accessories that expand console functionality (PS3 Slim expansion bar, HyperX Cloud headset, 3DS console variants). They also mention liking MMO aspects on PS3 (Final Fantasy XIV). They keep older hardware relevant with modern expansions.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys online or MMO-style games (FFXIV) if they offer social features and familiar console controls\n* Prefers comfort in headsets for extended sessions\n* Values expansions or add-ons that provide additional ports/media readers (PS3 Slim bar)\n* Critiques console portability or comfort after prolonged use (3DS XL issues)\n\"User_Profile\": The user is a moderate to hardcore console/MMO player who invests in gear to improve comfort and hardware versatility. They like large-scale online experiences but also appreciate offline expansions that let them store more media or accessories. Comfort (especially in headsets or handhelds) is crucial, and they’re willing to experiment with solutions that address gaming fatigue or limited port access.",
+  
+    "Candidate_Items": {
+      "1": "Multifunction USB Expansion Hub for Modern Consoles",
+      "2": "MMO Controller with Key Remapping for PS5/PC",
+      "3": "Lightweight Ergonomic Grip for 3DS XL or Switch Lite",
+      "4": "Wireless Gaming Headset with Memory Foam Ear Cups",
+      "5": "Console MMO Starter Bundle with On-Screen Chat Keyboard"
+    }
+  },
+  {
+    "User_ID": "AF6NMYYHILKNULG772IZLOFGYAAA",
+    "User_Profile": "\"Short-Term Interests\": This user plays PC strategy (Civ, Valkyria Chronicles), invests in gaming mice/keyboards, and has a strong dislike for Steam’s DRM if it interferes with usage. They also mention preference for classic Civ features (disappointed in Beyond Earth) and appreciate stable hardware.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys deeper strategy or story-based games but is critical when expansions omit beloved features\n* Strong distaste for forced DRM or complicated launchers (Steam fiascos)\n* Invests in mid- to high-end PC peripherals (mice, keyboards) but demands robust software for macros\n* Appreciates bigger, epic storylines in RPG/strategy (Valkyria Chronicles, older Civ titles)\n\"User_Profile\": The user is a selective PC gamer focusing on strategy titles (Civ, expansions) and story-heavy single-player experiences. They want minimal friction in launching or playing the game—any DRM issues or missing classic features hamper satisfaction. They invest in advanced gaming hardware but are quick to criticize poor driver/software support. They also highlight stable performance as a major plus.",
+  
+    "Candidate_Items": {
+      "1": "Offline-Friendly 4X Strategy Game (No Forced DRM)",
+      "2": "Advanced Gaming Mouse with Intuitive Macro Software",
+      "3": "Retro Civ-Style Bundle with All DLC & Old Mechanics Restored",
+      "4": "JRPG Tactical PC Port with Minimal DRM",
+      "5": "Mechanical Keyboard with Comprehensive Macro Recording & Anti-Ghosting"
+    }
+  },
+  {
+    "User_ID": "AEQEFCHNH7RLRQC4TSBZ46DL6VJQ",
+    "User_Profile": "\"Short-Term Interests\": This user highlights older Xbox action/RPG titles (Elder Scrolls III Morrowind, Knights of the Old Republic), some Wolfenstein shooters, and various family-friendly platformers (Ty the Tasmanian Tiger, LEGO Pirates). They see these as all-time favorites or nostalgic must-haves.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys older classic Xbox titles, especially RPGs from Bethesda or Bioware\n* Values games with extensive replay (Morrowind, KOTOR) or comedic platformers (Ty)\n* Tends to consider certain games “best ever made,” showing a strong nostalgic attachment\n* Also invests in other big franchise shooters (Crysis, Wolfenstein)\n\"User_Profile\": The user is a retro-minded gamer who loves the golden era of original Xbox and early 360 titles. They favor immersive RPGs with hundreds of hours of content, comedic or cartoony platformers for variety, and linear shooters with strong campaign modes. They frequently replay or recollect older games, praising them as all-time greats.",
+  
+    "Candidate_Items": {
+      "1": "Classic Xbox RPG Collection (with Morrowind, KOTOR, Jade Empire)",
+      "2": "Early 2000s Platformer Revival Bundle",
+      "3": "Modern Shooter with Strong Narrative, Reminiscent of Wolfenstein",
+      "4": "Fantasy Adventure Remaster for Nostalgic Xbox Fans",
+      "5": "Long-Hour Sandbox RPG with Updated Graphics and DLC"
+    }
+  },
+  {
+    "User_ID": "AGBQGWBWT3SXHTNFC2NCEU2W6HHA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews highlight handheld console protection (PlayStation Vita protective films) and a strong preference for Final Fantasy installments. They also collect amiibo figures and express strong opinions about Final Fantasy XV’s storyline and design. They invest in controllers (wired vs. wireless) and have concerns about durability.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys handheld and console JRPGs (especially classic or remastered Final Fantasy titles)\n* Values protective or add-on accessories for handheld devices (PS Vita film)\n* Criticizes modern Final Fantasy entries if they deviate too far from classic RPG elements (disliked FFXV’s battle system & story)\n* Cares about controller quality and longevity, wary of breakage\n* Collects gaming figures or special editions (amiibo, etc.)\n\n\"User_Profile\": The user is a JRPG devotee (particularly Square Enix’s Final Fantasy series) who invests in hardware accessories to protect devices or enhance gameplay. They’re critical if a beloved franchise strays from its roots, particularly regarding story and combat. They also appreciate novelty items (amiibo) and keep an eye on controller build quality and design. They tend to replay favorite games (like FFX) across multiple platforms.\n",
+    "Candidate_Items": {
+      "1": "HD Remaster JRPG Collection for Classic Final Fantasy Titles",
+      "2": "Durable Third-Party PS4/PS5 Controller with Reinforced Buttons",
+      "3": "Protective Screen Film and Grips Bundle for Handheld Consoles",
+      "4": "Retro-Style Turn-Based RPG with Emphasis on Story & Exploration",
+      "5": "Collector’s Edition amiibo Set for Square Enix Crossovers"
+    }
+  },
+  {
+    "User_ID": "AF2BLE54TEMGZ546U763ZHZRXC4A",
+    "User_Profile": "\"Short-Term Interests\": The user appreciates smaller accessories for PC gaming (mouse pads) and VR (head straps, carrying cases). They also keep controllers and rechargeable batteries in good shape for Xbox gaming. Their reviews focus on practicality, cleaning ease, and comfort.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Invests in gaming gear that helps organize or protect hardware (cases, storage, grips)\n* Wants comfortable VR head straps and extended battery solutions (Oculus Quest 2)\n* Prefers minimalistic or straightforward mouse pads with strong grip\n* Values easy cleaning or maintenance (controller grips that can be washed)\n* Looks for ways to keep everything portable and well-protected\n\n\"User_Profile\": The user is a careful organizer of their gaming setup—purchasing items that streamline storage, protect devices, or enhance comfort (VR straps, grips, carrying cases). They’re budget-conscious but also want durability and good design. If an accessory simplifies their life (e.g., easy to wash, robust enough to travel), it’s a winning product.\n",
+    "Candidate_Items": {
+      "1": "Compact Travel Case Set for VR Headset & Controllers",
+      "2": "Breathable Ergonomic Head Strap with Battery Extension for Oculus Quest 2",
+      "3": "Non-Slip Minimalistic Mouse Pad with Extra-Thick Padding",
+      "4": "Anti-Sweat, Washable Silicone Controller Grip Covers",
+      "5": "Multi-Device Charger Dock for Xbox Controllers & VR Headsets"
+    }
+  },
+  {
+    "User_ID": "AFAAITODQWTP5HUV2E7QDRXRHERA",
+    "User_Profile": "\"Short-Term Interests\": Their reviews focus on gaming headsets (with decent mic quality and battery life), rechargeable Xbox controller batteries, and multiple wired controllers. They also enjoy colorful or cute designs like cat-ear headphones.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys visually appealing headsets (RGB lights, pink/cat-ear designs)\n* Prioritizes functional sound quality (mic clarity, noise cancellation)\n* Prefers convenience features like wireless or rechargeable battery packs for controllers\n* Seeks a good blend of style and performance in gaming peripherals\n\n\"User_Profile\": The user is a peripheral-focused gamer who appreciates cute or stylish designs (especially pink cat-ear sets) while also requiring decent performance (clear mic, stable battery). They emphasize comfort and durability, especially for headsets. They often choose accessories that enhance the overall gaming experience (RGB lighting, noise cancellation) without a huge price tag.\n",
+    "Candidate_Items": {
+      "1": "Vibrant LED Gaming Headset with Cat Ear Detachable Mic",
+      "2": "Rechargeable Multi-Pack Battery Station for Xbox Controllers",
+      "3": "Wireless Controller in Pastel Pink/Blue with Built-In Gyro",
+      "4": "Noise-Canceling RGB Headset for PC and Console",
+      "5": "Universal Headphone Stand with Cable & Battery Holder"
+    }
+  },
+  {
+    "User_ID": "AE7YYSYFEWAYIUCAK4W33CHPP4JQ",
+    "User_Profile": "\"Short-Term Interests\": This user invests in arcade parts (joysticks, easy-get USB encoders) for bartop arcades, mid-range gaming headsets (HyperX, etc.), and mechanical keyboards or small 60% boards. They also occasionally pick up mainstream console games (e.g., Just Dance). They enjoy customizing their PC gaming experience.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Builds or modifies arcade setups, needing robust joystick parts\n* Prefers well-reviewed mechanical or partial-mechanical keyboards with lighting\n* Buys mid-tier headsets with decent performance for everyday gaming\n* Occasionally picks up casual or family-friendly console titles like Just Dance\n\n\"User_Profile\": The user is a tinkerer who upgrades or builds custom arcade solutions, invests in mechanical keyboards, and chooses cost-effective headsets. They balance budget and quality. They also like casual group/party games for console or PC, but the main interest is PC or custom arcade hardware, focusing on reliability and decent performance.\n",
+    "Candidate_Items": {
+      "1": "DIY Arcade Kit with High-Quality Joystick & Durable Buttons",
+      "2": "Programmable 60% Mechanical Keyboard with Swappable Switches",
+      "3": "Mid-Range Gaming Headset Bundle (Wired & Wireless Options)",
+      "4": "PC Arcade Interface with Enhanced Macro Mapping",
+      "5": "Family Dance/Rhythm Console Game Collection"
+    }
+  },
+  {
+    "User_ID": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ",
+    "User_Profile": "\"Short-Term Interests\": Their reviews focus on AAA shooters (Rage, Wolfenstein, Halo-like experiences) and city/survival sims (Anno 2070) with commentary on performance. They also occasionally reference game expansions (WoW’s Warlords of Draenor) and VR hardware (Oculus Rift S). They mention technical aspects like “field of view” or “graphics performance.”\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* FPS shooters from iconic studios (id Software, Wolfenstein series) hold interest but can be judged harshly if repetitive or “tunnel vision” is noticed\n* Looks for stable performance (no major bugs), good install experiences, minimal time wasted\n* Critiques VR headsets that reduce field of view or comfort\n* Finds expansions (like WoW) acceptable if they add enough new content\n\n\"User_Profile\": The user is an FPS and occasionally MMO-oriented gamer who also dabbles in VR. They look closely at performance (install times, glitch frequency) and whether expansions or hardware updates truly enhance the experience. They’re tech-savvy, referencing field-of-view and install size, and prefer robust, well-optimized products with minimal flaws.\n",
+    "Candidate_Items": {
+      "1": "Open-World FPS with High FOV and Minimal Install Time",
+      "2": "VR Headset with Wider Field of View and Room-Scale Tracking",
+      "3": "MMO Expansion Bundle with Enhanced Endgame Content",
+      "4": "Performance-Optimized Wolfenstein-Style Shooter with Co-Op",
+      "5": "Sci-Fi City-Building Sim Sequel with Refined Resource Management"
+    }
+  },
+  {
+    "User_ID": "AE3X7PNUWXQU6FZQLQGIA6ZT45QA",
+    "User_Profile": "\"Short-Term Interests\": This user invests in small but functional gaming gear (one-handed mechanical keyboards, new PS2 memory cards). They also buy protective or stylish controller skins (Xbox silicone grips) and cat-ear style gaming headsets. They mention liking crisp mechanical keys and the possibility of simpler programming.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers compact or specialized keyboards for gaming, with mechanical key feedback\n* Values memory card replacements for older consoles (PS2 nostalgia or legacy usage)\n* Enjoys themed or novelty headsets (cat ears), so style is a factor\n* Buys organizational solutions for Switch game libraries\n\n\"User_Profile\": The user is a mix of old-school console gamer (PS2 memory cards) and modern PC gamer (mechanical keyboards, silicone grips for controllers). They focus on functional, compact solutions to enhance their gaming convenience or aesthetic. They don’t mind novelty flair (cat ears) as long as performance is decent. They also pay attention to product build quality and ease of setup.\n",
+    "Candidate_Items": {
+      "1": "Retro-Fit PS2 Memory Card Bundle with Extended Storage",
+      "2": "Ergonomic One-Handed Mechanical Keypad with Macro Functions",
+      "3": "Silicone Controller Grips in Fun Colors or Themes",
+      "4": "Cute RGB Cat-Ear Headset with Adjustable Mic",
+      "5": "Switch Cartridge Storage Case with Larger Capacity"
+    }
+  },
+  {
+    "User_ID": "AGD25H7BIT2JUXSIOPYCYB23J3ZQ",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews focus on gaming headsets, primarily budget to mid-range wired options, and an Oculus (VR) strap with battery. They comment on durability issues (one headset snapped after a week), comfort, noise cancellation, and microphone clarity.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers headsets that can withstand heavy usage (kids, quarantine/homeschool scenarios)\n* Values comfort (oversized ear cups, soft pads) and effective microphone performance\n* Will replace subpar or easily breakable gear (1-star if it breaks quickly)\n* Invests in VR comfort solutions for Oculus (e.g., a replacement strap with battery)\n\n\"User_Profile\": The user is a pragmatic shopper looking for resilient, comfortable headsets that handle daily or even intensive use. They’re especially disappointed by flimsy designs that snap easily under normal use. They also seek VR accessories that address common comfort complaints (like the default Oculus strap). Their children often use the gear, so durability and comfort are key factors.",
+  
+    "Candidate_Items": {
+      "1": "Heavy-Duty Wired Gaming Headset with Reinforced Jack",
+      "2": "Oversized Earcup Headset with Flexible Boom Mic",
+      "3": "Long-Lasting VR Strap with Battery for Oculus Quest 2",
+      "4": "Noise-Canceling USB Headset for Remote Learning and Gaming",
+      "5": "Coiled or Detachable Audio Cable Headset to Prevent Cable Stress"
+    }
+  },
+  {
+    "User_ID": "AGDSEYGSA5K664EUHWKV3ARDXO2Q",
+    "User_Profile": "\"Short-Term Interests\": This user enjoys Just Dance family experiences, Kinect-based Star Wars, and other motion-controlled or casual-friendly games. They mention older titles like Rock Band, so presumably they value active or party-style gaming experiences.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers group or family-oriented games, often dance/music or Kinect-based\n* Looks for replayability (criticized Just Dance 3 for lacking a certain video review feature found in JD4)\n* Enjoys comedic Star Wars dancing, or motion-based experiences (Kinect Star Wars)\n* Seeks family-friendly, physically engaging titles\n\n\"User_Profile\": The user is a family gamer focusing on fun, active, or group-friendly experiences. Kinect-based or dance/music titles are frequent picks. They watch for features that encourage replay (like silly video replays in Just Dance). They enjoy well-known IPs (Star Wars) and want broad-appeal games that can be played repeatedly by different age groups.",
+  
+    "Candidate_Items": {
+      "1": "Just Dance Ultimate Party Pack with Additional Video Review Feature",
+      "2": "Kinect Motion-Adventure Game Bundle for Family Play",
+      "3": "Expanded Star Wars Kinect Sequel with More Dance/Party Modes",
+      "4": "Rock Band or Karaoke Expansion with Additional Music Tracks",
+      "5": "Physical Activity Game for Kinect or Switch Ring Fit-Style Experience"
+    }
+  },
+  {
+    "User_ID": "AE3CPXBFKCQWOQJS67TH5TNNSUOA",
+    "User_Profile": "\"Short-Term Interests\": The user invests in VR accessories (PSVR bundles, head straps for Quest 2) and occasionally tries budget third-party controllers. They highlight battery usage, potential comfort improvements, and lens protection. They found some controllers to have poor audio or break quickly.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Values VR comfort enhancements (Quest 2 straps, silicone covers, lens protectors)\n* Prefers hardware that’s easy to maintain or keep from scratching (lens cover)\n* Buys third-party controllers but is critical if build or audio quality is lacking\n* Expects accessories to handle long, intense gaming sessions (18 hours, etc.)\n\n\"User_Profile\": The user is a VR-forward gamer who frequently upgrades gear for better comfort or reliability. They often experiment with mid-range or budget accessories but swiftly discard them if they fail in basic durability or audio performance. Minimizing lens damage and distributing headset weight are top priorities, as is having a stable battery solution for lengthy VR sessions.",
+  
+    "Candidate_Items": {
+      "1": "Elite-Style Quest 2 Head Strap with Balanced Weight and Longer Battery",
+      "2": "Durable VR Lens Cover That Auto-Suspends Device",
+      "3": "Wireless Controller with Decent Audio Support & Reinforced Jacks",
+      "4": "Grippy Silicone Quest 2 Face Cover with Airflow Vents",
+      "5": "High-End VR Headphones with Noise-Canceling Mic"
+    }
+  },
+  {
+    "User_ID": "AFI44N5JJZHC3P7SOQWMWXHNWNZQ",
+    "User_Profile": "\"Short-Term Interests\": The user buys gaming headsets (pink cat-ear style, standard with LED) and invests in rechargeable or wired controllers for multiple systems (Xbox, Switch). They evaluate comfort, LED aesthetics, and mic clarity. They also emphasize stable connectivity or easy setup.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Enjoys “cute” or stylistic headset designs, but also checks for good battery life and comfort\n* Appreciates quick hooking up or simple charging solutions for controllers\n* Tends to choose mid-range accessories, focusing on style plus functionality\n* Values crisp audio, minimal outside noise, and stable mic performance\n\n\"User_Profile\": The user is a console-focused accessory shopper who invests in visually appealing or trendy headsets. They want decent performance and battery life without paying top-tier prices. They also maintain multiple controllers and prefer rechargeable solutions or easy plug-ins for consistent usage. Comfort and style are equally important to them, especially for extended gaming sessions.",
+  
+    "Candidate_Items": {
+      "1": "Wireless Pink Cat-Ear Gaming Headset with Extended Battery",
+      "2": "All-in-One Xbox Controller Charging Dock with LED Indicators",
+      "3": "Noise-Canceling Wired Headset for Cross-Platform (PS4/Xbox/PC)",
+      "4": "Ergonomic Switch Controller with Built-In Rechargeable Battery",
+      "5": "Budget Wireless Gaming Headphones with RGB Ears and Flexible Mic"
+    }
+  },
+  {
+    "User_ID": "AE7YYSYFEWAYIUCAK4W33CHPP4JQ",
+    "User_Profile": "\"Short-Term Interests\": The user invests in hardware upgrades like arcade stick sets, mechanical keyboards, and mid-range headsets. They also casually pick up popular console titles (Just Dance, kids’ co-op). Their feedback emphasizes decent price-to-performance ratio.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Likes tinkering with PC or arcade hardware, focusing on functional, durable parts\n* Prefers good-value mechanical keyboards with nice LED lighting or aesthetic flair\n* Occasionally buys mainstream console games, especially for family/party scenarios\n* Appreciates clarity in audio, comfortable fit in headsets\n\n\"User_Profile\": The user is a hobbyist who merges PC and retro arcade interests with the occasional big-name console game. They want best-value gear that’s “surprisingly good” or “amazing for the price,” and they enjoy customizing their rig. They pick up mainstream or dance titles when looking for easy, fun console experiences. Reliability and moderate cost are key.",
+  
+    "Candidate_Items": {
+      "1": "Arcade Stick Upgrade Kit with Pro-Level Micro Switches",
+      "2": "60% RGB Mechanical Keyboard with Hot-Swappable Switches",
+      "3": "Mid-Range Wireless Headset for PC/Arcade Projects",
+      "4": "Family Dance Party Bundle for Console",
+      "5": "Modular LED Keycaps for Mechanical Gaming Keyboards"
+    }
+  },
+  {
+    "User_ID": "AGL66VJWJ5BXD7IRM2SA7T7HLJFQ",
+    "User_Profile": "\"Short-Term Interests\": The user invests in expansions for major titles (WoW) and top-tier shooters (Doom, Wolfenstein, Rage). They often mention performance, loading times, or field-of-view concerns. They also reference VR (Rift S) but disliked certain limitations.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers iconic shooter franchises with stable performance and minimal load times\n* Explores expansions for beloved MMOs if they add enough new content\n* Critiques VR hardware if it reduces immersion or introduces tunnel vision\n* Tends to be brand-loyal to id Software or classic shooter devs\n\n\"User_Profile\": The user is a performance-oriented FPS gamer who invests in expansions for their favorite franchises. They check for how expansions or hardware improvements truly enhance the experience. VR is considered if it meets or exceeds expectations (wider field-of-view, minimal motion sickness). They enjoy recognized IPs but are picky when new installments deviate or degrade experience (like narrower FOV).",
+    "Candidate_Items": {
+      "1": "Retro Shooter Bundle with HD Remasters and Faster Load Times",
+      "2": "New VR Headset with Enhanced Peripheral Vision",
+      "3": "Performance-Focused MMO Expansion with Additional Raids",
+      "4": "Doom-Inspired Co-Op FPS Sequel with Minimal Install Wait",
+      "5": "Upgraded Shooter VR Experience with Wide FOV and Smooth Framerate"
+    }
+  },
+  {
+    "User_ID": "AE3X7PNUWXQU6FZQLQGIA6ZT45QA",
+    "User_Profile": "\"Short-Term Interests\": The user buys half mechanical keyboards, memory cards for retro consoles, Switch game cases, plus novelty/cute headsets. They stress build quality, style, and compactness.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Retro or older console support (PS2 memory card) alongside modern gear (mechanical half-boards)\n* Valuing portability and organization for Switch games\n* Enjoying cute or stylish headphone designs (cat ears)\n* Checking for decent build quality and functionality in each product\n\n\"User_Profile\": The user is a multi-era gamer bridging older consoles (PS2) with new solutions (mechanical keyboards, Switch storage). They appreciate cute or novelty design if it doesn’t sacrifice performance, as well as organizational accessories that handle daily gaming needs. They also rely on mechanical or partial mechanical solutions for PC gaming, underscoring a preference for more tactile feedback and compact setups.",
+    "Candidate_Items": {
+      "1": "Retro PS2 Memory Card with Enhanced Capacity (128MB+)",
+      "2": "Mechanical One-Handed Gaming Keypad with LED Effects",
+      "3": "Cat-Ear Wireless Headset with Balanced Audio for PC/Switch",
+      "4": "Slim Switch Cartridge Carrying Pouch for 60+ Games",
+      "5": "Durable RGB Mouse with Programmable Side Buttons"
+    }
+  },
+  {
+    "User_ID": "AG4B7E7QN3XUKWQNFKBECEFDKH5A",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews span various gaming-related hardware: VR headsets (Oculus Quest), PS5 console, VR comfort accessories (Quest 2 covers, controller straps), and a keyboard/mouse combo. They often highlight comfort issues (heavy VR pulling on the face), product durability, color/aesthetic, and overall value.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Critiques VR headsets for discomfort or weight, especially for longer sessions or with glasses\n* Looks for accessories that enhance comfort (controller straps, silicone covers)\n* Prefers good design and color options, praising products that look “amazing” or “perfect”\n* Seeks decent price-to-value ratio for gaming setups (PS5 console, PC peripherals)\n\"User_Profile\": The user is a console and VR gamer who values comfort and proper fit during extended play. They often buy add-ons (covers, straps) to address VR’s pressure or face-pulling. They also pay attention to color aesthetics and brand reliability. They praise items that are “exactly as described” and easy to use. Comfort, durability, and fair pricing are their top priorities.",
+  
+    "Candidate_Items": {
+      "1": "Elite-Style VR Head Strap with Extra Padding for Glasses Wearers",
+      "2": "Lightweight Silicone Face Pad Set to Reduce VR Headset Pressure",
+      "3": "Wireless RGB Keyboard & Mouse Bundle with Ergonomic Adjustments",
+      "4": "Hand-Strap Kit for VR Controllers with Wide Adjustable Range",
+      "5": "Decorative Protective Shell for PS5 with Enhanced Ventilation"
+    }
+  },
+  {
+    "User_ID": "AH2VR3RSAYZ3P7NKFKZZDLNN72MQ",
+    "User_Profile": "\"Short-Term Interests\": The user buys older adventure or action titles (Indiana Jones and the Emperor's Tomb), some racing or sports sims (Gran Turismo 5), and big strategy games (Empire & Napoleon Total War) plus action games like Batman Arkham City. They comment on game difficulty, saved-game glitches, and general game design.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Critiques older or classic games for mechanical or saving issues (Indiana Jones ‘save glitch’)\n* Tends to like historical strategy games (Total War) for extensive play without boredom\n* Criticizes racing and action titles if they're too repetitive or unrealistic in difficulty (Gran Turismo 5, Arkham City)\n* Prefers deeper strategy or “outstanding” historical expansions\n\"User_Profile\": The user is a seasoned gamer who invests in varied genres from older licensed adventure games to major strategy titles. They appreciate a combination of good storytelling (Indy) and robust gameplay (Total War). They dislike unrealistic difficulty spikes or repetitive content and want a smooth saving system. They can handle older titles if the experience is worth the quirks but become frustrated by silly design decisions and inadequate instructions.",
+  
+    "Candidate_Items": {
+      "1": "Remastered Classic Adventure Game Collection with Modern Save System",
+      "2": "Realistic Driving Sim with Improved AI & Difficulty Scaling",
+      "3": "Historical Strategy Expansion Pack with Additional Campaign Maps",
+      "4": "Action-Adventure Title with Cooperative or Enhanced Save Mechanic",
+      "5": "Story-Focused ARPG with Historical or Mythic Themes"
+    }
+  },
+  {
+    "User_ID": "AHZDJ3F7E4JYJDIOHISPQ2JJQWXA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews highlight a preference for singing and dancing games (Karaoke Revolution, Just Dance style) plus mainstream AAA titles (Watch Dogs). They also mention a used 3DS. They enjoy comedic or party-style experiences but occasionally dabble in open-world or action games.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Loves music/rhythm or singing games that the whole family can enjoy\n* Checks hardware condition for used handheld consoles (3DS) and is happy with near-new shape\n* Will try mainstream action or open-world titles (Watch Dogs) if they’re “entertaining”\n* Enjoys easy-to-start fitness or dance experiences (Nike Kinect Training) though might find them advanced for beginners\n\"User_Profile\": The user is a casual or family gamer who invests in entertainment-based titles (karaoke, dance, training) and occasional action games. They appreciate hardware in good shape (like a refurbished 3DS) and mention multiple household members playing. They want straightforward fun with minimal fuss, especially for group use. Karaoke and singing are particular favorites, plus all-ages dancing or fitness experiences.",
+  
+    "Candidate_Items": {
+      "1": "Complete Karaoke Revolution Bundle with Wireless Mic",
+      "2": "Refurbished 3DS XL with Extended Battery & Accessories",
+      "3": "Family Dance Party Game with Varied Tracklist",
+      "4": "Beginner-Friendly Fitness Game with Tutorials",
+      "5": "Open-World Action Title with Lite Co-Op Features"
+    }
+  },
+  {
+    "User_ID": "AFRYUVHP2U7DQCD7SJLDNX32LQ2Q",
+    "User_Profile": "\"Short-Term Interests\": This user invests in protective or organizational gear (Switch covers, game stands, silicone controller skins). They frequently mention kids or a family setting. They also comment on third-party or lesser-known brand accessories, checking fit and sturdiness.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Buys Switch or console accessories to protect hardware and keep controllers organized\n* Expects quick and reliable fitment (e.g., silicone covers that align properly)\n* Focuses on sturdy construction so kids can’t easily damage them\n* Values multi-function stands or holders that handle multiple controllers or headphones\n\"User_Profile\": The user is a family gamer who invests in organizational solutions and protective gear to keep gaming setups neat and functional. They have multiple controllers or accessories that need storing. They also buy silicone grips or covers for durability, ensuring kids won’t break them easily. They appreciate easy assembly, secure fit, and moderate pricing for these accessories.",
+  
+    "Candidate_Items": {
+      "1": "All-In-One Stand & Charging Dock for Multiple Controllers",
+      "2": "Hard-Shell Switch Cover with Built-In Storage Slots",
+      "3": "Textured Silicone Grip Pack for Various Console Controllers",
+      "4": "Headset Holder & Cable Organizer Bundle",
+      "5": "Adjustable Vertical Stand with Cooling Fans for Consoles"
+    }
+  },
+  {
+    "User_ID": "AGTW6ZGPUAORQ7X6CNBP6PJW7OTA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews revolve around gaming headsets, VR earpieces, battery packs, and docking stands for VR. They mention crisp audio, comfort, or how a product improves VR experiences. They also buy battery solutions for VR and portable chargers.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers immersive audio solutions for console or VR gaming (headset ear muffs, noise cancellation)\n* Buys VR accessories that keep equipment organized (docking stands) or extend playtime (battery packs)\n* Checks comfort level for extended usage, especially in VR (ear muffs, straps)\n* Values quick setup or user-friendly design (charging stands that accommodate controllers & headsets)\n\"User_Profile\": The user is a VR-focused and console accessory buyer who invests in improved audio and battery life. They like having an organized space (docks for VR controllers, stands for headsets) and appreciate well-designed solutions that reduce fuss, like magnetic charging or long battery capacity. They check for durability and easy integration into their gaming environment.",
+  
+    "Candidate_Items": {
+      "1": "VR Earmuffs with Enhanced Bass for Meta/Oculus Quest 2",
+      "2": "All-in-One Charging Dock for Headset & Controllers",
+      "3": "High-Capacity Battery Strap with Balanced Weight Distribution",
+      "4": "Lightweight Over-Ear Gaming Headset with Detachable Mic",
+      "5": "Travel Case & Charging Combo for VR Equipment"
+    }
+  },
+  {
+    "User_ID": "AHESP2LHOADAN4JS27W2KQ6BYS4Q",
+    "User_Profile": "\"Short-Term Interests\": The user invests in gaming headphones (some with 7.1 surround, noise canceling). They mention comfort, mic quality, and how easy/difficult macros are to configure on advanced keyboards. They also mention playing MMOs or action games, referencing macros.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Seeks comfortable, good-audio headsets that can handle lengthy sessions\n* Enjoys mechanical keyboards with macro functionality, but can get frustrated if driver/software is poor\n* Prefers moderate or budget brand gear with a decent feature set (RGB, 7.1) but not overly complicated\n* Focuses on MMO or team-based action game usage, where decent mic clarity and key programming matter\n\"User_Profile\": The user is a mid-level PC gamer who invests in gear that simplifies or enhances MMO or group play. They rely on a comfortable headset with decent mic quality for raids or co-op sessions. They like macros in mechanical keyboards but can be annoyed by subpar software. They mention how “tactile and auditory response” matter, indicating a preference for mechanical feedback or easy key-press recognition.",
+  
+    "Candidate_Items": {
+      "1": "7.1 Surround Headset with Simplified Macro Key Support",
+      "2": "Mechanical Keyboard with User-Friendly Macro Recording Software",
+      "3": "Noise-Canceling Headphones for MMO Raiding & Voice Chat",
+      "4": "Ergonomic Keyboard with Dedicated Media Controls",
+      "5": "Lightweight Over-Ear Headset with Swappable Ear Cushions"
+    }
+  },
+  {
+    "User_ID": "AE22CFXT3QZKUQJORVTGL3VQXAAA",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews focus on protective cases and screen covers for Nintendo 3DS and 2DS XL. They are also partial to Zelda-themed accessories (Zelda: Twilight Princess HD, BOTW Comfort Grip). Occasionally, they pick up console games with potential disc or case cosmetic issues (Shadow of War, Shadow of Mordor) but remain positive if the product mostly works.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Buys hardware protectors (carrying cases, screen protectors) for handheld consoles (3DS, 2DS XL)\n* Big Zelda fan, investing in special accessories and game-themed grips\n* Appreciates functional, snug-fitting gear that can hold chargers and game cards\n* Enjoys The Lord of the Rings-inspired games (Mordor, War) but can be annoyed by minor cosmetic issues\n\n\"User_Profile\": The user is a handheld gamer (3DS, 2DS XL) who prioritizes carefully protecting devices. They look for well-made storage solutions and screen protectors that accommodate chargers/cartridges. They are also a Zelda devotee, collecting special-edition accessories. They show moderate interest in console game purchases, especially fantasy-themed ones (LOTR, Zelda) and stay positive if the item is functionally sound.\n",
+    "Candidate_Items": {
+      "1": "Protective Carry Case for 3DS & 2DS XL with Extra Game Slots",
+      "2": "Officially Licensed Zelda-Themed 2DS XL Grip",
+      "3": "High-Quality Screen Protector Kit for Various DS Models",
+      "4": "LOTR-Inspired Console Game Bundle (Shadow of Mordor & War)",
+      "5": "Extended Charger Cable & Power Adapter for 3DS/2DS XL"
+    }
+  },
+  {
+    "User_ID": "AEWWBT5WHOPTXM6W43JMXMOANEYQ",
+    "User_Profile": "\"Short-Term Interests\": The user’s reviews focus on controller grips (Gel Tabz, thumbstick covers), silicone skins for Xbox 360/PS4 controllers, and various battery or accessory solutions. They comment on quality or how well the item matches pictures, with some frustration when pictures differ from actual item.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Values improved controller grip or feel (thumb grips, gel tabz, silicone skins)\n* Wary of cheap or thin silicone covers that break or fail quickly\n* Also invests in play-and-charge kits but complains if they lose charge quickly\n* Prefers physically robust or well-fitting accessories for older consoles (Wii, 360) as well\n\n\"User_Profile\": The user is a budget accessory shopper who invests in controller grips or protective covers to enhance gaming comfort. They’re critical if items arrive in poor condition or don’t match the listing. They prefer solutions that improve gaming traction (like Gel Tabz) and stable battery kits. They often mention that their kids use these accessories, indicating the need for durability.\n",
+    "Candidate_Items": {
+      "1": "Durable Silicone Skin Pack for Xbox/PS Controllers",
+      "2": "High-Capacity Play-and-Charge Kit with Reinforced Cable",
+      "3": "Premium Thumb Grips with Thick Gel for Extra Traction",
+      "4": "Wii Remote Charging Dock Bundle with 2 Heavier Duty Batteries",
+      "5": "Universal Controller Grip Covers in Multiple Colors"
+    }
+  },
+  {
+    "User_ID": "AGPWCCRQX7E25VCWAHVZXXP5WMJQ",
+    "User_Profile": "\"Short-Term Interests\": The user invests in VR (Oculus Rift + Touch VR system) and is also a console gamer who picks up special-edition controllers, flight sticks for sims, and a variety of mouse pads. They highlight the excitement around seamless VR (Quest) versus older sensor-based solutions and mention brand loyalty to certain peripheral makers (like Mad Catz for flight or Razer for mice).\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Prefers cutting-edge VR solutions with minimal external sensor fuss (Oculus Quest over older Rift with cameras)\n* Looks for special or unique hardware (Sunset Orange DualShock, X56 flight stick)\n* Emphasizes comfort, brand reliability, and performance features (e.g., no sensors, better micro-swappable parts)\n* Balances cost vs. novelty (like a fancy colorway or elaborate flight stick customizations)\n\n\"User_Profile\": The user is a tech enthusiast who invests in VR, flight sticks, custom controllers, or high-end mice. They enjoy flexible or advanced hardware (like the X56 Rhino for flight sims) and appreciate convenience and aesthetic (unique controller colors). They also watch for brand reputations (Razer, Mad Catz) and can gush about advanced or simpler VR solutions if done right.\n",
+    "Candidate_Items": {
+      "1": "Compact Inside-Out Tracking VR Headset with No Sensors Required",
+      "2": "High-End DualStick Throttle & Flight Controller for Flight Sims",
+      "3": "Limited-Edition DualShock Controller with Unique Color Options",
+      "4": "Wireless Gaming Mouse with Swappable Shells & Buttons",
+      "5": "Ergonomic VR Carrying Case & Battery Dock Bundle"
+    }
+  },
+  {
+    "User_ID": "AHALZ7AKVAVL7QEVBCI55JVLGXOQ",
+    "User_Profile": "\"Short-Term Interests\": The user invests in gaming headsets, typically checking for audio clarity, microphone quality, and LED aesthetics. They note some minor installation or software recognition issues (particularly with Corsair and certain headsets). They also mention mechanical keyboard usage and preferences for clicky keys.\n\"Long-Term Preferences\": An analysis of the user’s reviews reveals consistent themes:\n* Likes 7.1 or other forms of surround or noise-canceling features in headsets\n* Critiques issues with software/hardware integration if the drivers are glitchy\n* Enjoys mechanical keyboards with noticeable tactile feedback\n* Not deterred by LED lighting if it’s not overly distracting, but mindful of practicality\n\n\"User_Profile\": The user is a moderate/hardcore PC gamer who invests in audio solutions (headsets) and mechanical keyboards. They want good sound and mic clarity, possibly for team gaming or voice chat. They appreciate “clicky” mechanical feedback on keyboards, and while they enjoy LED aesthetics, they get annoyed if driver integration or device setup is more complicated than it should be. They also can run into brand-based driver issues (e.g., Corsair iCUE).",
+    "Candidate_Items": {
+      "1": "RGB 7.1 Gaming Headset with Plug-and-Play Simplicity",
+      "2": "Mechanical Keyboard with Hot-Swappable Blue Switches",
+      "3": "Noise-Canceling Mic Audio Mixer for Crisp Voice Chat",
+      "4": "Easy-Install USB Headset with Onboard Audio Profiles",
+      "5": "Low-Profile Mechanical Keyboard with Minimal Setup Requirements"
+    }
+  },
+  {
+    "User_ID": "AHIE3AXU3OL7AJHSRPSDNC53Q23A",
+    "User_Profile": "\"Short-Term Interests\": The user discusses Animal Crossing (City Folk on Wii), Wii Speak, and various protective cases or screen protectors for Nintendo handhelds. They also comment on dissatisfaction with in-game features (like grass deterioration in AC:CF) and frustration with unsupported online components (Wii Speak). They enjoy Animal Crossing’s general vibe, but they've moved on to 3DS accessories (cute AC folio case) as well.\n\n\"Long-Term Preferences\": From the user’s reviews, we see:\n- Big Animal Crossing fan (multiple references across different AC titles and accessories)\n- Prefers official or at least quality third-party accessories for DS/3DS, but can be annoyed by a lack of clear instructions (screen protectors) or taping aids\n- Dislikes defunct online functionality for older Wii games/hardware\n- Possibly values whimsical or “cute” design elements (the folio case)\n\n\"User_Profile\": This user is a casual Nintendo enthusiast, especially for Animal Crossing. They invest in protective gear for their DS/3DS and look for easy installation or instructions (though they find many screen protectors lacking). They’re disappointed with Nintendo’s shutdown of older Wii-based online play. They want accessories with minimal fuss (like a folio that doubles as a game or phone holder) and remain loyal to cozy franchises like Animal Crossing.\n",
+    "Candidate_Items": {
+      "1": "Comprehensive Animal Crossing DS/3DS Accessory Bundle (Case + Screen Protectors)",
+      "2": "Wii Nostalgia Collection (Offline-Enhanced Titles)",
+      "3": "Improved Clip-On Microphone Replacement for Wii (Self-Contained)",
+      "4": "Cute AC-Themed Switch Folio Case with Extra Pockets",
+      "5": "Screen Protector Kit with Positioning Frames/Tape and Detailed Instructions"
+    }
+  },
+  {
+    "User_ID": "AECNJEZHUGFLNU7Z6VNYLVUQQQDQ",
+    "User_Profile": "\"Short-Term Interests\": The user invests in higher-end gaming headsets (ASTRO A40, Alienware), charging solutions for PS4 controllers (magnetic ultra-slim docks), and convertible controllers (Razer Junglecat, MOGA XP5-A). They mention strong audio clarity, how easy pairing is, and cable or compatibility specifics.\n\n\"Long-Term Preferences\": From the reviews:\n- They want crisp, detailed sound in headsets, possibly for competitive or intense gaming.\n- They appreciate easy charging solutions for controllers that reduce desk clutter (magnetic, ultra-slim docks).\n- They buy gamepads that can pair with Android devices, praising or criticizing app support or pairing steps.\n- They enjoy brand-name products (ASTRO, Alienware) but also consider lesser-known gear if it works well.\n\n\"User_Profile\": The user is a multi-platform accessory buyer, seeking advanced or premium gear for gaming (PS4, PC, mobile). They are mindful of easy setup or pairing instructions, good comfort, and crisp audio for headsets. They also appreciate simpler charging stations to keep controllers neat. They regularly test new controllers or headsets across different devices, favoring reliability and cross-platform functionality.\n",
+    "Candidate_Items": {
+      "1": "Premium PS4/PS5 Controller Dock with Magnetic Snap-In Design",
+      "2": "Wireless Headset with Full App Integration & Clear Mic Output",
+      "3": "Multi-Platform Bluetooth Gamepad for Android/iOS with Adjustable Phone Clip",
+      "4": "Noise-Canceling Over-Ear Headphones with Surround Sound & PC Dongle",
+      "5": "USB-C Quick-Charge Cable Bundle for Various Gaming Controllers"
+    }
+  },
+  {
+    "User_ID": "AGYPJI2W4ZRQIEJSAIQCVRG7KIRA",
+    "User_Profile": "\"Short-Term Interests\": The user focuses on advanced VR gear (Oculus Rift + Touch, Quest), custom or limited-edition controllers, flight sticks, and aesthetic desk items like LED mouse pads. They emphasize convenience (inside-out tracking in VR) and unique colorways or brand tie-ins.\n\n\"Long-Term Preferences\": From the reviews:\n- Prefers cutting-edge, simpler VR solutions (Quest > older Rift) with no external sensors\n- Likes special color controllers or expansions (Sunset Orange DualShock)\n- invests in flight sim gear if it’s stable and advanced\n- Enjoys design or lighting (RGB mouse pad, color co-ordination)\n\n\"User_Profile\": The user is an enthusiast who invests in multiple gaming accessories for immersion (VR, flight sticks) and style (colored controllers, LED desk pads). They appreciate simpler setups that remove extra sensors or cables, plus brand synergy (e.g., carrying an Alienware theme). They watch price points but also love aesthetic or collector’s aspects. They often note how novel hardware improves the gaming experience.\n",
+    "Candidate_Items": {
+      "1": "Standalone Inside-Out VR Headset with Wireless PC Link",
+      "2": "Collector’s Edition Controller with Unique Color Scheme",
+      "3": "RGB Soft Extended Mouse Mat with Wireless Charging Pad",
+      "4": "High-Throttle Flight Control System with Weighted Base",
+      "5": "VR Wall Mount & Cable Management Kit for a Clutter-Free Setup"
+    }
+  },
+  {
+    "User_ID": "AHMG3ALUBE3FEBHODTBHP5J24YDA",
+    "User_Profile": "\"Short-Term Interests\": The user invests in games or expansions, praising some for fun or calling them lacking. They mention Nancy Drew’s wholesome puzzle approach, Buzz! Junior for family fun, and mention cable or device durability (like headphones). They also highlight a preference for “low gore, more puzzle” styles, but sometimes do competitive or advanced gaming with big headsets.\n\n\"Long-Term Preferences\": From the reviews:\n- Enjoys puzzle or detective games (Nancy Drew) that are family-friendly\n- Also invests in multi-purpose devices (headphones) for deeper immersion\n- Looks for well-constructed, comfortable gear for extended sessions, though not necessarily the highest-end\n- Praises older puzzle games for being refreshing alternatives to violent shooters\n\n\"User_Profile\": The user is a mix of casual/family-friendly gamer (e.g., Nancy Drew, Buzz! Junior) and a moderate tech-savvy buyer who invests in decent headphones or cables. They prefer puzzle or strategy-based gameplay with minimal violence, praising “fun for all ages.” However, they do cross over into mainstream or advanced gear when it suits them (like better headphones). They find non-violent or story-based games a nice break from typical violent shooters.\n",
+    "Candidate_Items": {
+      "1": "Retro Family Puzzle Game Collection with Cooperative Elements",
+      "2": "Wireless Over-Ear Headphones for Extended Puzzle-Solving Sessions",
+      "3": "Sturdy Multi-Purpose Audio Cable Pack",
+      "4": "New Detective Adventure Series with Updated Graphics",
+      "5": "Casual Party Quiz Game with Broad Age Appeal"
+    }
+  }
+  
+  
+  
+  
+  ]
+
+  

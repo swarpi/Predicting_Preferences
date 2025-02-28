@@ -1,0 +1,839 @@
+[
+    {
+        "User_ID": "AEE4M36AZAKURLEYGV23TM3BE7OQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair care products focused on moisturizing and detangling, such as shampoos and conditioners with natural oils, hair towels, and convenient towelettes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Preference for moisturizing hair products that leave fine, shoulder-length hair shiny and bouncy without greasiness\n* Interest in products that help with detangling, reducing frizz, and minimizing static electricity\n* Appreciation for high-quality hair accessories like twist towels and soft hair towels\n* Values convenience items for on-the-go use, such as individually packaged towelettes\n* Preference for natural ingredients like coconut oil and avocado oil in hair care\n\"User_Profile\": The user appears to prioritize hair care and values products that enhance the health and appearance of their fine, shoulder-length hair. They seek moisturizing shampoos and conditioners that provide shine and manageability without weighing hair down. The user appreciates effective detangling solutions and products that combat frizz and static. They value quality hair accessories and convenient personal care items, showing a preference for natural ingredients in their hair care routine.",
+        "Candidate_Items": {
+            "1": "Anti-Frizz Hair Serums",
+            "2": "Leave-In Conditioners with Natural Oils",
+            "3": "Detangling Hair Brushes",
+            "4": "Travel-Friendly Dry Shampoos",
+            "5": "Silk Pillowcases for Hair Care"
+        }
+    },
+    {
+        "User_ID": "AEFRTLVCVRALKXBED77KHPIXEPWQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products suitable for sensitive skin, including face masks, headbands designed to relieve mask pressure, and lip balms with sun protection.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that soothe and hydrate sensitive skin without causing irritation\n* Preference for products that provide noticeable results, such as firmer or more hydrated skin\n* Appreciation for convenience and comfort in products, like headbands with buttons for mask straps\n* Values sun protection in lip care products without adverse reactions\n* Open to trying new skincare treatments, even if instructions are not in their native language\n\"User_Profile\": The user is focused on skincare solutions that cater to sensitive skin, seeking products that offer hydration, soothing effects, and anti-aging benefits without irritation. They value practicality and comfort in accessories that enhance their daily routines. The user is health-conscious, preferring products with sun protection, and appreciates items that deliver visible results.",
+        "Candidate_Items": {
+            "1": "Hypoallergenic Mascara for Sensitive Eyes",
+            "2": "SPF Lip Balms for Sensitive Lips",
+            "3": "Cooling Gel Eye Masks",
+            "4": "Gentle Facial Cleansers for Sensitive Skin",
+            "5": "Soft Makeup Brushes for Delicate Skin"
+        }
+    },
+    {
+        "User_ID": "AEFU6XKGH6J4ZIYTVVBGEDUCTZHQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with eye makeup products, particularly mascaras and magnetic eyelash kits, as well as hair brushes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in enhancing eye appearance through effective mascaras and false eyelashes\n* Appreciation for beauty products that save time, such as quick-drying magnetic eyeliners\n* Critical of products that do not perform better than standard or cheaper alternatives\n* Seeks quality in beauty tools, noting the firmness and comfort of hair brushes\n\"User_Profile\": The user values eye makeup products that provide noticeable enhancements and efficiency in their beauty routine. They are willing to invest in innovative products like magnetic eyelashes that offer convenience. The user is discerning about product performance and comfort, expecting beauty tools to be both effective and gentle.",
+        "Candidate_Items": {
+            "1": "Volumizing Mascara for Dramatic Lashes",
+            "2": "Eyelash Curlers with Ergonomic Design",
+            "3": "Gentle Detangling Hair Brushes",
+            "4": "Eye Makeup Remover for Sensitive Skin",
+            "5": "Hair Styling Accessories for Easy Updos"
+        }
+    },
+    {
+        "User_ID": "AEGKJTQWHGBIOTO34OB3GKIGCN7A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with natural skincare products, DIY beauty projects, and high-quality containers for homemade solutions.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in natural oils and skincare products that leave skin feeling soft and refreshed\n* Enjoyment of creating homemade lotions and sanitizers, valuing quality containers for storage\n* Appreciation for multi-purpose oils like argan oil for hair, skin, and nails\n* Critical of product pricing when not aligned with perceived value, even if quality is high\n* Values practicality and functionality in products, especially those used for DIY projects\n\"User_Profile\": The user is enthusiastic about natural beauty and wellness products, particularly those that can be used in multiple ways. They enjoy DIY beauty projects and seek high-quality materials and containers for their creations. The user is price-conscious, expecting products to offer good value for money. They appreciate natural ingredients and practical solutions that enhance their personal care routine.",
+        "Candidate_Items": {
+            "1": "Organic Jojoba Oil for Skin and Hair",
+            "2": "Reusable Glass Jars for DIY Skincare",
+            "3": "Natural Exfoliating Body Scrubs",
+            "4": "Essential Oil Starter Kits",
+            "5": "DIY Beauty Recipe Books"
+        }
+    },
+    {
+        "User_ID": "AEGTJSI4X2EZHAL5VWJV3RCJIO4A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beginner-friendly nail kits, decorative hair accessories, and grooming products for both men and women.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty products that are suitable for beginners, such as nail kits with accessories\n* Appreciation for aesthetically pleasing hair accessories that can also serve as jewelry\n* Concern about the effectiveness of grooming products, noting when products do not improve condition as expected\n* Values products that are budget-friendly yet high in quality and performance\n* Enjoys products that have visual appeal and add a touch of elegance to daily routines\n\"User_Profile\": The user is exploring personal grooming and beauty products, seeking items that are easy to use and provide good results without a steep learning curve. They appreciate attractive designs in functional items, such as hair ties that double as bracelets. The user is attentive to product performance, especially in grooming products like shampoos and conditioners. They value affordability and quality, making them likely to try new products that enhance their personal care routine.",
+        "Candidate_Items": {
+            "1": "Decorative Nail Art Stickers",
+            "2": "Beginner's Makeup Brush Sets",
+            "3": "Moisturizing Beard Oils",
+            "4": "Stylish Hair Clips and Barrettes",
+            "5": "At-Home Manicure Tools"
+        }
+    },
+    {
+        "User_ID": "AEBWGXGGL3Q5DSTMUQSTVUJDWSMA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with fragrances and hair care products specifically designed for blonde hair. She reviewed perfumes with unique and enchanting scents and a purple shampoo that enhances her highlighted blonde hair by removing unwanted yellow and orange tones.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in unique and sensual fragrances with notes like jasmine, vanilla, musk, cocoa, rum, and vetiver\n* Preference for hair care products that maintain and brighten blonde hair, preventing fade and boosting shine\n* Likes lightweight moisturizers that absorb quickly and have subtle scents\n* Appreciation for affordable alternatives to high-end beauty products\n\"User_Profile\": The user appears to value personal grooming and enjoys exploring new fragrances and beauty products that enhance her appearance. She is attentive to hair care, especially products that maintain her blonde highlights. She appreciates effective products with pleasant scents that offer good value. She is likely open to trying new beauty products that complement her existing routine, particularly those with appealing fragrances and benefits for her hair and skin.",
+        "Candidate_Items": {
+            "1": "Lightweight Scented Body Lotions",
+            "2": "Hair Serums for Color Protection",
+            "3": "Exfoliating Sugar Scrubs with Natural Oils",
+            "4": "Aromatherapy Shower Gels",
+            "5": "Scented Candles with Unique Fragrances"
+        }
+    },
+    {
+        "User_ID": "AEC6IZVI2NGFBCIYVD4X5MDGB6DQ_2",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with grooming tools and bath products. They reviewed moisturizing bath bombs with great aromas, nail files, a high-quality tweezer and scissors set, and bath petal balls.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in high-quality grooming tools that are effective and durable\n* Preference for bath products that provide pleasant aromas and moisturizing benefits\n* Value-conscious, appreciating products that offer good quality for the price\n* Critical of products that do not meet expectations or are misleading in presentation\n\"User_Profile\": The user values personal grooming and relaxation. They appreciate high-quality tools for personal care and enjoy bath products that enhance the bathing experience with pleasant scents and moisturizing effects. They are discerning shoppers who pay attention to product quality, effectiveness, and value for money. They may have an interest in hair care products that address specific needs, such as maintaining hair color or improving hair condition.",
+        "Candidate_Items": {
+            "1": "Moisturizing Body Lotions with Natural Ingredients",
+            "2": "Luxury Scented Bath Soaps",
+            "3": "High-Quality Manicure Sets",
+            "4": "Aromatherapy Essential Oil Diffusers",
+            "5": "Comfortable Bath Pillows for Tub Relaxation"
+        }
+    },
+    {
+        "User_ID": "AECADZLPUNH3BDNACLFF7PSHN5MQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with wigs, skincare masks, and at-home hair care products. She reviewed high-quality synthetic wigs that look incredible, skincare masks that make her face feel clean, and haircut kits for at-home use.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty and personal care products, including wigs, masks, and nail polishes\n* Enjoys experimenting with different looks using wigs and appreciates those that look realistic and are easy to manage\n* Values skincare products that contribute to relaxation and improve skin appearance\n* Prefers products that are complete and include all necessary components\n* Appreciates products that are good value and meet her expectations\n\"User_Profile\": The user enjoys experimenting with her appearance through wigs and beauty products. She values high-quality synthetic wigs that look natural and allow her to change her style. She appreciates skincare products that provide relaxation and improve her skin. She engages in proactive beauty routines, including at-home haircuts and DIY treatments. She prefers effective, complete products that offer good value.",
+        "Candidate_Items": {
+            "1": "Makeup Sets for Complete Looks",
+            "2": "Hair Styling Tools for Home Use",
+            "3": "Facial Steaming Devices",
+            "4": "Synthetic Wig Care Kits",
+            "5": "DIY Nail Art Accessories"
+        }
+    },
+    {
+        "User_ID": "AECIT3NMW6RKABFS6YOCYX4YUYOQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with gel nail polish sets and natural skincare products. They appreciate nail polish sets where each bottle has the color labeled on the cap for easy selection. They attempted to use coconut oil for skincare but were disappointed due to the product being refined.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in high-quality nail polish products with organizational features to simplify use\n* Preference for natural and effective skincare products, particularly those suitable for facial care\n* Values products that meet their intended purpose and are as described\n* Appreciates companies that offer quality products but is critical when products do not meet expectations\n\"User_Profile\": The user enjoys nail care and values convenience and organization in their beauty routine. They are interested in natural skincare products and are attentive to product details and effectiveness. They prefer high-quality products that meet their needs and have clear, accurate descriptions. They appreciate well-designed products for ease of use and are likely interested in natural, organic skincare products that align with their preferences.",
+        "Candidate_Items": {
+            "1": "Natural Face Oils with Unrefined Ingredients",
+            "2": "Nail Polish Organizers with Color Display",
+            "3": "Organic Skincare Sets",
+            "4": "Labeling Tools for Beauty Products",
+            "5": "Eco-Friendly Makeup Brushes"
+        }
+    },
+    {
+        "User_ID": "AECOPBDL3PHOESNB2RXKPZSXGBOA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with gel nail polish products, particularly a gel top coat that can be cured over regular nail polish for long-lasting results. They also showed interest in practical household items like amber glass spray bottles for homemade cleaners and automatic soap dispensers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail care products that enhance durability and appearance, appreciating innovations that simplify the process\n* Preference for practical and functional household items that aid in organization and cleanliness\n* Values products that work as advertised and meet practical needs, especially those that help manage messes with a young child at home\n* Attention to product quality and functionality, offering feedback on improvements\n\"User_Profile\": The user enjoys nail care and values products that improve the efficiency and results of at-home manicures. They are practical and appreciate household items that are functional and help maintain a clean environment, particularly with a young child. They value effective, high-quality products that deliver on their promises. They are likely interested in gel nail polish sets and nail art kits for professional-looking results at home.",
+        "Candidate_Items": {
+            "1": "Quick-Drying Nail Polish Dryers",
+            "2": "Child-Friendly Hand Sanitizer Dispensers",
+            "3": "All-in-One Manicure Kits",
+            "4": "Reusable Cleaning Cloths",
+            "5": "Kitchen Organization Containers"
+        }
+    },
+    {
+        "User_ID": "AE3QBGRRHKT3GFDPRXFEN7JICEZQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty products focusing on eye makeup and nail care. Specifically, they have reviewed mascaras that enhance lash length and volume, gel nail polish sets with unique colors, nail lamps, and hair styling tools.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in makeup products that enhance appearance, particularly eyes and nails\n* Preference for unique and high-quality nail polishes, including indie-style and seasonal colors\n* Appreciation for effective beauty tools that improve at-home beauty routines, such as nail lamps and curling irons\n* Desire for products that are efficient and deliver promised results\n\"User_Profile\": The user appears to be someone who enjoys at-home beauty treatments, with a strong focus on nails and eye makeup. They value high-quality, unique products that enhance their appearance and are interested in tools that make their beauty routines more efficient. They appreciate products that deliver on their promises and improve the overall at-home beauty experience.",
+        "Candidate_Items": {
+            "1": "Unique Gel Nail Polish Sets",
+            "2": "High-Wattage Nail Lamps",
+            "3": "Volumizing and Lengthening Mascaras",
+            "4": "Advanced Hair Curling Tools",
+            "5": "Nail Art Accessories"
+        }
+    },
+    {
+        "User_ID": "AE3UKETTR77J4LM2ZE4AEUC4L6KA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail art tools and makeup products that control oiliness. Specifically, they have reviewed dappen dishes for nail liquids, a rhinestone picker tool, and an oil-absorbing product for the face.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail art and nail care products, including tools and accessories\n* Appreciation for high-quality and convenient beauty tools\n* Concern about oily skin and preference for products that absorb oil and refresh makeup\n* Values products that are effective and enhance the beauty routine\n\"User_Profile\": The user appears to be someone who is passionate about nail art and beauty routines, valuing high-quality tools that enhance their experience. They are conscious of oily skin and prefer products that help manage oiliness and keep makeup fresh throughout the day. They appreciate products that are both practical and effective.",
+        "Candidate_Items": {
+            "1": "Press-On Nails with Designs",
+            "2": "Oil-Control Makeup Products",
+            "3": "Nail Art Accessories",
+            "4": "Facial Blotting Papers",
+            "5": "Professional Nail Art Tools"
+        }
+    },
+    {
+        "User_ID": "AE53TOMIUB7ENP3RD44KDAARU6AQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products focused on moisturizing and anti-aging benefits, including a retinol serum, facial scrub, and moisturizing cream.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that improve skin texture and appearance\n* Preference for products that are moisturizing, non-irritating, and have minimal scent\n* Focus on anti-aging benefits, such as reducing fine lines and lifting skin\n* Values products that are effective and easy to use\n\"User_Profile\": The user appears to be someone who prioritizes skincare, particularly products that offer moisturizing and anti-aging benefits. They prefer products that are gentle, non-irritating, and have minimal scent. The user appreciates products that improve skin texture and help in reducing signs of aging.",
+        "Candidate_Items": {
+            "1": "Anti-Aging Face Masks",
+            "2": "Hydrating Skincare Treatments",
+            "3": "Gentle Exfoliating Products",
+            "4": "Unscented Skincare Items",
+            "5": "Products with Hyaluronic Acid"
+        }
+    },
+    {
+        "User_ID": "AE5GH4VM5Q5HNUL4EOAYRLNB7RVA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail art products and makeup, including nail polishes, gem pickers, press-on nails, and eyeliner.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in nail art and manicure products, including tools and accessories\n* Preference for high-quality, effective products and professional-grade tools\n* Awareness of product performance and sensitivity to skin reactions\n* Values products that cater to specific needs, such as press-on nails that fit larger sizes\n\"User_Profile\": The user appears to be someone who is enthusiastic about nail art and makeup. They value high-quality, effective products and are willing to invest in professional-grade tools to achieve better results. They are attentive to product performance and how it affects their skin, preferring products that are both functional and safe.",
+        "Candidate_Items": {
+            "1": "Vegan and Cruelty-Free Lipsticks",
+            "2": "Professional Nail Art Tools",
+            "3": "Press-On Nails with Various Sizes",
+            "4": "Skin-Friendly Eye Makeup",
+            "5": "High-Quality Matte Lipsticks"
+        }
+    },
+    {
+        "User_ID": "AE5IMGWRBJA7JQFBQTBK25HDYGVA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with moisturizing hair care products, skincare masks, and sun care products that absorb well and don't leave residue.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in moisturizing products for hair and skin, especially for curly and long hair\n* Preference for products that absorb fully and don't leave residue or tackiness\n* Sensitivity to strong scents; prefers lightly scented or unscented products\n* Values effectiveness and quality in products, and is critical of products that do not perform as expected\n\"User_Profile\": The user appears to be someone who values high-quality hair and skincare products that provide deep moisture without leaving residue or strong scents. They have curly, long hair that requires special care. They are sensitive to overpowering fragrances and prefer products that are gentle and effective.",
+        "Candidate_Items": {
+            "1": "Moisturizing Hair Masks",
+            "2": "Unscented Hair Care Products",
+            "3": "Deep Conditioning Treatments",
+            "4": "Non-Greasy Skincare Masks",
+            "5": "Hair Accessories for Long Hair"
+        }
+    },
+    {
+        "User_ID": "AEAT2QOOIXWFLBQESCVLAVXLK3RQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare tools and products that enhance skin appearance, and products that promote relaxation and better sleep.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products that improve skin texture and are suitable for acne-prone skin\n* Preference for products that smell good and are practical to use\n* Interest in wellness supplements that improve skin, hair, and nails\n* Enjoyment of fragrances with sweet and long-lasting scents\n* Values products that aid in relaxation and better sleep\n\"User_Profile\": The user appears to be someone who values skincare and wellness products that improve their skin, hair, and nails. They prefer products that are effective, have pleasant scents, and are easy to use. They are interested in products that promote relaxation and aid in better sleep, indicating a focus on overall well-being.",
+        "Candidate_Items": {
+            "1": "Facial Massage Tools",
+            "2": "Skincare for Acne-Prone Skin",
+            "3": "Wellness Supplements",
+            "4": "Relaxation and Sleep Aids",
+            "5": "Pleasantly Scented Skincare"
+        }
+    },
+    {
+        "User_ID": "AE3KLVXGZPANXE5XLXYKHTVAZ3FQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair accessories and beauty products, such as satin headbands, a shiny headband for her niece, a fun dress-up wig, and scalp massaging shampoo brushes. This suggests an interest in hair care and accessories, possibly shared with family members.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in hair care products and accessories for both adults and children\n* Consciousness about product safety and ingredients, as seen in the detailed face lotion review\n* Enjoyment of products that evoke nostalgia, such as 90s-style headbands\n* Appreciation for products that provide enjoyable experiences for the whole family\n\"User_Profile\": The user appears to be someone who values hair care and beauty accessories that can be enjoyed by herself and her family. She pays close attention to product safety and ingredients, indicating a focus on health and wellness. The user also appreciates products that bring a sense of nostalgia and fun to her and her family's routines.",
+        "Candidate_Items": {
+            "1": "Gentle, Fragrance-Free Skincare Products",
+            "2": "Natural Hair Care Accessories",
+            "3": "Kid-Friendly Hair Accessories",
+            "4": "Family-Friendly Beauty Products",
+            "5": "Nostalgic Beauty Items"
+        }
+    },
+    {
+        "User_ID": "AE3LUVAAITFJIUTWBMRPHDQOCOFQ",
+        "User_Profile": "\"Short-Term Interests\": The user recently reviewed dramatic false eyelashes for going out and a skincare cream that left her skin oily. This suggests an interest in makeup products for special occasions and skincare products suitable for oily skin.\n\"Long-Term Preferences\": Analysis of the user's reviews reveals consistent themes:\n* Interest in beauty products such as nail files and false eyelashes\n* Focus on skincare products that leave skin glowing without excess oiliness\n* Concern about products suitable for oily skin types\n* Appreciation for high-quality products that deliver as expected\n\"User_Profile\": The user appears to be someone who values beauty and skincare products that enhance her appearance, especially for special occasions. She is conscious of her oily skin type and seeks products that provide a healthy glow without adding excess oil. The user appreciates quality products that meet her expectations and prefers items that are practical and effective.",
+        "Candidate_Items": {
+            "1": "Eyebrow Grooming Kits",
+            "2": "Oil-Free Skincare Products",
+            "3": "Makeup Tools for Easy Application",
+            "4": "Long-Lasting Makeup Products",
+            "5": "Facial Care Accessories"
+        }
+    },
+    {
+        "User_ID": "AE3PLZHW6NXWBMZ76TDVFQG2MJFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently reviewed several skincare products focused on addressing dry and sensitive skin, including creams, serums, and moisturizers with low-risk and natural ingredients. They show appreciation for products that help with hyperpigmentation, improve skin texture, and have minimal or no fragrance.\n\"Long-Term Preferences\": Consistent themes in the user's reviews include:\n* Preference for skincare products suitable for dry and sensitive skin\n* Emphasis on products with natural, low-risk ingredients, as per EWG ratings\n* Interest in fragrance-free or lightly scented products\n* Appreciation for products that provide deep hydration and anti-aging benefits\n* Attention to products that improve skin tone and address hyperpigmentation\n\"User_Profile\": The user is highly conscious of product ingredients and prioritizes skincare items that are gentle, hydrating, and effective for dry and sensitive skin. They value natural, low-risk ingredients and prefer products without strong fragrances or harsh chemicals. The user is also interested in anti-aging benefits and seeks solutions for specific skin concerns such as hyperpigmentation and improving skin firmness.",
+        "Candidate_Items": {
+            "1": "Hypoallergenic Makeup Products",
+            "2": "Long-Lasting Lip Colors",
+            "3": "Fragrance-Free Cosmetics",
+            "4": "Moisturizing Lipsticks for Sensitive Skin",
+            "5": "Non-Irritating Makeup for Dry Skin"
+        }
+    },
+    {
+        "User_ID": "AEAXAJACFMXIAAH4WOHRMXPSZWFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with makeup products like primer and eyeliner, and skincare products for sensitive skin.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in skincare products suitable for sensitive skin that soothe and hydrate\n* Appreciation for products that make makeup application easier and smoother\n* Enjoyment of fragrances and scented products, but prefers natural scents\n* Values high-quality skincare that improves fine lines and hydrates skin\n* Likes products that are convenient for on-the-go use\n\"User_Profile\": The user appears to be someone with sensitive skin who values skincare products that soothe and hydrate without irritation. They appreciate makeup products that enhance application and convenience, such as primers and eyeliners with unique features. The user enjoys fragrances but prefers natural scents. They value high-quality products that improve skin appearance and enjoy items that offer a pampering experience.",
+        "Candidate_Items": {
+            "1": "Moisturizing Lipsticks for Sensitive Skin",
+            "2": "Vintage-Style Makeup Products",
+            "3": "Long-Lasting Semi-Matte Lipsticks",
+            "4": "High-Quality Skincare Products",
+            "5": "Convenient Makeup Tools"
+        }
+    },
+    {
+        "User_ID": "AECTRGMRKOGAYIV3YXX73CQEQCSQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty sponges, lipsticks, hair clips, and curling wands. They appreciate high-quality makeup products and hair accessories suitable for long or thick hair but are critical of products that are misleading or do not meet expectations.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in beauty tools and products that are effective, high-quality, and perform as advertised\n* Preference for makeup products that are comfortable to wear, long-lasting, and have flattering colors\n* Values hair accessories and tools that are sturdy and suitable for managing long or thick hair\n* Critical of products with misleading images or descriptions, emphasizing the importance of accurate marketing\n* Appreciates detailed product reviews and is discerning in product selection\n\"User_Profile\": The user values quality and functionality in beauty and hair care products. They have long hair and seek accessories and tools that can effectively manage it. They enjoy makeup products that are comfortable and flattering. They are attentive to product descriptions and expect accuracy from sellers. They are likely interested in hair care tools that enhance their routine, such as scalp massagers or brushes suitable for their hair type.",
+        "Candidate_Items": {
+            "1": "High-Quality Hair Brushes for Thick Hair",
+            "2": "Adjustable Hair Dryers with Diffusers",
+            "3": "Long-Wear Liquid Lipsticks",
+            "4": "Heat-Resistant Hair Styling Gloves",
+            "5": "Versatile Makeup Organizer Cases"
+        }
+    },
+    {
+        "User_ID": "AEHGY7TZA4IMOXXBGPTZC7UPM6UQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty and personal care products, including fine mist spray bottles, face masks, wax beads for hair removal, and nail polish sets.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in at-home beauty treatments, such as skincare masks and waxing products\n* Appreciation for high-quality nail polish with thoughtful packaging and ease of application\n* Discerning about product claims and values products that deliver as advertised\n* Enjoys products that enhance DIY beauty routines\n* Critical of products that make exaggerated claims without delivering results\n\"User_Profile\": The user enjoys at-home beauty and self-care routines, focusing on skincare, nail care, and hair removal. They appreciate high-quality products that are thoughtfully designed and deliver on their promises. Attention to detail and functionality in products enhances their at-home beauty experience.",
+        "Candidate_Items": {
+            "1": "Hydrating Facial Sheet Mask Variety Pack",
+            "2": "Electric Wax Warmer Kit for Hair Removal",
+            "3": "Nail Polish Organizer Case with Adjustable Dividers",
+            "4": "Professional Manicure and Pedicure Tool Set",
+            "5": "LED UV Nail Lamp for Gel Nail Polish Curing"
+        }
+    },
+    {
+        "User_ID": "AEHZBUFEOW4TY3K4IYFFR5ZU5B3Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with beauty tools and products for herself and her daughters, including makeup sponges, hair products, and nail care accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in effective beauty tools that enhance makeup application\n* Challenges with beauty products not suited for Asian features\n* Seeks practical hair care solutions for her children\n* Values products simplifying beauty routines and delivering on promises\n* Critical of poor-quality or ineffective products\n\"User_Profile\": The user is practical and values effective beauty tools for herself and her family. She is attentive to how products suit her needs, particularly regarding Asian features. She appreciates products that simplify routines and is critical of those that do not meet expectations, especially for her children's care.",
+        "Candidate_Items": {
+            "1": "Eyelash Curler Designed for Monolid Eyes",
+            "2": "Children's Hair Styling and Detangling Kit",
+            "3": "High-Quality Makeup Brush Set with Case",
+            "4": "Leak-Proof Travel Perfume Atomizers",
+            "5": "Gentle Detangling Hairbrush for Kids"
+        }
+    },
+    {
+        "User_ID": "AEIGRLFPH5Z3EQ73Z23CJ3WX6R6A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with skincare products like face washes, masks, and beauty tools such as jade rollers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Preference for gentle, non-irritating skincare that leaves skin feeling good\n* Enjoys spa-like products providing a luxurious experience at home\n* Values pleasant scents and effective moisturizing properties\n* Appreciates quality packaging suitable for gifting\n* Skeptical of unnecessary products requiring extra effort\n\"User_Profile\": The user values high-quality skincare that's gentle and offers a spa-like experience at home. They appreciate products that make skin feel smooth and are pleasantly scented. Practicality is important, and they prefer simplicity over products needing additional steps.",
+        "Candidate_Items": {
+            "1": "Hydrating Vitamin C Facial Serum",
+            "2": "Aromatherapy Essential Oil Diffuser",
+            "3": "Luxurious Natural Body Butter",
+            "4": "Scented Bath Bomb Gift Set",
+            "5": "Gentle Exfoliating Facial Scrub"
+        }
+    },
+    {
+        "User_ID": "AEIW7GMVHQ4HBUXTTYEMHEMADUMQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care products like heavy-duty nail clippers, gentle body scrubbers, and refreshing essential oil wipes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values practical, effective personal care tools for specific needs\n* Prefers gentle skincare suitable for sensitive skin\n* Enjoys natural ingredients with pleasant scents\n* Appreciates indulgent, high-quality products as treats\n* Seeks products enhancing personal care routines with special experiences\n\"User_Profile\": The user values practicality and effectiveness in personal care, preferring gentle, natural skincare with pleasant scents. They enjoy treating themselves to high-quality products that elevate their personal care routines with a luxurious experience.",
+        "Candidate_Items": {
+            "1": "Aromatherapy Shower Steamers Set",
+            "2": "Natural Exfoliating Foot Peel Mask",
+            "3": "Deep Moisturizing Shea Butter Hand Cream",
+            "4": "Natural Bristle Dry Body Brush",
+            "5": "Lavender-Scented Relaxation Eye Pillow"
+        }
+    },
+    {
+        "User_ID": "AEJU3Z6HDAERETMYI2CXBQVPPDFA",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with hair products including wigs, extensions, headbands, and wig care items. They also use skincare products and beauty accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Passion for hairstyles using wigs and extensions\n* Values high-quality, natural-looking hair products easy to style\n* Appreciates beauty accessories enhancing appearance\n* Uses products to care for and secure wigs\n* Attentive to product quality and durability\n\"User_Profile\": The user is enthusiastic about hair styling, frequently using wigs and extensions to change her look. She values high-quality, natural-looking hair products and accessories. Investing in wig care and styling products is important to maintain quality. She also uses skincare products for overall appearance, appreciating effective items with visible results.",
+        "Candidate_Items": {
+            "1": "Professional Wig Stand Tripod for Styling",
+            "2": "Comprehensive Wig Care Kit",
+            "3": "Heat Styling Tools Safe for Wigs",
+            "4": "Silk Wig Caps for Comfort and Protection",
+            "5": "Decorative Hair Accessory Set with Headbands"
+        }
+    },
+    {
+        "User_ID": "AEK3IYABOEGTXOTX7P6SBQJUP57A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care products, specifically bar soaps, eco-friendly wipes, and facial cleansers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in bar soaps, especially those that appeal to her boyfriend who enjoys trying new ones\n* Critical of products that do not meet expectations or have misleading claims\n* Prefers products that function as advertised and offer good value without unnecessary packaging\n* Appreciates pleasant scents in personal care products\n\"User_Profile\": The user values practical and effective personal care products with pleasant scents. She is skeptical of products that make unsubstantiated claims or are overpriced due to eco-friendly marketing. Cost-effectiveness and authenticity in product performance are important to her.",
+        "Candidate_Items": {
+            "1": "Natural Exfoliating Body Scrub with Essential Oils",
+            "2": "Fragrance-Free Moisturizing Body Lotion",
+            "3": "Reusable Organic Cotton Facial Cleansing Pads",
+            "4": "Deep Cleansing Charcoal Face Mask",
+            "5": "Aromatic Handmade Bath Soap Gift Set"
+        }
+    },
+    {
+        "User_ID": "AEKV4Q3JUQTQA2UR7PH7QLUHUTTQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal care and relaxation products, including face masks, fragrances, bath bombs, and hair accessories.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Enjoys products that enhance relaxation and provide a sensory experience\n* Prefers rich, dark fragrances with depth, suitable for special occasions\n* Values practical and comfortable hair accessories for fine hair\n* Seeks bath products that are moisturizing and effectively scented\n\"User_Profile\": The user appreciates products that contribute to a luxurious self-care routine. She enjoys indulging in scents and bath products that offer both relaxation and skin benefits. Practicality and comfort are important, especially in products like hair accessories. She values high-quality items that enhance her personal pampering time.",
+        "Candidate_Items": {
+            "1": "Luxurious Aromatherapy Bath Oil Set",
+            "2": "Silk Sleep Mask and Pillowcase Set",
+            "3": "Gourmand Scented Candle Collection",
+            "4": "Gentle Exfoliating Body Scrub with Natural Ingredients",
+            "5": "Velvet Hair Scrunchies for Fine Hair"
+        }
+    },
+    {
+        "User_ID": "AELHYMCYVS6T35HA3UH5UGFWTK6Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with personal grooming tools, such as tweezers, laser hair removal devices, and oil-absorbing facial rollers.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Interest in effective and high-quality grooming tools that simplify personal care routines\n* Preference for compact and portable products for convenience\n* Values tools that help manage unwanted hair and maintain appearance\n* Appreciates products that are easy to use and save time\n\"User_Profile\": The user is focused on personal grooming and values tools that enhance efficiency and convenience. She seeks effective solutions for hair removal and managing oily skin. Portability is important, allowing her to maintain her appearance on the go. She values products that make grooming tasks easier and fit seamlessly into her lifestyle.",
+        "Candidate_Items": {
+            "1": "Compact Electric Facial Hair Remover",
+            "2": "Portable LED Lighted Makeup Mirror",
+            "3": "Precision Eyebrow Razor Set",
+            "4": "Travel-Size Facial Mist Hydrator",
+            "5": "Long-Lasting Mattifying Face Powder"
+        }
+    },
+    {
+        "User_ID": "AEMRAZPNN2NBBUDV4YGGYMGPFC6A",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with lotions that have beachy scents, hair accessories for her daughter's thin hair, and perfumes.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Prefers lotions that smell good and effectively moisturize dry skin\n* Enjoys products with beach-like fragrances\n* Values products with good packaging and functionality\n* Seeks effective hair accessories suitable for thin hair\n* Critical of perfumes that do not have lasting scents\n\"User_Profile\": The user appreciates personal care products that offer pleasant, especially beachy, scents and effective moisturizing. She values quality packaging and functionality in products. She seeks hair accessories that work well for her daughter's thin hair and expects perfumes to have a lasting fragrance.",
+        "Candidate_Items": {
+            "1": "Beach-Scented Body Wash",
+            "2": "Long-Lasting Eau de Parfum with Tropical Notes",
+            "3": "Moisturizing Hand Cream with Coconut Fragrance",
+            "4": "No-Slip Hair Clips for Fine Hair",
+            "5": "Aromatic Scented Candles with Ocean Breeze"
+        }
+    },
+    {
+        "User_ID": "AENALXICBEUWDJG6U2GYCGEVM3OQ",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail care accessories, haircutting tools, and hair elastics.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values practical and affordable beauty tools that are well-packaged\n* Enjoys DIY beauty and grooming activities at home\n* Appreciates versatile products that can be used for multiple purposes\n* Seeks good value for money in her purchases\n* Recommends products that are of great quality and reasonably priced\n\"User_Profile\": The user enjoys practical beauty and grooming tools that offer good value and versatility. She engages in DIY beauty routines, such as at-home haircuts and nail care. She appreciates products that are well-made, reasonably priced, and come nicely packaged.",
+        "Candidate_Items": {
+            "1": "All-in-One Manicure and Pedicure Set",
+            "2": "Multipurpose Crafting Tool Kit",
+            "3": "Detangling Brush for All Hair Types",
+            "4": "Reusable Makeup Remover Pads",
+            "5": "Adjustable Hair Styling Tool for Updos"
+        }
+    },
+    {
+        "User_ID": "AEOJWMWHWXTDHZ2X6TLFNHCOEH4Q",
+        "User_Profile": "\"Short-Term Interests\": The user has recently engaged with nail polishes and high-quality products like spray bottles and other well-made items.\n\"Long-Term Preferences\": An analysis of the user's reviews reveals consistent themes:\n* Values high-quality, well-made products that function as expected\n* Appreciates products that are durable and look great\n* Interested in nail care products, particularly nail polishes\n* Possibly engages in DIY or personal care activities using spray bottles\n* Provides positive feedback for products that meet or exceed expectations\n\"User_Profile\": The user enjoys high-quality nail care products and values well-made items that perform reliably. They appreciate durability and aesthetic appeal in products. They may use spray bottles for DIY projects or personal care routines and are satisfied when products function exactly as expected.",
+        "Candidate_Items": {
+            "1": "Deluxe Manicure and Pedicure Kit",
+            "2": "Aromatherapy Essential Oil Starter Set",
+            "3": "Professional Makeup Brush Collection",
+            "4": "Nail Polish Display and Organizer Rack",
+            "5": "High-Quality Stainless Steel Water Bottle"
+        }
+    },
+    {
+        "User_ID": "AFSHXT5PTGDSFW2725SDXIE6ZVEA",
+        "User_Profile": "\"Short-Term Interests\": This user recently wrote about hair spritz containing apple cider vinegar, noting fruity aroma and a slightly high price for the quantity. They also commented on individually sealed wipes with a strange but somewhat appealing scent profile (sweet, fruity, slightly chocolatey). They expressed enthusiasm for microfiber hair towels as a convenient, lightweight solution for drying hair. Lastly, they mentioned a facial cleanser that felt like toothpaste but turned pleasantly foamy on application, with a subtle (almost no) lemon scent.\n\n\"Long-Term Preferences\": Patterns point to:\n- A focus on gentle but effective haircare products (like a vinegar-based spritz that doesn't smell strongly of vinegar)\n- Enjoyment of interesting or unique product fragrances as long as they’re not overpowering\n- Positive experiences with convenient, well-made items such as microfiber towels and fuss-free cleansers\n- Some caution about price-to-quantity ratio in hair or skincare products\n\n\"User_Profile\": Overall, this user gravitates toward mild-scented yet pleasant-smelling beauty solutions. They value ease of use (a single spritz for hair, an easy-dry microfiber towel, or a neat face cleanser) and appreciate the product not feeling too strong or over-scented on hair or skin. They note packaging practicality (like tamper-evident protectors) and weigh cost to performance carefully.\n",
+        "Candidate_Items": {
+          "1": "Gentle Daily Facial Mist with ACV & Natural Fruit Extracts",
+          "2": "Botanical Scented Hand & Body Wipes (Low Irritant Formula)",
+          "3": "Microfiber Hair Wrap 2.0 (Lightweight, Fast-Drying, Extra-Large)",
+          "4": "Fruity Foam Face Wash with Low Acid pH",
+          "5": "Budget-Friendly Multi-Use Hair Spritz with Mild Aroma"
+        }
+      },
+      {
+        "User_ID": "AELZIKZNMROP2SMO5XXVB4V36RJA",
+        "User_Profile": "\"Short-Term Interests\": Their recent reviews highlight a foot callus remover device (liked quiet operation but not strong power), and do-it-yourself nail products—particularly polishes requiring base/top coats and glitter powders that can be messy or bumpy. They mention an LED or UV lamp kit that fell short on being truly ‘complete.’\n\n\"Long-Term Preferences\": Observations:\n- They enjoy at-home spa solutions like callus removers, foot care, nails\n- They want true ‘starter’ or complete kits for nails (base coat, top coat, correct instructions)\n- Messiness and complicated steps turn them off (e.g., the glitter pots without brushes, or incomplete instructions)\n- Price sensitivity: They note competitive price points but expect a certain level of power or thoroughness\n\n\"User_Profile\": This user invests in self-care items especially for foot/nail routine. They want straightforward, user-friendly kits that include all necessary components. They’ll tolerate some effort, but not to the extent of dealing with missing topcoats, extra tools, or underpowered foot devices. They’re mindful of cost-value ratio and prefer convenience plus clarity.\n",
+        "Candidate_Items": {
+          "1": "High-Power Cordless Callus Smoother with Variable Speeds",
+          "2": "All-in-One Nail Dip Glitter Kit (Includes Base, Top, Brush, and Instructions)",
+          "3": "LED Nail Lamp Starter Set with Pre-Measured Glitter Gels",
+          "4": "Powerful Foot Spa & Pedicure Pack (Includes Callus Gel)",
+          "5": "Non-Messy Multi-Color Nail Polish Pots with Built-In Brushes"
+        }
+      },
+      {
+        "User_ID": "AGLIUT3VWAE7UEZHWVHNLDTBOAEQ",
+        "User_Profile": "\"Short-Term Interests\": The user loves argan oil for skin hydration, retinoid or retinol-based serums, double-cleansing routines, and clay masks that deeply clean. They mention dryness solutions, whipped creams with lipids, and they consistently mention high satisfaction when a product truly hydrates and smooths their skin.\n\n\"Long-Term Preferences\":\n- Big on skincare with natural oils (argan oil) and high-end or mid-range retinol serums\n- Double cleansing: a balm/first cleanser followed by a second facial wash\n- Looks for anti-aging benefits (lipids, retinol, whipped moisturizers)\n- Dislikes any product that irritates or is overpriced if the benefits aren’t there\n\n\"User_Profile\": A dedicated skincare enthusiast, focusing on dryness relief, anti-aging, and comfortable yet potent formulations. They don’t mind layering serums, especially if they absorb well. They closely watch retinol percentages for sensitive or semi-sensitive skin. Overall, they love indulgent, nourishing products that yield a “youthful bounce.”\n",
+        "Candidate_Items": {
+          "1": "Deeply Nourishing Argan & Shea Butter Hydrating Night Cream",
+          "2": "Gentle Retinol Blend Serum (with Ceramides) for Sensitive Skin",
+          "3": "Luxurious Whipped Lipid Moisturizer with Plant Oils",
+          "4": "Dual-Phase Cleansing Balm with Essential Lipids",
+          "5": "Enriched Clay Mask Infused with Retinol Booster"
+        }
+      },
+      {
+        "User_ID": "AH36N5HJJQCBDAURJUTFAIB4GRFA",
+        "User_Profile": "\"Short-Term Interests\": They talk about a gentle, effective makeup remover for an elderly parent, a brand called Higher Education's product line (cleanser, cucumber crème, retinol serum) for dryness, brightening, and better skin texture. They highlight packaging that prevents tampering and mention dryness patches on the face.\n\n\"Long-Term Preferences\":\n- Values products safe for mature or sensitive skin (ex: 82-year-old mother’s usage)\n- Notes packaging that’s tamper-evident or protective\n- Prefers comprehensive sets or routines that address dryness (cleanser + day moisturizer + night retinol)\n- Key concerns: dryness, patches, “natural” or mild fragrance, easy absorption\n\n\"User_Profile\": This user wants proven, gentle solutions that are also well-sealed and easy to apply for those with sensitive or mature skin. They appreciate routines (cleanser, moisturizer, retinol at night) that yield hydrated, clearer, smoother skin. They watch out for potentially irritating scents, leaning toward subtle or near-fragrance-free solutions.\n",
+        "Candidate_Items": {
+          "1": "Gentle ‘All-Ages’ Cleansing Balm (Sensitive Skin Focus)",
+          "2": "Daily Cucumber Gel Moisturizer with Collagen Boost",
+          "3": "Nighttime Soothing Retinol Serum for Mature Skin",
+          "4": "Anti-Dryness Protective Face Lotion (SPF-Enriched)",
+          "5": "Complete Hydration Skincare Set (Cleanser + Serum + Cream)"
+        }
+      },
+      {
+        "User_ID": "AF7XNTURXVPO55T5EP4B4DVPQPPQ",
+        "User_Profile": "\"Short-Term Interests\": Complaints about strong makeup remover fragrance, preference for non-irritating scrubs, hair spritz with mild fragrance. They highlight dryness or sensitivity around eyes, as well as foam facial washes that avoid dryness. Also used an aloe gel but found it too scented.\n\n\"Long-Term Preferences\":\n- Tends to watch out for strong scents that can cause eye or skin irritation\n- Prefers gentle, lightly scented or fragrance-free products\n- Drawn to mild face washes that foam well, sugar/salt scrubs that are not too harsh\n- Finds some price points “insane” if it’s a drugstore brand (cost-value watch)\n\n\"User_Profile\": This user tries various skincare and hair products, strongly factoring in scent and sensitivity. They want effective cleansing or moisturizing but do not want overpowering aromas that irritate eyes. They keep an eye on price vs. performance. They enjoy discovering foam cleansers, mild lotions, and workable hair spritzes that can handle mild frizz.\n",
+        "Candidate_Items": {
+          "1": "Subtly Scented Eye-Safe Makeup Remover (Sensitive Formula)",
+          "2": "Mild Foam Face Cleanser with Eye-Friendly Ingredients",
+          "3": "Lightly Fragranced Aloe Cream Gel for Dry Skin",
+          "4": "Nourishing Salt Body Scrub (Fragrance-Free Option)",
+          "5": "Gentle Hair Mist with Minimal Perfume (Anti-Frizz Complex)"
+        }
+      },
+      {
+        "User_ID": "AGSVNZDZNPCMXG5DEFXMZNRH2LCQ",
+        "User_Profile": "\"Short-Term Interests\": They talk about sheet masks (Karuna or Freshme brand) that are highly saturated or address different concerns (like brightening, soothing, clarifying). They tried a coffee body scrub that yields soft skin but is messy. They also used eco-friendly hand wipes for sanitizing.\n\n\"Long-Term Preferences\":\n- Big on mask usage (sheet masks or clay-based) for targeted skincare results (hydration, clarity, pore refinement)\n- Willing to accept some product mess (coffee scrub) if it gives real softness\n- Appreciates eco or Earth-friendly formulations, e.g., biodegradable wipes or packaging\n- Prefers lotions that absorb quickly and smell subtle, or botanical\n\n\"User_Profile\": This user invests in multi-step skincare routines with a particular focus on face masks (sheet or clay) and scrubs. They weigh how messy a product might be against the results. They enjoy mild or pleasantly sweet scents. They frequently mention whether something is giftable or well packaged. They like “clean” or “green” brand values.\n",
+        "Candidate_Items": {
+          "1": "Daily Multi-Pack Sheet Masks with Varying Targeted Benefits",
+          "2": "Coffee-Based Body Scrub with Non-Staining Formula",
+          "3": "Eco-Friendly Biodegradable Hand & Face Wipe Set",
+          "4": "Clay Mask 3-in-1 Kit (Clarifying, Calming, Brightening)",
+          "5": "Lightweight, Quick-Absorb Botanical Hand Lotion"
+        }
+      },
+      {
+        "User_ID": "AELRWE7QQJRKDFHDQHVAODTF5FRA",
+        "User_Profile": "\"Short-Term Interests\": Their recent reviews emphasize professional-quality nail tools. They mention minimal bristle shedding, perfect shapes for nail brushes and files, sturdy-yet-not-too-bulky nail tips, and vibrant gel polishes. A big plus is clever packaging (e.g., a container with a special slot for glue). They also highlight how certain tools or polishes surprise them by being far prettier or more vibrant in person than online.\n\n\"Long-Term Preferences\":\n- They’re a licensed nail tech, so they want professional-grade tools that can hold up in a salon environment\n- Look for minimal or zero shedding in brushes, easy shaping, “perfect” shaping for nails\n- Enthusiasm for bright, shimmering polishes that cure reliably under UV lamp\n- Appreciate thoughtful packaging that helps keep everything organized\n\n\"User_Profile\": A professional nail technician who invests in high-quality gear, from acrylic brushes to sturdy tips, and good polishes. They love getting good value for money but do not compromise on performance—particularly with items like brush bristles, file shapes, and cures for gel polishes. They also appreciate convenience and well-designed storage solutions.\n",
+        "Candidate_Items": {
+          "1": "12-Piece Pro Acrylic Brush Set (Extra-Fine Bristles, Minimal Shedding)",
+          "2": "Multi-Shaped Nail File Collection with Perfect Curved & Straight Edges",
+          "3": "Sculpted Reusable Nail Tips (Semi-Bulky, Contoured Box w/ Glue Slot)",
+          "4": "UV-Cured Glitter Gel Polish Pack (Ultra-Vibrant Colors, 6 Bottles)",
+          "5": "Professional Nail Storage Box (Compartments for Brush, Files, & Glues)"
+        }
+      },
+      {
+        "User_ID": "AGCV6N4LVTEQVYSE3LXR3J2QB3EA",
+        "User_Profile": "\"Short-Term Interests\": They talk about face serums with dropper bottles, watery-gel textures that absorb quickly and smooth fine lines, and face oils that help soften forehead and mouth lines. They also mention multiple clay masks—some watery, some that do not fully dry—and note pros/cons like fragrance or packaging misspellings. They also mention a thick foam cleanser that effectively removes makeup and leaves skin soft.\n\n\"Long-Term Preferences\":\n- They prefer watery or lightweight textures, especially in serums (quick absorption, no stickiness)\n- They watch for strong fragrances that might irritate or put them off\n- They appreciate cleansers that remove makeup thoroughly\n- They enjoy clay masks but want them not to overly dry the skin—prefer gentle formulas\n- They note cost vs. effectiveness (some are pricy but they still like them if results are good)\n\n\"User_Profile\": A user who tries many skincare items, from face oils to serums, cleansers, and clay masks. They like quick-absorbing serums with “no sticky” finish, lightly scented or non-irritating. They enjoy foam cleansers that remove makeup well and consider how comfortable a mask is when it’s on (not drying skin too stiff). They are willing to pay more if results justify it.\n",
+        "Candidate_Items": {
+          "1": "Water-Gel Hyaluronic Serum (Fast Absorb, Light Scent)",
+          "2": "Nourishing Rosehip & Avocado Face Oil for Soothing Lines",
+          "3": "Gentle Cream-to-Foam Makeup Remover Cleanser",
+          "4": "Non-Drying Mineral Clay Mask with Mild Aroma",
+          "5": "Hydration-Packed Overnight Gel Mask (Fragrance-Free)"
+        }
+      },
+      {
+        "User_ID": "AFKZESU3PTCQ2UVDBDSFVFTXBFNQ_1",
+        "User_Profile": "\"Short-Term Interests\": They mention various beauty and self-care items like a refillable mister for multipurpose use, face masks of different brands (like Karuna, FreshMe), heavy-lotion lip balms, storage for perfume/skincare, hair accessories, and face steamers. They frequently talk about convenience, ease of use, or looks (like the container design). Also highlight that certain items are more for decorative/collector reasons (like the Harry Potter brushes) than functional everyday usage.\n\n\"Long-Term Preferences\":\n- Tends to combine practicality (e.g., a dependable mister, good face steamer) with aesthetic appeal (e.g., clear makeup organizer, pretty packaging)\n- Approves of multipurpose items (like a single hand sanitizer for the entire family vs. small travel sizes)\n- Likes subtle or moderate fragrance, not super strong, in lotions, or pleasant scents in skincare\n- Mentions value: “for HP Fans only” or “great price for set.”\n\n\"User_Profile\": This user invests in beauty tools, skincare, hair accessories, and organizes them. They value items that either have collector’s flair or functional, everyday usage. They also appreciate user-friendly features, decent price points, and gentle but effective skincare solutions. They do a variety of beauty rituals from sheet masking to face steaming.\n",
+        "Candidate_Items": {
+          "1": "Travel-Sized Facial Mister (Refillable) with Fine Continuous Spray",
+          "2": "Decorative Makeup Brush Set (Fandom-Themed) Display Holder",
+          "3": "Clear Acrylic Vanity Organizer with Multiple Drawers",
+          "4": "Family-Sized Hand Sanitizer (Aloe-Infused) with Pump",
+          "5": "Compact Face Steamer (Easy Setup, Perfect for Weekly Pamper)"
+        }
+      },
+      {
+        "User_ID": "AGGAEZZTJZWEGLEMKXW5NTNXH7VQ",
+        "User_Profile": "\"Short-Term Interests\": They purchase large quantity hair elastics in various colors, pearl-infused hair ties for fancy looks, wavy headbands that hold hair in place without pulling, etc. They appreciate sturdy, functional hair accessories with variety and color options. They are also watchful of ease-of-use (e.g., not too tight or snagging hair) and price efficiency.\n\n\"Long-Term Preferences\":\n- Enjoy multi-packs of hair accessories with different colors/designs\n- Look for good elasticity that doesn’t damage hair\n- Prefer comfortable designs that don’t pinch or pull\n- Notice convenience features like matching hair accessories to attire\n\n\"User_Profile\": This user invests in simple, functional hair accessories for themselves or kids. They focus on comfort, durability, variety of colors, and a good price to quantity ratio. Possibly a parent or caretaker who enjoys giving color variety in daily hair routines.\n",
+        "Candidate_Items": {
+          "1": "Bulk Soft Hair Ties Multi-Pack (Assorted Colors, Non-Slip)",
+          "2": "Pearl-Accented Ponytail Holders for Party/Occasion",
+          "3": "No-Slip Zigzag Headbands for Thick Hair (Assorted Colors)",
+          "4": "Value Pack Braiding Elastics in Solid & Pastel Shades",
+          "5": "Adjustable Fabric Hairbands (Multicolor Set)"
+        }
+      },
+      {
+        "User_ID": "AEXPTZ272HHG2KO2JAGU5IL45HIQ",
+        "User_Profile": "\"Short-Term Interests\": They have tried multiple masks (some heavy fragrance, some 2-step for face contour). They enjoy a cicaluronic cleansing balm for double-cleansing. They mention a brand Karuna for 7-days-of-glow or multi-day mask sets that address dryness, brightening, etc. They note strong fragrance can cause breakouts or allergic reaction.\n\n\"Long-Term Preferences\":\n- Big on sheet masks or multi-step face care\n- Reticent about strong fragrances—led to breakouts\n- They do double cleansing, especially with balms (like Mizon brand cicaluronic)\n- They appreciate value sets or multi-day kit for consistent usage (like 7-day sets from Karuna)\n\n\"User_Profile\": A skincare enthusiast or semi-pro, focusing on masks (sheet style or 2-step). They are mindful of fragrance as it can cause breakouts. They love the ease of cleansing balms, enjoy brand variety, and appreciate sets that let them do multi-day or multi-purpose skincare routines. They watch out for potential allergies.\n",
+        "Candidate_Items": {
+          "1": "Fragrance-Free Calming Sheet Mask Set (7-Pack)",
+          "2": "2-Step Face + Under-Eye Mask Variety Box",
+          "3": "Gentle Double-Cleanse Duo (Cicaluronic Balm + Foaming Wash)",
+          "4": "Mild Daily Mask for Acne-Prone Skin (Hypoallergenic)",
+          "5": "Large Multi-Day Mask Collection (Brightening, Hydrating, Anti-Aging)"
+        }
+      },
+      {
+        "User_ID": "AFFGJTTHRCSKGMMCNHT7UWTMKKCQ",
+        "User_Profile": "\"Short-Term Interests\": They talk about fiber mascaras that disappointed, a gel polish set (with black base + glitter) that worked decently, hair ties that stretch well, and completeness of kits (like needing base/top coats, or good coverage). They highlight a spool of polishes that are bright and that they used for a week without chipping. They mention a mascara that flaked off after a full day.\n\n\"Long-Term Preferences\":\n- Seems to do nails often, likes sets that cure well under UV lamp\n- Dislikes insufficient coverage (mascara or nail polishes with poor payoff)\n- Mentions “not a true fiber mascara” or dryness/flaking in mascara\n- Enjoys well-labeled or easy-to-use polishes that cure quickly\n\n\"User_Profile\": This user invests in at-home manicure or self-care routines (like the occupant of a nail kit). They have fairly specific expectations for mascara (won’t flake or need reapplication) and prefer bright, chip-resistant polishes. They also want an entire kit or an easy “complete” solution. They watch dryness or flaking in cosmetics.\n",
+        "Candidate_Items": {
+          "1": "Smudge-Proof Fiber Mascara Duo (Long-Wear Formula)",
+          "2": "Complete Gel Polish Starter Bundle (Black Base, Glitter, Top Coat)",
+          "3": "Non-Slip Extra Stretch Hair Tie Pack (Firm Grip)",
+          "4": "Quick-Dry UV Lamp Kit with Detailed Instructions",
+          "5": "Ultra-Sealing Top & Base Coat Set (No Chip Guarantee)"
+        }
+      },
+      {
+        "User_ID": "AECQQBG6YRYCOJL2NCB2H3V6LD6Q",
+        "User_Profile": "\"Short-Term Interests\": They have a small diffuser (commenting on how it’s good for a bedroom but not large spaces), appreciate easy skincare steps (hydrating gel-cream, retinoid product that brightens, multiple hydrating face masks), and look for scents they enjoy (body wash that’s ‘yummy’, though not sudsy enough). They mention dryness in winter and how some products were not hydrating enough then. They also emphasize the pleasant aroma or subtle fragrance in a product.\n\n\"Long-Term Preferences\":\n- Prefers products that are hydrating but also lightweight, with a pleasant (but not overpowering) scent\n- Enjoys face masks for weekly self-care, especially ones that cling well and have lasting benefits\n- May be more sensitive to dryness in cold weather—needs heavier moisturizers\n- Likes retinol/“works quite well” serums that aren’t too harsh\n- Seeks out things that are gentle yet effective for dryness\n\n\"User_Profile\": This user invests in gentle skincare that addresses dryness and mild anti-aging. They appreciate comfortable daily usage (like a small bedroom diffuser, easily absorbed gel-creams, etc.). They are also price- and performance-conscious (e.g., they note the diffuser's short run-time but still find it “nice”). They prize a subtle but pleasant scent in products.\n",
+        "Candidate_Items": {
+          "1": "Compact Ceramic Diffuser (Quiet 8-Hour Mode, No Measuring Cup Needed)",
+          "2": "Ultra-Hydrating Gel-Cream Moisturizer (Lightweight, Perfect for AM Use)",
+          "3": "Retinol Renewal Serum (Gentle Yet Effective for Brightening)",
+          "4": "Rich Winter Body Wash (Creamy Lather, ‘Yummy’ Subtle Scent)",
+          "5": "Thickly Clinging Face Mask (Long-Lasting Hydration for Dry Skin)"
+        }
+      },
+      {
+        "User_ID": "AGJWAZESYDYURVDSAMHKVAM2IBWQ",
+        "User_Profile": "\"Short-Term Interests\": They mention how convenient and easy magnetic eyelashes are; they wonder if the liner is partly glue-based or fully magnetic. They also used a purple hair mask that slightly toned but mostly left hair softer. Finally, they mention a small, USB-powered nail drill that’s easy for removing gel polish or prepping nails. So they like straightforward, minimal-fuss products.\n\n\"Long-Term Preferences\":\n- Simple, time-saving solutions (magnetic lashes, small portable nail drill)\n- Hair treatments that reduce brassiness or maintain color, plus prefer softness afterwards\n- Look for cost-effectiveness vs. results—like “slight difference in tone but I love the softness”\n\n\"User_Profile\": A fairly casual beauty enthusiast who wants easy-to-use items. They enjoy convenient lash application, simple hair color maintenance, and quick nail solutions. Possibly budgets time & money carefully, picks products that are straightforward.\n",
+        "Candidate_Items": {
+          "1": "One-Step Magnetic Lash & Liner Kit (No Glue Needed, Easy Removal)",
+          "2": "Purple Toning Hair Mask with Intensive Conditioner (For Brassiness)",
+          "3": "Portable USB Nail Drill (Low Noise, Good for Gel Removal)",
+          "4": "Hydrating After-Tone Conditioner (Pairs with Purple Mask)",
+          "5": "Magnetic Lash Liner Remover (Gentle, Residue-Free)"
+        }
+      },
+      {
+        "User_ID": "AFNRGRORFAGSB7WGANETBDDYDEAQ",
+        "User_Profile": "\"Short-Term Interests\": They mention a bath pillow that helps with migraines by supporting the neck, hair ties & scrunchies, and a face wash set for men. They also talk about a blow dryer that is heavier and took long to dry. They love decorative eyeshadows and brushes (some were “awful” with bristles falling out). They mention the user rotates certain items in daily routine, e.g., hair towels or headbands.\n\n\"Long-Term Preferences\":\n- They enjoy comfort items for bath & spa (pillow, headbands, hair towels)\n- May be selective about weight & dryness time for blow dryers or other styling tools\n- Dislikes cheaply made hair ties or brushes that break or shed easily\n- Possibly shops for unisex or men’s skincare (like the “husband’s goto” brand)\n- Also invests in a variety of beauty items from eyeshadow palettes to makeup brushes\n\n\"User_Profile\": This user invests in comfortable self-care tools (bath pillow, hair towels, etc.) plus daily beauty/hair items (headbands, blow dryers). They value quality over cheap design. They also mention men’s skincare sets for loved ones, so they may buy for multiple household members.\n",
+        "Candidate_Items": {
+          "1": "Neck-Support Bath Pillow (Secure Suction, Cushioned for Migraine Relief)",
+          "2": "All-in-One Men’s Grooming Face Wash & Moisturizer Kit",
+          "3": "Lightweight Fast-Dry Hair Dryer (Compact Yet Powerful)",
+          "4": "Durable Non-Snag Hair Ties & Headbands Multi-Pack",
+          "5": "Gentle, No-Shed Makeup Brushes (High Density Bristles)"
+        }
+      },
+      {
+        "User_ID": "AEUAQ6BAUEBP2C754LR3ILYHP54Q",
+        "User_Profile": "\"Short-Term Interests\": They have a variety of items: combs that were too rough for hair, individually wrapped wipes that are large and softly scented, a watery hair formula that wasn’t good for curly hair, some negative wig experiences but good for short or mid length hair, and a decent large-watt UV lamp for nails that speeds up the process.\n\n\"Long-Term Preferences\":\n- They prefer items gentle on hair/skin (avoid harsh comb edges that scratch or cause breakage)\n- They like individually wrapped, large wipes for convenience\n- They want any hair product or wig to suit curly or textured hair (lack of frizz or dryness)\n- Good functionality from a UV lamp if it’s truly faster drying\n\n\"User_Profile\": This user invests in hair care or styling accessories but is picky about not damaging curly hair. They appreciate large, well-made sanitary wipes. They watch out for cheaply made wig products. For nails, they want quick, powerful UV lamps that speed curing.\n",
+        "Candidate_Items": {
+          "1": "Gentle-Edge Hair Comb Set (Smooth, Non-Scratch Tips)",
+          "2": "Hypoallergenic, Individually Wrapped Oversized Wipes",
+          "3": "Curl-Friendly Hair Serum or Leave-In",
+          "4": "Quality Lace Wig (Tangle-Free, Pre-Plucked for Easy Wear)",
+          "5": "High-Power UV/LED Nail Lamp (Fast & Even Cure)"
+        }
+      },
+      {
+        "User_ID": "AFGCJIO7DNVCCZPG4KVMKKXVPJLQ",
+        "User_Profile": "\"Short-Term Interests\": They appreciate hair styling solutions (though they found the short spiral curlers underwhelming but liked the body it gave). They also discuss various beauty bottles and body washes, paying special attention to scents (strong men’s cologne vs. floral or minted) or packaging mishaps (like shipping leaks). They mention an emphasis on vegan or cruelty-free when possible. \n\n\"Long-Term Preferences\":\n- Prefers subtle or unisex scents over strong or cologne-like fragrances \n- Enjoys using misters/spray bottles for essential oils and gentle surface spritzes\n- Seeks easy hair styling tools (was disappointed in short length of certain curlers, but liked the final bounce)\n- Cares about vegan labeling or ethically produced items\n\n\"User_Profile\": A user who likes convenient, gentle, and moderately scented personal care/hair items, with a leaning toward cruelty-free. They’re mindful about the packaging and functionality (like well-placed spray nozzles, minimal leaks). They also want hair accessories that don’t involve complicated processes.\n",
+        "Candidate_Items": {
+          "1": "Long Hair Spiral Curlers (Heatless) with Extended Rod Set",
+          "2": "Vegan Rosemary & Mint Luxury Foaming Body Wash (Subtle Scent)",
+          "3": "Glass Spray Bottles (2-Pack) with Fine-Mist Nozzles, Leak-Free",
+          "4": "Lengthy Spiral Curlers for Shoulder-Length or Longer Hair",
+          "5": "Vegan, Lightly Fragranced Shower Gel in Secure Leak-Proof Packaging"
+        }
+      },
+      {
+        "User_ID": "AGNP7WAB6CTY72PMMJZTE2DABPPA",
+        "User_Profile": "\"Short-Term Interests\": They love the novelty of makeup brushes with “Harry Potter” type wands. They also love big pump bottles (shampoo or body wash) that are potent in scent, or foaming types with good lather. They appreciate underwhelming or hype products and their real performance (like a bubble mask that wasn’t so special). They also mention liking portable steamers & convenience in their routine.  \n\n\"Long-Term Preferences\":\n- They enjoy novelty packaging and designs (Harry Potter brushes) but still want performance (actual good bristles!).\n- They look for easy application (pump dispensers, quick foam coverage)\n- Could do more with at-home spa treatments (facial steamer, bubble masks)\n- They watch out for dryness or leftover film.\n\n\"User_Profile\": A user who loves whimsical designs, value convenience, tries new products. They are discerning with practicality: if a product doesn’t meet expectations, they note it. They enjoy self-care steps like facial steaming & bubble mask.\n",
+        "Candidate_Items": {
+          "1": "Harry Potter-Themed Cosmetic Brush Set (Soft Bristles, Weighted Wands)",
+          "2": "Portable Facial Steamer with Extended-Length Cord",
+          "3": "Large Pump Bottle Natural Shampoo (Rich Scent, Easy Lather)",
+          "4": "Real-Bubble Oxygen Mask (Deep Cleansing with Mild Bubble Effect)",
+          "5": "At-Home Spa Face Steamer Kit (Towel Headband + Tools)"
+        }
+      },
+      {
+        "User_ID": "AGN5KJZU3FYSKVWXWM66LXYWL5CQ",
+        "User_Profile": "\"Short-Term Interests\": They often mention items used by or for family members (wife, daughter), such as magnesium foot rubs for calm/relaxation, tinted sun coverage, easy ways to remove waterproof makeup, and daily self-care tools (toothbrushes, scrunchies, bobby pins). They also seek gentle exfoliating/polishing products (face polisher), plus romantic or pampering bath items (bath bombs with rose petals).\n\n\"Long-Term Preferences\":\n- Products that address dryness, especially for sensitive or very dry skin\n- Gentle, everyday personal care items that remain effective (e.g., charcoal-whitening toothbrushes, easy makeup removal)\n- Items that accommodate thick hair (e.g., scrunchies, rubber bands) but without damage\n- Comfortable bath and body accessories for an enhanced, relaxing routine\n\n\"User_Profile\": This user frequently buys practical yet pampering products for themselves and loved ones (wife, daughter). They value convenience (travel-friendly makeup removers) and soothing or romantic touches (bath bombs). They pay attention to dryness concerns, ease of use, and multi-purpose benefits, along with subtle, pleasant scents.\n",
+        "Candidate_Items": {
+          "1": "Hydrating Lavender Foot Cream (Non-Greasy, Calming Before Bed)",
+          "2": "Lightweight, Tinted Sunscreen (Daily Coverage, Moisturizing Formula)",
+          "3": "Travel-Friendly Waterproof Makeup Remover Pads (Compact, Gentle)",
+          "4": "Ultra-Soft Charcoal Toothbrush Set (Gentle on Gums, Whitening Effect)",
+          "5": "Tirtyl Hand Soap Sheet Variety Pack - 240 Pack with Portable Storage Tin - Camping/Outdoor/Travel/Handbag - Lavender & Aloe - Bergamot & Ylang Ylang - Jasmine & Patchouli"
+        }
+      },
+      {
+        "User_ID": "AFPMVI6ZRR7KS7AWRIBCKILWDVIA",
+        "User_Profile": "\"Short-Term Interests\": They comment on various scented body washes and creams (vanilla, lavender, olive), as well as face masks that were too saturated and tore easily. They desire an everyday mascara alternative but found one product lacking. Overall, they like lightly scented, comforting body care products.\n\n\"Long-Term Preferences\":\n- Prefers gentle and reliable skincare (masks that don’t tear, creams that aren’t too overpowering)\n- Enjoys pleasant but not overly chemical fragrances (e.g., vanilla or lavender)\n- Seeks easy-to-apply makeup or personal care items without complicated steps\n- Looks for mid-range pricing but with noticeable quality\n\n\"User_Profile\": This user gravitates toward soft-scented body care and hand creams (lavender, olive). They’re sensitive to product texture and ease of use (disliked masks that ripped easily). A fan of mild, soothing scents and body lotions with a good balance of fragrance and function.\n",
+        "Candidate_Items": {
+          "1": "Gentle Non-Tear Sheet Mask (Hydrating, Easy Application)",
+          "2": "Mild Vanilla-Infused Body Wash (Balanced Scent, Soft Lather)",
+          "3": "Lightweight Everyday Mascara (Easy to Remove, Natural Look)",
+          "4": "Calming Olive Body Cream (Smooth Texture, Not Overpowering)",
+          "5": "Spanature Green Tea Hand & Body Lotion Travel Size Selection, 4 Pack, Revitalizing Moisturizer for Rough and Dry Skin, Nourishing and Gentle for All Skin Types, Made In Korea - 75 ml/2.53oz"
+        }
+      },
+      {
+        "User_ID": "AE23ZBUF2YVBQPH2NN6F5XSA3QYQ",
+        "User_Profile": "\"Short-Term Interests\": They purchase colorful or strongly scented bath items (bath bombs) but prefer a scent that lasts longer. They comment on hair ties that can be itchy on the wrist and have varied results with argan oil shampoo (works for spouse’s hair, leaves their own hair greasy). They enjoy spa-day kits with multiple masks and tools, as well as chapstick packs for convenience. They also mention children’s nail kits—seeking non-toxic, easy removal options.\n\n\"Long-Term Preferences\":\n- Enjoys spa kits and pampering (face, eye, lip masks), hoping for either lasting or mild fragrances\n- Looks for convenience in hair care, such as turbans or wraps, especially if they have thick/curly hair\n- Prefers everyday items in multipacks (chapsticks, hair ties) and pays attention to comfort (itchy or not)\n- Appreciates moderate or budget-friendly beauty solutions, good variety in sets\n\n\"User_Profile\": This user invests in multi-piece, family-friendly items (kids’ nail kits, chapstick variety packs), plus personal spa/beauty bundles. They like easy, comfortable hair solutions. They note scent concerns (too little or too fleeting) but still value fun, colorful experiences (bath bombs). Overall, they appreciate functional packaging and user-friendly design.\n",
+        "Candidate_Items": {
+          "1": "Gentle Bath Fizzies with Longer-Lasting Aroma (Kid & Adult Friendly)",
+          "2": "Non-Itchy Hair Elastics (Durable Wrist Comfort)",
+          "3": "Argan Oil Shampoo & Conditioner Set (Balances Shine, Minimizes Grease)",
+          "4": "Complete At-Home Spa Kit (Face/Eye/Lip Masks + Soft Cleansing Brush)",
+          "5": "Scrunchie Holder Stands with 8 Pack Large Size Scrunchies - Acrylic Hair Ties Organizer for Teenage Girls and VSCO Girls Gift Stuff"
+        }
+      },
+      {
+        "User_ID": "AGCGQWDEGSGIIT7AZZ7RGY5ZU74Q",
+        "User_Profile": "\"Short-Term Interests\": They favor travel-ready or all-in-one sets (hair/skin products in easy-to-use packaging). They highlight salon-quality nails and UV lamps, plus a variety of lotions (unscented hemp, foaming body wash, face oils). They also use tools like shower caps, brow serums, dog grooming brushes, and look for well-made packaging to avoid leaks.\n\n\"Long-Term Preferences\":\n- Prefers gentle, non-stripping formulas for hair (purple shampoos, mild cleansers)\n- Values subtle or no-scent body lotions/oils for a clean skincare routine\n- Looks for well-designed storage (bottles with sturdy material) or gift-ready sets\n- Appreciates multipurpose oils and does DIY combos with essential oils\n\n\"User_Profile\": This user enjoys a broad range of self-care products and invests in quality sets. They like convenience (travel sizes, durable glass bottles, easy pump designs) and are sensitive to packaging. They also prioritize a gentle experience (non-greasy lotions, minimal dryness from shampoos) and occasionally purchase items for pets. Overall, they blend practicality with a mild sense of luxury.\n",
+        "Candidate_Items": {
+          "1": "No-Scent Hemp Body Lotion (Lightweight, Quick Absorption)",
+          "2": "Moisturizing Foaming Body Wash (Thick Lather, Mild Scent)",
+          "3": "Carrier Oil Gift Set (Pure, Ideal for Custom Blends & Winter Skincare)",
+          "4": "Quality Glass Bottle Kit (Durable, Perfect for Homemade Sprays or Serums)",
+          "5": "Beautiful Girl You Can Do Amazing Things, Inspirational Gifts for Women, Christmas Gifts, Amazing Gifts for Teen Girls, Beautiful Gift Makeup Bag, Inspirational Jewelry Dish, Amazing Mirror"
+        }
+      },
+      {
+        "User_ID": "AGQIUTI7M4XUGCRV6E66FAOCX5PQ",
+        "User_Profile": "\"Short-Term Interests\": This user experiments with multiple lash solutions (magnetic lashes, fiber mascaras) but struggles with eye sensitivity (itchiness if lashes are touched). They like travel- or gift-ready kits with miniature products, and appreciate being able to try several items at once. They also mention headbands with missing beads, a sticky body exfoliant, and a delicate room/odor spray. They note having an oily scalp (avoid spraying roots), plus mention skincare for oily/combo skin that keeps shine away.\n\n\"Long-Term Preferences\":\n- Prefers easy-to-apply lash options that won’t irritate sensitive eyes\n- Enjoys a variety of styles in one set (from natural to dramatic)\n- Likes multi-product gift sets/travel sets with nice packaging and design\n- Seeks out hair/scalp solutions that help reduce oiliness and heat damage\n- Looks for face and body items that aren’t too heavy or greasy\n\n\"User_Profile\": This user values versatility—whether it’s different lash styles, multi-use travel kits, or skincare that balances oily/combo skin. They’ll invest in items that are nicely packaged (often used as gifts) and appreciate moderate pricing or variety in a single purchase. They also have some sensitivity concerns (eyes, scalp) and prefer items that solve those issues.\n",
+        "Candidate_Items": {
+          "1": "Sensitive-Lid Magnetic Lash Set (Lightweight, Non-Irritating)",
+          "2": "Gentle Fiber Mascara (Multiple Wand Options, Less Itchiness)",
+          "3": "Modular Travel/Gift Skincare Bundle (Mini Sizes, Pretty Packaging)",
+          "4": "Scalp-Friendly Heat Protectant Spray (Non-Greasy, Focus on Ends)",
+          "5": "All-in-One Men’s Grooming & Skincare Bundle (Face+Body, Travel Bag Included)"
+        }
+      },
+      {
+        "User_ID": "AEXGISIVX7WBUNI7UHHERVB3DF7Q",
+        "User_Profile": "\"Short-Term Interests\": This user (or their spouse) enjoys aromatic, uplifting body sprays (rose/orange), gentle facial cleansers that don’t irritate sensitive skin, and lightly scented bath bombs. They also value strong but pleasant fragrances (like a sweet/spicy perfume) and prioritize moisturizing benefits (bath bombs with oils, hand sanitizer that doesn’t dry out skin).\n\n\"Long-Term Preferences\":\n- Prefers soothing, hydrating products that don’t overwhelm with scent\n- Seeks high-quality gift-friendly items (nice packaging, large sets)\n- Interested in products that are gentle for sensitive or dryness-prone skin\n- Appreciates subtle or sweet scents that last (perfumes, bath products)\n\n\"User_Profile\": This user invests in well-presented, fragrant, and moisturizing items, often using them for self-care or gifting. They note the importance of gentle formulas (for face and hands). They favor good value sets (like big bath bomb boxes) but don’t mind reapplying perfumes mid-day to maintain a pleasant aroma.\n",
+        "Candidate_Items": {
+          "1": "Refreshing Rose-Infused Face Mist (Uplifting, Hydrating)",
+          "2": "Gentle Foaming Facial Cleanser (Minimal Scent, Sensitive-Skin Safe)",
+          "3": "Moisturizing Hand Sanitizer (High Alcohol Content, Non-Drying)",
+          "4": "Sweet & Spicy Perfume (Lightweight, Great for Reapplication)",
+          "5": "Green Tea Travel-Size Lotion Pack (Hydrating, Gentle on Dry Skin)"
+        }
+      },
+      {
+        "User_ID": "AG7JCEMC64AM7JPATDVGP6YZOTXA",
+        "User_Profile": "\"Short-Term Interests\": They enjoy comfortable self-care accessories (real silk sleep mask, hair bands), plus eco-friendly or natural items (bamboo toothbrushes, glass spray bottles, homemade soap ingredients). They frequently mention hair styling and manage long hair, noticing chemical smells in certain products. They also do crafts or DIY (loofah for face scrubs, coffee and salt for soap-making). They love themed items (Harry Potter brushes) and girly designs.\n\n\"Long-Term Preferences\":\n- Prefers sustainable, non-plastic packaging (bamboo, glass) and minimal chemical odors\n- Looks for comfortable yet functional hair tools, given their long hair\n- Enjoys novelty or collectible makeup brushes, but still wants decent performance\n- Values gentle skincare approaches (scrubs, mild shampoos, etc.)\n\n\"User_Profile\": This user invests in environmentally friendly or whimsical beauty/accessory products, often focusing on quality. They enjoy customizing their routine (DIY soap, room sprays) and appreciate subtle, natural-based scents. They’re mindful of packaging quality, wanting functional items that look and feel special.\n",
+        "Candidate_Items": {
+          "1": "Breathable Silk Sleep Mask (Adjustable, No Lash Damage)",
+          "2": "Eco-Friendly Bamboo Hair Brush Set (Long Handle, Minimal Chemical Odor)",
+          "3": "Glass Spray Bottle Kit (DIY Cleaners or Room Sprays, Sturdy Nozzles)",
+          "4": "Natural Loofah for Gentle Exfoliation (Ideal for Face/Body)",
+          "5": "Cell-Defense Face Cream (Helps Calm Skin, Supports Natural Barrier)"
+        }
+      },
+      {
+        "User_ID": "AGADKXWLAJJ4FGWIDIWAPJL5A6HA",
+        "User_Profile": "\"Short-Term Interests\": They’ve recently purchased hair tools (comb/brush for thin, short hair), face masks with heavy essence (cucumber), and lavender lotion that isn’t too heavy or sticky. They dislike unsealed packaging but appreciate subtle, natural scents and moderate coverage (like tinted moisturizers). They use masks to combat dryness or irritation from medical face coverings.\n\n\"Long-Term Preferences\":\n- Items that target dryness or sensitivity without leaving a sticky residue\n- Prefers real or subtle scents (e.g., genuine lavender)\n- Appreciates some thickness in skincare, but not overly heavy\n- Watchful about product packaging safety (sealed or protected)\n\n\"User_Profile\": This user manages delicate or changing hair length, uses face masks to soothe skin, and likes gentle lotions that smell natural. They’re cautious about packaging quality, preferring products that come sealed and well-presented. Overall, they look for practical but comforting self-care items.\n",
+        "Candidate_Items": {
+          "1": "Lightweight Comb & Brush Duo (Ideal for Short or Fine Hair)",
+          "2": "Hydrating Cucumber Sheet Masks (Less Sticky, Gentle on Skin)",
+          "3": "Calming Lavender Body Lotion (Moderate Thickness, Subtle Aroma)",
+          "4": "Tinted Moisturizer with Mild Coverage (Non-Greasy, SPF Optional)",
+          "5": "Portable, Dissolvable Hand Soap Sheets (Mixed Scents, Travel-Friendly)"
+        }
+      },
+      {
+        "User_ID": "AFDNVPMB44ZS5O2CSJTL47BI2QTQ",
+        "User_Profile": "\"Short-Term Interests\": They like comprehensive sets (haircutting shears and thinning scissors, hair ties that can handle thick hair) and scrubs with energizing scents (coffee scrubs). They mention durability (hair ties that won’t snap) and appreciate having different color or style options. They also note the joy of sharing products (spouse using the same items) or using them for quick self-care at home.\n\n\"Long-Term Preferences\":\n- Multi-purpose, durable items that withstand thick hair or multiple uses\n- Prefers strong scents in scrubs or body products, as long as they’re not irritating\n- Values sets that offer complete solutions (hair grooming, styling)\n- Looks for comfortable daily-wear accessories (hair ties that don’t hurt wrist)\n\n\"User_Profile\": This user invests in quality hair-care tools (scissors, ties) to manage thick hair. They enjoy trying unique body or skincare items with standout fragrances (coffee scrubs). They appreciate packs or sets that feel “complete,” suiting family usage or personal convenience. Overall, they prioritize function, durability, and a hint of fun.\n",
+        "Candidate_Items": {
+          "1": "Professional Haircutting Kit (Scissors, Thinning Shears, Styling Comb)",
+          "2": "Extra-Strong Hair Ties for Thick Hair (No Pulling, Break-Resistant)",
+          "3": "Energizing Coffee Scrub (Exfoliating, Refreshing Scent)",
+          "4": "Soft Storage Pouch for Hair Tools (Keeps Accessories Organized)",
+          "5": "Velvet Headband with Button Loops (Ear Relief, Stretchy, Fashionable)"
+        }
+      },
+      {
+        "User_ID": "AEKNMPUXBMNMHDYWMLKOUTEY3LYA",
+        "User_Profile": "\"Short-Term Interests\": They mention a serum plus mini face wash and moisturizer, appreciate variety packs of face masks with attractive packaging (though some aren’t good for sensitive skin), and seek products that instantly hydrate and calm irritated or breakout-prone skin. They dislike extra perfume or mica in formulas.\n\n\"Long-Term Preferences\":\n- Enjoy gift-ready skincare sets (nice presentation and mini sizes)\n- Need gentle formulas that don’t irritate sensitive skin or contain overwhelming fragrance\n- Prefer lightweight but effective moisturizers, especially in drier months\n- Value immediate hydration and calming effects for easily upset skin\n\n\"User_Profile\": This user invests in well-presented, multi-piece skincare sets that handle sensitivity and dryness without too many added fragrances. They enjoy testing different masks or hydrating products, focusing on a soothed, moisturized complexion. They prefer minimal extra ingredients (like mica or heavy parfum) in their skincare.\n",
+        "Candidate_Items": {
+          "1": "Travel Size Skincare Trio",
+          "2": "Variety Face Mask Bundle",
+          "3": "Immediate Hydration Serum",
+          "4": "Fragrance Free Moisturizer",
+          "5": "Aloe Vera Hand And Body Lotion Pack"
+        }
+      },
+      {
+        "User_ID": "AFBUKVT3KQFLL4X536HS4KKBBJ7Q",
+        "User_Profile": "\"Short-Term Interests\": This user prefers exfoliating loofahs (large enough for body use), mask inserts to help with breathing, and practical makeup/storage solutions (travel-friendly organizer, mirror with multiple light settings). They highlight convenience and appreciate sturdy or easy-to-clean items.\n\n\"Long-Term Preferences\":\n- Enjoys body exfoliation tools that are effective yet not too stiff\n- Likes accessories that improve comfort (mask brackets) or simplify makeup routines\n- Favors portable or multi-use storage solutions for travel or home\n- Values bright, adjustable lighting for precise makeup application\n\n\"User_Profile\": This user invests in functional personal-care tools that are easy to pack and store. They appreciate well-organized setups (brush holders, travel makeup compartments) and pay attention to comfort (breathable mask inserts). They often want sturdy, good-quality items that work in daily routines.\n",
+        "Candidate_Items": {
+          "1": "Large Body Loofah",
+          "2": "Breathable Mask Bracket",
+          "3": "Portable Makeup Organizer",
+          "4": "Adjustable LED Mirror",
+          "5": "Rose Quartz Face And Derma Roller Kit"
+        }
+      },
+      {
+        "User_ID": "AFUWF5DARSSBPDLHSY67Q3LCI54Q",
+        "User_Profile": "\"Short-Term Interests\": They mention home hair-cutting tools, miniature nail starter kits (USB-powered), fiber mascaras, wigs with moderate coverage, beginner-friendly electric nail drills, and a rechargeable makeup mirror. They also enjoy decorative nail art (holographic stickers, glitter polishes) and scalp massage brushes. They favor items that are lightweight, easy to transport, and can be used for self-styling or quick beauty enhancements.\n\n\"Long-Term Preferences\":\n- Looks for convenience in hair and nail tools that can be packed or used at home\n- Appreciates well-priced, functional beauty items (lashes, polishes, etc.)\n- Enjoys swapping styles (wigs, different lash lengths, glitter finishes)\n- Values portable, easy-to-store devices (small drill, rechargeable mirror)\n\n\"User_Profile\": This user invests in practical and fun at-home beauty solutions. They often explore nail art supplies, hair accessories, and simple makeup add-ons. They like versatility and the ability to experiment—magnetic lashes with varied lengths, multiple glitter polish colors, or gentle scalp massagers. Portability and space-efficiency also matter to them.\n",
+        "Candidate_Items": {
+          "1": "Dual-Ended Wax Pencil for Nail Art",
+          "2": "13-Piece Haircutting Scissors Set",
+          "3": "Compact LED Nail Starter Kit",
+          "4": "Volumizing Fiber Mascara",
+          "5": "Beginner-Friendly Electric Nail Drill"
+        }
+      },
+      {
+        "User_ID": "AHV6QCNBJNSGLATP56JAWJ3C4G2A",
+        "User_Profile": "\"Short-Term Interests\": They purchase gentle cleansers (goat milk, no scent), thinner but quickly absorbing lotions, and light or runny serums (Vitamin C, hydrating formulas). They also value comfortable headbands for daily skincare routines and travel-size sets that include serums and eye creams. They prefer mild scents or unscented products, as they have sensitive skin.\n\n\"Long-Term Preferences\":\n- Prefers gentle or subtle formulations (non-greasy, quick absorption)\n- Seeks targeted skincare (Vitamin C, anti-aging, eye creams) in convenient or smaller sizes\n- Enjoys using lotions and serums that don’t irritate sensitive skin\n- Likes headbands with good stretch and protective face masks that don’t slip off\n\n\"User_Profile\": This user invests in practical skincare items suitable for sensitive skin, from mild cleansers to multi-step kits. They appreciate efficient packaging (pump dispensers, travel sizes) and pay attention to comfort and dryness. Overall, they value subtle textures and delicate or no fragrance.\n",
+        "Candidate_Items": {
+          "1": "Hydrating Marine Algae Eye Patches",
+          "2": "Goat Milk Facial Cleanser",
+          "3": "Quick-Absorb Body Lotion",
+          "4": "Fruity-Scent Vitamin C Serum",
+          "5": "Elastic Headband with Buttons"
+        }
+      },
+      {
+        "User_ID": "AHG5KKQMMZJA46LDH73IZ4QUHYXA",
+        "User_Profile": "\"Short-Term Interests\": They mention a citrusy face serum with a sweet, stimulating fragrance, plus a beard conditioner that thickens but also dries. They tested a touch-free soap dispenser that stopped working, and they like gift-ready nail sets and exceptionally soft bristle brushes. They respond well to pleasant scents (like blood orange) and appreciate well-packaged items (for gifting or personal use).\n\n\"Long-Term Preferences\":\n- Prefers balanced hydration in products (not overly oily or drying)\n- Enjoys unique or refreshing scents, especially if they linger subtly\n- Looks for dependable device functionality (battery- or USB-powered)\n- Seeks grooming products that add fullness without leaving hair/bread feeling brittle\n\n\"User_Profile\": This user invests in beard and skincare items that deliver noticeable benefits (thickening, softness) but avoid dryness. They value interesting, uplifting fragrances and decent longevity/quality. They also enjoy gift-worthy packaging, even for everyday items like polishes and brushes.\n",
+        "Candidate_Items": {
+          "1": "Black Oud Vegan Beard Balm",
+          "2": "Citrus-Infused Face Serum",
+          "3": "Beard Thickening Conditioner",
+          "4": "Colorful Gel Polish Gift Set",
+          "5": "Ultra-Soft Bamboo Cleansing Brush"
+        }
+      },
+      {
+        "User_ID": "AH4TB6XJJKH3WLSX2D56JYJ4Z4ZA",
+        "User_Profile": "\"Short-Term Interests\": This user loves long, sturdy nail tips, polygel clips for easier application, aesthetically pleasing nail lamps, and sharp tweezers for brow grooming. They also appreciate compact makeup organizers with mirrors, stamping plates for nail art, and eyeshadow sticks (though they note color payoff might require reapplication). For children, they enjoy playful nail kits that peel off easily.\n\n\"Long-Term Preferences\":\n- Prefers sturdy, well-fitting nail tips and tools to simplify DIY manicures (lamp, polygel clips, stamps)\n- Likes compact or portable beauty organizers for on-the-go touch-ups\n- Enjoys variety in nail designs, from holiday-themed stamping plates to metallic eyeshadow shades\n- Values items that cater to beginners or are easy to use, including child-friendly sets\n\n\"User_Profile\": This user invests in comprehensive DIY nail solutions, from polygel to stamping sets, always wanting to explore different styles. They appreciate convenience (travel-friendly makeup cases) and helpful accessories (brow tweezers). They don’t mind reapplying to achieve the perfect finish and enjoy sharing playful beauty activities with others.\n",
+        "Candidate_Items": {
+          "1": "Gel Polish Starter Set (23 Colors)",
+          "2": "Reusable Polygel Clips",
+          "3": "Gold-Finish Nail Lamp",
+          "4": "Beginner-Friendly Eyebrow Tweezers",
+          "5": "Kids’ Peel-Off Nail Polish Kit"
+        }
+      },
+      {
+        "User_ID": "AH5BEMAKZE5RJ3JSHUYOJ7S2WKBA",
+        "User_Profile": "\"Short-Term Interests\": They mention a mascara that’s light yet defining, bulk cotton pads for easy travel, a fun foaming face mask for children, and thick but richly pigmented polishes. They also tried a stamping nail kit that needs practice and a nail brush set with easy-to-clean tools. They tend to enjoy varied colors (earthy or glittery) and straightforward application.\n\n\"Long-Term Preferences\":\n- Enjoys polishes with fewer coats needed, whether thick or glittery\n- Prefers playful, family-friendly products (kids’ masks, easy craft-like sets)\n- Values accessories and tools that are well-organized and aesthetically pleasing\n- Appreciates good coverage but remains open to a learning curve (stamping plates)\n\n\"User_Profile\": This user invests in quick, creative beauty items—fun face masks, polishes with strong color payoff, or multi-use cotton pads. They like experimenting with different finishes (glitter, thick coats) and appreciate well-designed accessories (nail brushes, stamping plates). While they enjoy novelty, they also want efficiency and good value.\n",
+        "Candidate_Items": {
+          "1": "Confetti Glitter Gel Polish Starter Kit",
+          "2": "Lightweight Defining Mascara",
+          "3": "Bulk Travel-Sized Cotton Pads",
+          "4": "Thick One-Coat Gel Polish Set",
+          "5": "Nail Stamping Practice Bundle"
+        }
+      },
+      {
+        "User_ID": "AH5HSMUMRJRDWBPFDQ6G3EAAOSFQ",
+        "User_Profile": "\"Short-Term Interests\": They tried a vinegar-based hair refresher spray (liked the scent, but didn’t reduce frizz), rose-scented cream cleanser, and bamboo toothbrush sets for eco-friendly use. They also purchased a scissors kit for basic household hair trimming, a rich cruelty-free body cream, and a face product that caused itching (sensitive skin caution). A missing paint kit was a disappointment. They also enjoy full, sexy wigs.\n\n\"Long-Term Preferences\":\n- Favors natural ingredients but remains cautious with sensitive skin\n- Enjoys trying new, lush-scented products (rose, chocolate) but may encounter irritation\n- Prefers eco-friendly or minimal-plastic solutions (bamboo toothbrushes)\n- Values convenience and reliability in multi-tool or multi-color sets\n\n\"User_Profile\": This user invests in gentle yet effective products, especially for dryness. They like interesting scents and textures, but sensitivity is a concern. They also lean toward eco-friendly packaging and expect complete sets (no missing pieces). They appreciate both functional household items (hair scissors) and indulgent beauty finds (full wigs).\n",
+        "Candidate_Items": {
+          "1": "Green Tea Travel Lotion Pack",
+          "2": "Vinegar Hair Refresher Spray",
+          "3": "Rose Cream Cleanser",
+          "4": "Eco-Friendly Bamboo Toothbrush Set",
+          "5": "Luxurious Body Cream for Sensitive Skin"
+        }
+      },
+      {
+        "User_ID": "AH5ONINJRNZ674DXUMV4RMYIFYVQ",
+        "User_Profile": "\"Short-Term Interests\": They mention a bronzer that provides a natural sun-kissed effect (avoiding UV rays), a 70% alcohol hand sanitizer with minimal scent, a derma cream that is very moisturizing but somewhat pricey, a jasmine-scented natural deodorant, plus a rose quartz roller/derma roller kit for potential collagen stimulation.\n\n\"Long-Term Preferences\":\n- Prefers natural alternatives to standard products (bronzer vs. sun, aluminum-free deodorant)\n- Values gentle yet effective skincare, though cost can be a factor\n- Enjoys tools that boost skin texture (microneedling roller, jade roller)\n- Looks for simpler scents (floral, mild) and mindful formulations\n\n\"User_Profile\": This user invests in healthier, less chemically intense beauty and skincare options. They appreciate multi-step routines (face roller, microneedling) and effective, hydrating formulas. They pay attention to cost vs. quantity and love subtle but pleasing scents. Overall, they aim for a self-care approach that feels both natural and reliable.\n",
+        "Candidate_Items": {
+          "1": "Vitamin C Foaming Facial Cleanser",
+          "2": "Cacao Bronzing Lotion",
+          "3": "Gentle High-Alcohol Hand Sanitizer",
+          "4": "Jasmine Natural Deodorant",
+          "5": "Rose Quartz & Derma Roller Kit"
+        }
+      },
+      {
+        "User_ID": "AH5PGJYVXBFVRXAFSTA7AEH4EXRQ",
+        "User_Profile": "\"Short-Term Interests\": They mention nail polish removal clips for gel nails, a gel nail polish kit with a complete prep system, a strong but flexible comb useful for extensions or hair coloring, and a simple lotion with a fresh scent. They appreciate value-priced items that fulfill multiple needs, from salon-like gel nails at home to daily moisturizing.\n\n\"Long-Term Preferences\":\n- Enjoys at-home manicure solutions that protect nail health and simplify polish removal\n- Seeks reliable styling tools (tail combs, etc.) that handle extensions or precision parting\n- Values light, pleasant scents in lotions, especially for dry or rough areas\n- Tends to prefer good deals or sets that are easy to store and use\n\n\"User_Profile\": This user invests in practical beauty tools for nails and hair—often looking for good value or multi-item bundles. They appreciate simple lotions for targeted dryness and like user-friendly styling aids. Overall, they enjoy products that make daily grooming less costly and more convenient.\n",
+        "Candidate_Items": {
+          "1": "Eyebrow Stamp Stencil Kit 2 Colors Waterproof and Long Lasting One Step Easy Color Brow Stamp with 24 Eyebrow Stencils 1 Brush and 1 Razor Dark Brown and Light Brown",
+          "2": "Professional Gel Nail Polish System",
+          "3": "Flexible Metal Tail Comb",
+          "4": "Fresh Scent Daily Lotion",
+          "5": "Gel Removal Clips For Fingernails And Toenails"
+        }
+      },
+      {
+        "User_ID": "AH6JLX5SJSUOJBBT6RRE2RDXIG6A",
+        "User_Profile": "\"Short-Term Interests\": They seek lotions with quality ingredients for very dry skin, a sparkly headband that’s stylish but slightly narrow, and a neck cream that’s thick yet non-goopy. They note past tanning, weight fluctuations, and other factors that affect skin elasticity. They value sealed, well-packaged products and appreciate immediate comfort or moisture.\n\n\"Long-Term Preferences\":\n- Prefers rich formulas that hydrate deeply without feeling overly heavy\n- Likes accessories (headbands) with a fashionable look, though comfort is important\n- Seeks products targeting neck firmness or texture, especially after lifestyle changes\n- Looks for items that offer value in both quantity and efficacy\n\n\"User_Profile\": This user invests in skincare that addresses dryness, elasticity, and aging concerns (neck cream, hydrating lotion). They enjoy small statement accessories but remain mindful of comfort. Sealed packaging and thoughtful ingredients matter, as do moderate thickness and easy absorption.\n",
+        "Candidate_Items": {
+          "1": "NOBLE Wigs for White Women Purple Lace Wigs for Black Women 27 Inch Long Curly Wavy Colored Wigs Middle Part Heat Resistant Synthetic Ombre Purple Wavy Wigs for Daily Party Cosplay Use",
+          "2": "Large Bottle Unscented Hemp Lotion",
+          "3": "Sparkly Narrow Headband",
+          "4": "Deep Firming Neck Cream",
+          "5": "Sealed Hydration Booster Cream"
+        }
+      },
+      {
+        "User_ID": "AH7LDXK3GT67FZKMRW7MP477DJVQ",
+        "User_Profile": "\"Short-Term Interests\": They mention a rose-scented facial toner in a spray bottle, an eyelash curler and mascara combo that provides long, natural lashes, and nose strips that don’t stick well. They also purchase fillable bottles for hand sanitizer, a multi-tool manicure/pedicure set with a weaker case, and a hair wax spray with a unique nozzle. Finally, they tried a lightweight cushion makeup offering a natural finish.\n\n\"Long-Term Preferences\":\n- Prefers easy-to-apply skincare (spray toners, minimal cotton pads)\n- Looks for lash solutions that offer natural length without clumping\n- Values portable containers (for sanitizer or travel cosmetics) and complete grooming kits\n- Enjoys adjustable or specialized application (spray nozzles, cushion compacts)\n\n\"User_Profile\": This user invests in convenience-driven beauty items—spray toners, refillable travel bottles, or all-in-one grooming sets. They aim for natural yet effective results (lush lashes, a lightweight foundation). They appreciate unique product features (two-way nozzles, quick-latching tool cases) but also note any downsides like poorly made straps or ill-fitting nose strips.\n",
+        "Candidate_Items": {
+          "1": "Women Ultra Smooth Razor Womens Razors for Shaving Comfortable handle 5-blade Razor plus 2 Refill Blades for a Smooth and safety Shave Reusable Razors for Girls Women",
+          "2": "Rose Facial Toner Spray",
+          "3": "Curler and Mascara Duo",
+          "4": "Compact Fillable Travel Bottles",
+          "5": "Complete Manicure Pedicure Kit"
+        }
+      },
+      {
+        "User_ID": "AHA6NYC6QHOU7G37PNF5EBIOUBWQ",
+        "User_Profile": "\"Short-Term Interests\": They like wide-tooth and fine-tooth comb sets that are gentle on the scalp, small refillable spray bottles (originally for perfume, now for alcohol sanitizing), and tinted moisturizer that’s thicker than expected, feeling heavy on the skin. They emphasize aesthetic appeal and user-friendly designs but dislike overly heavy or sticky formulas.\n\n\"Long-Term Preferences\":\n- Prefers combs that do not tug or scratch and come in multiple sizes or tooth spacing\n- Looks for travel-friendly containers for sanitizing or other solutions\n- Wants lighter, more breathable skin coverage rather than thick, heavy products\n- Values appearance (pretty designs) alongside function\n\n\"User_Profile\": This user invests in everyday personal-care tools that balance style and comfort—comb sets, compact spray bottles, tinted moisturizers. While they enjoy coverage, they dislike heavy or sticky textures. They respond positively to pretty designs and practical travel options (portable sanitizer sprays).\n",
+        "Candidate_Items": {
+          "1": "Argan Magic 100 Percent Pure Argan Oil Infuses Skin with Hydration",
+          "2": "Double Comb Set Wide and Fine Tooth",
+          "3": "Refillable Mini Spray Bottles",
+          "4": "Lightweight Tinted Moisturizer",
+          "5": "Scalp-Friendly Hairbrush"
+        }
+      },
+      {
+        "User_ID": "AHALZ7AKVAVL7QEVBCI55JVLGXOQ",
+        "User_Profile": "\"Short-Term Interests\": They mention using multiple cleansing products (one felt like an extra step), enjoying silk-like scrunchies that hold thick hair well, and using a jelly-based makeup remover that doesn’t dry skin. They’re okay with certain mascaras but found one applicator too pokey. They like gel polish sets with nice packaging, though the included lamp broke easily.\n\n\"Long-Term Preferences\":\n- Prefers scrunchies that are durable, stylish, and can manage thick hair\n- Appreciates cleansers that remove makeup without feeling overly heavy or oily\n- Looks for sturdy beauty tools (lamps, brushes) and is cautious about breakage\n- Enjoys polishes with good payoff and gift-worthy packaging\n\n\"User_Profile\": This user invests in comfortable, effective hair accessories and gentle cleansers. They appreciate innovative formulas (jelly cleansers) and strong hold scrunchies. They’re mindful of product fragility (e.g., lamps) and prefer items that streamline beauty routines rather than complicate them.\n",
+        "Candidate_Items": {
+          "1": "invisibobble Sprunchie Spiral Hair Ring True Black",
+          "2": "Dual-Texture Cleansing Balm",
+          "3": "High-Elastic Silk Scrunchies Pack",
+          "4": "Gentle Jelly Makeup Remover",
+          "5": "Resilient Gel Nail Lamp"
+        }
+      },
+      {
+        "User_ID": "AHBDPVXHGNIRMIGLCRCABCOLFJTA",
+        "User_Profile": "\"Short-Term Interests\": They enjoy a color-changing essential oil diffuser with multiple light settings and prefer gentle, comfortable scrubbing tools. One large, stiff loofah disappointed them. Another silicone-style brush or back scrubber worked well at lathering and rinsing in a humid climate.\n\n\"Long-Term Preferences\":\n- Likes creating a peaceful, comforting atmosphere (diffuser with essential oils)\n- Seeks bath accessories that aren’t bulky or hard to maneuver\n- Prefers easy drying and mold-resistant materials in humid areas\n- Invests in products that feel soothing and promote relaxation\n\n\"User_Profile\": This user focuses on a calming home spa experience (aromatherapy, gentle scrubbing). They dislike stiff loofahs and favor simpler, well-designed solutions that dry quickly. They likely appreciate versatile bath tools that reduce waste and enhance daily self-care.\n",
+        "Candidate_Items": {
+          "1": "Dr. Au Anti-Aging Face Oil Retinol Serum by Au Natural Skinfood",
+          "2": "Colorful Essential Oil Diffuser",
+          "3": "Gentle Loofah Alternative",
+          "4": "Long-Handle Silicone Scrubber",
+          "5": "Moisturizing Back Brush"
+        }
+      },
+      {
+        "User_ID": "AHBEKWBIK2I7EPZH4L2Z2G4IZWNA",
+        "User_Profile": "\"Short-Term Interests\": They use refillable atomizers for travel (prefer top-fill), appreciate Japanese-designed cleansers with thoughtful features, and enjoy micellar water that’s gentle, fragrance-free, and removes eye makeup effectively. They note minor quality control issues (glue-like residue) but overall value convenient packaging and mild formulas.\n\n\"Long-Term Preferences\":\n- Favors quick, hassle-free makeup removal (micellar, cleansing liquid)\n- Likes top-fill or easy-refill design in perfume atomizers\n- Looks for gentle, non-irritating products (eye makeup removal, fragrance-free options)\n- Values travel-friendly packaging and a smooth texture in cleansers\n\n\"User_Profile\": This user invests in well-designed, user-friendly skincare and travel containers. They appreciate a mild approach to makeup removal, especially around sensitive areas like the eyes. Their purchasing decisions lean toward efficient, clean ingredient solutions and portability.\n",
+        "Candidate_Items": {
+          "1": "Dr. Denese SkinScience Essential Lipid Anti Aging Power Infusion Dry Oil",
+          "2": "Top-Fill Perfume Atomizers Pack",
+          "3": "Floral Scent Makeup Remover",
+          "4": "Gentle Micellar Cleansing Water",
+          "5": "Lightweight Travel Skincare Kit"
+        }
+      },
+      {
+        "User_ID": "AHBFC446AIQBMLC3U4SV6YJJERPQ",
+        "User_Profile": "\"Short-Term Interests\": They enjoy different body scrubbers or back brushes to address dry winter skin and prefer individually wrapped makeup remover wipes for waterproof products. They find hemp lotions slightly thin but still moisturizing. They appreciate well-designed packaging (click-close wipes), bamboo-handled brushes, nail gel removal kits, and spray wax for flexible styling.\n\n\"Long-Term Preferences\":\n- Prefers solutions that combat dryness effectively (lotions, body washes)\n- Looks for user-friendly packaging (individually wrapped wipes, easy bottle closures)\n- Enjoys versatile hair care (spray wax, gentle scalp brushes)\n- Values quick-lather or soft bristles for sensitive or kid-friendly usage\n\n\"User_Profile\": This user invests in daily-use personal care products (bath brushes, lotions, wipes) that simplify routines. They like functional design (packaging that prevents mess) and appreciate lightly scented or mild formulas. They also explore new grooming tools (nail polish remover kits, styling sprays) to keep their regimen fresh.\n",
+        "Candidate_Items": {
+          "1": "Spanature Aloe Vera Hand and Body Lotion Travel Size Selection",
+          "2": "Bamboo Handle Bath Scrubber",
+          "3": "Individually Wrapped Makeup Remover Wipes",
+          "4": "Thin-Consistency Hemp Lotion",
+          "5": "Spray Hair Wax for Flexible Hold"
+        }
+      }
+    
+]
