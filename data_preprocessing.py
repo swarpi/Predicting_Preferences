@@ -159,26 +159,27 @@ def main(args):
     dataset_name = args.dataset_name
     no_meta = args.no_meta
     combine = args.combine_train_val
-
+    dataset_name_output = dataset_name
+    if dataset_name == "All_beauty": dataset_name_output = "beauty" 
     # Paths
-    reviews_gz = f"data/{dataset_name}.jsonl.gz"
-    meta_gz = f"data/meta_{dataset_name}.jsonl.gz"
-    train_gz = f"data/{dataset_name}.train.csv.gz"
-    test_gz = f"data/{dataset_name}.test.csv.gz"
-    val_gz = f"data/{dataset_name}.valid.csv.gz"
+    reviews_gz = f"raw_data/{dataset_name}.jsonl.gz"
+    meta_gz = f"raw_data/meta_{dataset_name}.jsonl.gz"
+    train_gz = f"raw_data/{dataset_name}.train.csv.gz"
+    test_gz = f"raw_data/{dataset_name}.test.csv.gz"
+    val_gz = f"raw_data/{dataset_name}.valid.csv.gz"
 
-    reviews_file = f"data/{dataset_name}.jsonl"
-    meta_file = f"data/meta_{dataset_name}.jsonl"
-    filtered_output = f"data/{dataset_name}_more_than_3_with_product.jsonl"
+    reviews_file = f"raw_data/{dataset_name}.jsonl"
+    meta_file = f"raw_data/meta_{dataset_name}.jsonl"
+    filtered_output = f"raw_data/{dataset_name}_more_than_3_with_product.jsonl"
 
-    train_file = f"data/{dataset_name}.train.csv"
-    test_file = f"data/{dataset_name}.test.csv"
-    val_file = f"data/{dataset_name}.valid.csv"
-
-    train_output = "data/train_output.json"
-    test_output = "data/test_output.json"
-    val_output = "data/val_output.json"
-    combined_train_val_output = "data/combined_train_val_output.json"
+    train_file = f"raw_data/{dataset_name}.train.csv"
+    test_file = f"raw_data/{dataset_name}.test.csv"
+    val_file = f"raw_data/{dataset_name}.valid.csv"
+    
+    train_output = f"data/{dataset_name_output}_train_output.json"
+    test_output = f"data/{dataset_name_output}_test_output.json"
+    val_output = f"data/{dataset_name_output}_val_output.json"
+    combined_train_val_output = f"data/{dataset_name_output}_combined_train_val_output.json"
 
     # Step 1: Extract all gz files
     if not os.path.isfile(reviews_file):

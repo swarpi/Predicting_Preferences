@@ -1,4 +1,5 @@
-/chroma_db_mpnet
 /__pycache__
 /models
 /outputs
+/raw_data
+/data
