@@ -1,3 +1,10 @@
+import os
+import torch
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+RAW_DATA_DIR = os.path.join(BASE_DIR, "raw_data")
+
 # config.py
 
 # Language model parameters
@@ -49,17 +56,26 @@ def get_adapter_name_candidate_items(sample_size, dataset, data_source):
     if dataset == "video_games":
         base += "_video_games"
     return base
-# config.py
+
 DATABASES = {
     "video_games": {
         "db_path": "./chroma_db_video_games",
-        "collection_name": "video_games_product_embeddings_filtered"
+        "collection_name": "video_games_product_embeddings_filtered",
+        "data_paths": {
+            "reduced_file": os.path.join(DATA_DIR, "video_games_combined.json"),
+            "meta_file": os.path.join(RAW_DATA_DIR, "meta_Video_Games.jsonl")
+        }
     },
     "beauty": {
         "db_path": "./chroma_db_beauty",
-        "collection_name": "beauty_product_embeddings_filtered"
+        "collection_name": "beauty_product_embeddings_filtered",
+        "data_paths": {
+            "reduced_file": os.path.join(DATA_DIR, "Beauty_combined.json"),
+            "meta_file": os.path.join(RAW_DATA_DIR, "meta_All_Beauty.jsonl")
+        }
     }
 }
+
 DATASET_CONFIGS_MPNET = {
     "video_games": {
         "db_path": "./chroma_db_video_games_mpnet",
@@ -214,3 +230,16 @@ Candidate Item Categories:
 4. Seasonal Self-Care Kits 
 5. Innovative Hair Care Solutions
 """
+
+EMBEDDING_MODEL_CONFIG = {
+    "name": "hyp1231/blair-roberta-large",
+    "batch_size": 32,
+    "max_length": 512,
+    "device": "cuda" if torch.cuda.is_available() else "cpu"
+}
+
+CHROMA_CONFIG = {
+    "base_path": "./chroma_db",
+    "embedding_function": "default",
+    "distance_function": "cosine"
+}
